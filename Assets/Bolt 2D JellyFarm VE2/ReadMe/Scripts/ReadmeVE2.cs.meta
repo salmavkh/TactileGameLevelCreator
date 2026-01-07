@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d5f382b7a44c4c4fb38fa304c683a9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188722
+  packageName: Bolt 2D JellyFarm Assets Pack
+  packageVersion: 1.0
+  assetPath: Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/ReadmeVE2.cs
+  uploadId: 417298

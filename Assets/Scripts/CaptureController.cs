@@ -148,76 +148,76 @@ public class CaptureController : MonoBehaviour
         RunPythonSAM2(inputPath, runDir);
     }
 
-void RunPythonSAM2(string inputPath, string outDir)
-{
-    string workDir = Path.GetDirectoryName(sam2ScriptPath); // run_sam2 folder
-
-    var psi = new System.Diagnostics.ProcessStartInfo
+    void RunPythonSAM2(string inputPath, string outDir)
     {
-        FileName = pythonExePath,
-        Arguments = $"\"{sam2ScriptPath}\" --in \"{inputPath}\" --out \"{outDir}\"",
-        WorkingDirectory = workDir,               // IMPORTANT
-        UseShellExecute = false,
-        RedirectStandardOutput = true,
-        RedirectStandardError = true,
-        CreateNoWindow = true
-    };
+        string workDir = Path.GetDirectoryName(sam2ScriptPath); // run_sam2 folder
 
-    Debug.Log("Running python:\n" + psi.FileName + " " + psi.Arguments + "\nWD=" + psi.WorkingDirectory);
-
-    try
-    {
-        using (var proc = System.Diagnostics.Process.Start(psi))
+        var psi = new System.Diagnostics.ProcessStartInfo
         {
-            string stdout = proc.StandardOutput.ReadToEnd();
-            string stderr = proc.StandardError.ReadToEnd();
-            proc.WaitForExit();
+            FileName = pythonExePath,
+            Arguments = $"\"{sam2ScriptPath}\" --in \"{inputPath}\" --out \"{outDir}\"",
+            WorkingDirectory = workDir,               // IMPORTANT
+            UseShellExecute = false,
+            RedirectStandardOutput = true,
+            RedirectStandardError = true,
+            CreateNoWindow = true
+        };
 
-            Debug.Log("Python exit code: " + proc.ExitCode);
+        Debug.Log("Running python:\n" + psi.FileName + " " + psi.Arguments + "\nWD=" + psi.WorkingDirectory);
 
-            if (!string.IsNullOrEmpty(stdout))
-                Debug.Log("[PYTHON OUT]\n" + stdout);
-
-            if (!string.IsNullOrEmpty(stderr))
+        try
+        {
+            using (var proc = System.Diagnostics.Process.Start(psi))
             {
-                if (proc.ExitCode == 0)
-                    Debug.LogWarning("[PYTHON STDERR]\n" + stderr);   // warnings only
-                else
-                    Debug.LogError("[PYTHON ERR FULL]\n" + stderr);   // real error
-            }
+                string stdout = proc.StandardOutput.ReadToEnd();
+                string stderr = proc.StandardError.ReadToEnd();
+                proc.WaitForExit();
 
-            if (proc.ExitCode != 0)
-            {
-                Debug.LogError("Python failed. See stderr above.");
-                return;
-            }
+                Debug.Log("Python exit code: " + proc.ExitCode);
 
+                if (!string.IsNullOrEmpty(stdout))
+                    Debug.Log("[PYTHON OUT]\n" + stdout);
+
+                if (!string.IsNullOrEmpty(stderr))
+                {
+                    if (proc.ExitCode == 0)
+                        Debug.LogWarning("[PYTHON STDERR]\n" + stderr);   // warnings only
+                    else
+                        Debug.LogError("[PYTHON ERR FULL]\n" + stderr);   // real error
+                }
+
+                if (proc.ExitCode != 0)
+                {
+                    Debug.LogError("Python failed. See stderr above.");
+                    return;
+                }
+
+            }
         }
-    }
-    catch (System.Exception ex)
-    {
-        Debug.LogError("Failed to run Python: " + ex.Message);
-        return;
-    }
+        catch (System.Exception ex)
+        {
+            Debug.LogError("Failed to run Python: " + ex.Message);
+            return;
+        }
 
-    // Verify outputs
-    string pngPath = Path.Combine(outDir, "objects_only_rgba.png");
-    string jsonPath = Path.Combine(outDir, "objects_contour.json");
+        // Verify outputs
+        string pngPath = Path.Combine(outDir, "objects_only_rgba.png");
+        string jsonPath = Path.Combine(outDir, "objects_contour.json");
 
-    if (!File.Exists(pngPath))
-    {
-        Debug.LogError("Missing output PNG: " + pngPath);
-        return;
-    }
-    if (!File.Exists(jsonPath))
-    {
-        Debug.LogError("Missing output JSON: " + jsonPath);
-        return;
-    }
+        if (!File.Exists(pngPath))
+        {
+            Debug.LogError("Missing output PNG: " + pngPath);
+            return;
+        }
+        if (!File.Exists(jsonPath))
+        {
+            Debug.LogError("Missing output JSON: " + jsonPath);
+            return;
+        }
 
-    SessionManager.RunDir = outDir;
-    SceneManager.LoadScene("Play");
-}
+        SessionManager.RunDir = outDir;
+        SceneManager.LoadScene("Customize");
+    }
 
 
     void OnDisable()
