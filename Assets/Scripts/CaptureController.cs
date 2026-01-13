@@ -17,12 +17,12 @@ public class CaptureController : MonoBehaviour
     [Tooltip("Leave empty to use first camera. Example keyword: USB, Logitech")]
     public string preferredCameraKeyword = "USB";
 
-    [Header("Python SAM2")]
+    [Header("Segmenter Script")]
     [Tooltip("Full path to venv python. Example: /Users/you/.../sam2/run_sam2/venv/bin/python")]
     public string pythonExePath;
 
     [Tooltip("Full path to your script. Example: /Users/you/.../sam2/run_sam2/process_img_for_unity.py")]
-    public string sam2ScriptPath;
+    public string segmenterScriptPath;
 
     WebCamTexture webcamTex;
     Texture2D capturedFrame;
@@ -126,9 +126,9 @@ public class CaptureController : MonoBehaviour
             return;
         }
 
-        if (string.IsNullOrWhiteSpace(pythonExePath) || string.IsNullOrWhiteSpace(sam2ScriptPath))
+        if (string.IsNullOrWhiteSpace(pythonExePath) || string.IsNullOrWhiteSpace(segmenterScriptPath))
         {
-            Debug.LogError("pythonExePath or sam2ScriptPath not set in Inspector.");
+            Debug.LogError("pythonExePath or segmenterScriptPath not set in Inspector.");
             return;
         }
 
@@ -145,17 +145,17 @@ public class CaptureController : MonoBehaviour
         Debug.Log("Saved captured image: " + inputPath);
 
         // 3) Run SAM2 python
-        RunPythonSAM2(inputPath, runDir);
+        RunPythonSegmenter(inputPath, runDir);
     }
 
-    void RunPythonSAM2(string inputPath, string outDir)
+    void RunPythonSegmenter(string inputPath, string outDir)
     {
-        string workDir = Path.GetDirectoryName(sam2ScriptPath); // run_sam2 folder
+        string workDir = Path.GetDirectoryName(segmenterScriptPath); // run_sam2 folder
 
         var psi = new System.Diagnostics.ProcessStartInfo
         {
             FileName = pythonExePath,
-            Arguments = $"\"{sam2ScriptPath}\" --in \"{inputPath}\" --out \"{outDir}\"",
+            Arguments = $"\"{segmenterScriptPath}\" --in \"{inputPath}\" --out \"{outDir}\"",
             WorkingDirectory = workDir,               // IMPORTANT
             UseShellExecute = false,
             RedirectStandardOutput = true,
@@ -226,3 +226,4 @@ public class CaptureController : MonoBehaviour
             webcamTex.Stop();
     }
 }
+
