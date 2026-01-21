@@ -1,0 +1,1493 @@
+fileFormatVersion: 2
+guid: 52ceda864651443a8bc7374b4db0868f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6649136442687306715
+    second: Planet_Large_Invisible_0
+  - first:
+      213: 5533820516182372657
+    second: Planet_Large_Invisible_1
+  - first:
+      213: 6396881575707966438
+    second: Planet_Large_Invisible_2
+  - first:
+      213: 7115082064157559257
+    second: Planet_Large_Invisible_3
+  - first:
+      213: -3990236378321711772
+    second: Planet_Large_Invisible_4
+  - first:
+      213: -2006051880180258236
+    second: Planet_Large_Invisible_5
+  - first:
+      213: -6308420587662123288
+    second: Planet_Large_Invisible_6
+  - first:
+      213: 4784636178841901400
+    second: Planet_Large_Invisible_7
+  - first:
+      213: -7905840968048995276
+    second: Planet_Large_Invisible_8
+  - first:
+      213: -2880774643110183494
+    second: Planet_Large_Invisible_9
+  - first:
+      213: -4655442700209285155
+    second: Planet_Large_Invisible_10
+  - first:
+      213: -5524740298076931453
+    second: Planet_Large_Invisible_11
+  - first:
+      213: 6262600558455425934
+    second: Planet_Large_Invisible_12
+  - first:
+      213: -1005250908830165519
+    second: Planet_Large_Invisible_13
+  - first:
+      213: -7440103631912508991
+    second: Planet_Large_Invisible_14
+  - first:
+      213: -6751407697246130662
+    second: Planet_Large_Invisible_15
+  - first:
+      213: -5112599376063733401
+    second: Planet_Large_Invisible_16
+  - first:
+      213: 6002281386030854147
+    second: Planet_Large_Invisible_17
+  - first:
+      213: 4787368134503821148
+    second: Planet_Large_Invisible_18
+  - first:
+      213: -7112224250066815885
+    second: Planet_Large_Invisible_19
+  - first:
+      213: -2462560165904935191
+    second: Planet_Large_Invisible_20
+  - first:
+      213: -7959673530052676369
+    second: Planet_Large_Invisible_21
+  - first:
+      213: -7800938497347762496
+    second: Planet_Large_Invisible_22
+  - first:
+      213: -6631459291507856715
+    second: Planet_Large_Invisible_23
+  - first:
+      213: -7946646449890759424
+    second: Planet_Large_Invisible_24
+  - first:
+      213: -3378836306812394350
+    second: Planet_Large_Invisible_25
+  - first:
+      213: 2776395217246829029
+    second: Planet_Large_Invisible_26
+  - first:
+      213: -1949016491908483406
+    second: Planet_Large_Invisible_27
+  - first:
+      213: -605047939849422861
+    second: Planet_Large_Invisible_28
+  - first:
+      213: -6575464768753609313
+    second: Planet_Large_Invisible_29
+  - first:
+      213: 6835049913963042055
+    second: Planet_Large_Invisible_30
+  - first:
+      213: -5745648079021447603
+    second: Planet_Large_Invisible_31
+  - first:
+      213: 4215660069133981989
+    second: Planet_Large_Invisible_32
+  - first:
+      213: 949777363043917714
+    second: Planet_Large_Invisible_33
+  - first:
+      213: 658512421800736960
+    second: Planet_Large_Invisible_34
+  - first:
+      213: 4759754576309145224
+    second: Planet_Large_Invisible_35
+  - first:
+      213: 619592021493747467
+    second: Planet_Large_Invisible_36
+  - first:
+      213: 8663930490304145778
+    second: Planet_Large_Invisible_37
+  - first:
+      213: 4828634602830275483
+    second: Planet_Large_Invisible_38
+  - first:
+      213: -8322983531964385172
+    second: Planet_Large_Invisible_39
+  - first:
+      213: -6486685260563186115
+    second: Planet_Large_Invisible_40
+  - first:
+      213: -8520805148100725531
+    second: Planet_Large_Invisible_41
+  - first:
+      213: -4007551362956057243
+    second: Planet_Large_Invisible_42
+  - first:
+      213: -3432470027241076961
+    second: Planet_Large_Invisible_43
+  - first:
+      213: 8671617735706303375
+    second: Planet_Large_Invisible_44
+  - first:
+      213: -5701264722847986689
+    second: Planet_Large_Invisible_45
+  - first:
+      213: -2064336362075270644
+    second: Planet_Large_Invisible_46
+  - first:
+      213: -2718391123968586884
+    second: Planet_Large_Invisible_47
+  - first:
+      213: 4886772737054803965
+    second: Planet_Large_Invisible_48
+  - first:
+      213: 5923137480199550261
+    second: Planet_Large_Invisible_49
+  - first:
+      213: 375052448716807795
+    second: Planet_Large_Invisible_50
+  - first:
+      213: -3277379496937469254
+    second: Planet_Large_Invisible_51
+  - first:
+      213: -1966658671192015378
+    second: Planet_Large_Invisible_52
+  - first:
+      213: -318241488366342035
+    second: Planet_Large_Invisible_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 542
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c48e42a589b3a0800000000000000
+      internalID: -6649136442687306715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 548
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b1d5a0741ccc40800000000000000
+      internalID: 5533820516182372657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 551
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb7056a6e946c850800000000000000
+      internalID: 6396881575707966438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 547
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d94dd5a079ddb260800000000000000
+      internalID: 7115082064157559257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 540
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0b44b725df98c0800000000000000
+      internalID: -3990236378321711772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 518
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae9d881721924e0800000000000000
+      internalID: -2006051880180258236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 532
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee53a226ecf378a0800000000000000
+      internalID: -6308420587662123288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 528
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8599a5b2141766240800000000000000
+      internalID: 4784636178841901400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 514
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43495b8c68fc84290800000000000000
+      internalID: -7905840968048995276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 479
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdf67f99be6508d0800000000000000
+      internalID: -2880774643110183494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 500
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd717dd978b846fb0800000000000000
+      internalID: -4655442700209285155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 495
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab6d068fd2453b0800000000000000
+      internalID: -5524740298076931453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b06e8f60a39e650800000000000000
+      internalID: 6262600558455425934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 474
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51a0ddf91ac02f0800000000000000
+      internalID: -1005250908830165519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 450
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e2c78a217fb890800000000000000
+      internalID: -7440103631912508991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 430
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e6ec7487e2e42a0800000000000000
+      internalID: -6751407697246130662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 423
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76166d684f56c09b0800000000000000
+      internalID: -5112599376063733401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 401
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300fe408e136c4350800000000000000
+      internalID: 6002281386030854147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 394
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fef1a24f5207240800000000000000
+      internalID: 4787368134503821148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37439db0abd4c4d90800000000000000
+      internalID: -7112224250066815885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 364
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e69539839a33ddd0800000000000000
+      internalID: -2462560165904935191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 340
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47129b81f898190800000000000000
+      internalID: -7959673530052676369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6caee84cf7db390800000000000000
+      internalID: -7800938497347762496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 332
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae53bc8e258f3a0800000000000000
+      internalID: -6631459291507856715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 307
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d64ae2827d7b190800000000000000
+      internalID: -7946646449890759424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 299
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2942142e746fb11d0800000000000000
+      internalID: -3378836306812394350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e937187dbcb78620800000000000000
+      internalID: 2776395217246829029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 266
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ba62b3d3b3f4e0800000000000000
+      internalID: -1949016491908483406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77139ba107a97f0800000000000000
+      internalID: -605047939849422861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95585191a14fb4a0800000000000000
+      internalID: -6575464768753609313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 233
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705d4dfdea9fade50800000000000000
+      internalID: 6835049913963042055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 191
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46658d838b5340b0800000000000000
+      internalID: -5745648079021447603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_32
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 201
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52997825f78018a30800000000000000
+      internalID: 4215660069133981989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f90f3ca794e2d00800000000000000
+      internalID: 949777363043917714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_34
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 170
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c87d950f81832900800000000000000
+      internalID: 658512421800736960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e42f2a19b0e0240800000000000000
+      internalID: 4759754576309145224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 140
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f0dca29ab399800800000000000000
+      internalID: 619592021493747467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 104
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792141a0e67c3870800000000000000
+      internalID: 8663930490304145778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_38
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 112
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93abdb8691c20340800000000000000
+      internalID: 4828634602830275483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6836d12392de7c80800000000000000
+      internalID: -8322983531964385172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_40
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7e5a9f1aaaf5a0800000000000000
+      internalID: -6486685260563186115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_41
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 87
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f22becd400c980800000000000000
+      internalID: -8520805148100725531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 58
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5652fdfa4415268c0800000000000000
+      internalID: -4007551362956057243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ce1c32ba6d50d0800000000000000
+      internalID: -3432470027241076961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_44
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 44
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b50cce266c75870800000000000000
+      internalID: 8671617735706303375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb0e20f0f901e0b0800000000000000
+      internalID: -5701264722847986689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 12
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02d49914010a53e0800000000000000
+      internalID: -2064336362075270644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 15
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b0747eca5564ad0800000000000000
+      internalID: -2718391123968586884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 28
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df70732c9ed41d340800000000000000
+      internalID: 4886772737054803965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535b817f726333250800000000000000
+      internalID: 5923137480199550261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed7e90734743500800000000000000
+      internalID: 375052448716807795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_51
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac4ea36b86482d0800000000000000
+      internalID: -3277379496937469254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed782dbb5605b4e0800000000000000
+      internalID: -1966658671192015378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Large_Invisible_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 6
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60f12d6d01659bf0800000000000000
+      internalID: -318241488366342035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

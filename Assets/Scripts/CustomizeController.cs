@@ -4,10 +4,13 @@ using UnityEngine.UI;
 
 public class CustomizeController : MonoBehaviour
 {
-    [Header("Preview UI Images")]
+    [Header("Preview UI Images (Canvas)")]
     public Image backgroundPreview;
     public Image characterPreview;
     public Image itemPreview;
+
+    [Header("World Background (behind platform)")]
+    public SpriteRenderer worldBackgroundRenderer;
 
     [Header("Optional Labels")]
     public Text backgroundLabel;
@@ -21,68 +24,98 @@ public class CustomizeController : MonoBehaviour
 
     void Start()
     {
-        // Load any existing selection (default 0 if new run)
         RefreshAll();
     }
 
-    int Wrap(int i, int len) => (i % len + len) % len;
+    int Wrap(int i, int len)
+    {
+        if (len <= 0) return 0;
+        return (i % len + len) % len;
+    }
 
     void RefreshAll()
     {
-        if (backgroundOptions != null && backgroundOptions.Length > 0 && backgroundPreview != null)
-            backgroundPreview.sprite = backgroundOptions[Wrap(SessionManager.BackgroundIndex, backgroundOptions.Length)];
+        // ---- Background ----
+        if (backgroundOptions != null && backgroundOptions.Length > 0)
+        {
+            Sprite bg = backgroundOptions[Wrap(SessionManager.BackgroundIndex, backgroundOptions.Length)];
 
+            // UI preview (thumbnail / selector)
+            if (backgroundPreview != null)
+                backgroundPreview.sprite = bg;
+
+            // World background (behind platform)
+            if (worldBackgroundRenderer != null)
+                worldBackgroundRenderer.sprite = bg;
+        }
+
+        // ---- Character ----
         if (characterOptions != null && characterOptions.Length > 0 && characterPreview != null)
-            characterPreview.sprite = characterOptions[Wrap(SessionManager.CharacterIndex, characterOptions.Length)];
+            characterPreview.sprite =
+                characterOptions[Wrap(SessionManager.CharacterIndex, characterOptions.Length)];
 
+        // ---- Item ----
         if (itemOptions != null && itemOptions.Length > 0 && itemPreview != null)
-            itemPreview.sprite = itemOptions[Wrap(SessionManager.ItemIndex, itemOptions.Length)];
+            itemPreview.sprite =
+                itemOptions[Wrap(SessionManager.ItemIndex, itemOptions.Length)];
 
-        if (backgroundLabel != null) backgroundLabel.text = $"Background {SessionManager.BackgroundIndex + 1}";
-        if (characterLabel != null) characterLabel.text = $"Character {SessionManager.CharacterIndex + 1}";
-        if (itemLabel != null) itemLabel.text = $"Item {SessionManager.ItemIndex + 1}";
+        // ---- Labels ----
+        if (backgroundLabel != null)
+            backgroundLabel.text = $"Background {SessionManager.BackgroundIndex + 1}";
+
+        if (characterLabel != null)
+            characterLabel.text = $"Character {SessionManager.CharacterIndex + 1}";
+
+        if (itemLabel != null)
+            itemLabel.text = $"Item {SessionManager.ItemIndex + 1}";
     }
 
-    // --- Background arrows ---
+    // -------- Background arrows --------
     public void BackgroundLeft()
     {
-        SessionManager.BackgroundIndex = Wrap(SessionManager.BackgroundIndex - 1, backgroundOptions.Length);
+        SessionManager.BackgroundIndex =
+            Wrap(SessionManager.BackgroundIndex - 1, backgroundOptions.Length);
         RefreshAll();
     }
 
     public void BackgroundRight()
     {
-        SessionManager.BackgroundIndex = Wrap(SessionManager.BackgroundIndex + 1, backgroundOptions.Length);
+        SessionManager.BackgroundIndex =
+            Wrap(SessionManager.BackgroundIndex + 1, backgroundOptions.Length);
         RefreshAll();
     }
 
-    // --- Character arrows ---
+    // -------- Character arrows --------
     public void CharacterLeft()
     {
-        SessionManager.CharacterIndex = Wrap(SessionManager.CharacterIndex - 1, characterOptions.Length);
+        SessionManager.CharacterIndex =
+            Wrap(SessionManager.CharacterIndex - 1, characterOptions.Length);
         RefreshAll();
     }
 
     public void CharacterRight()
     {
-        SessionManager.CharacterIndex = Wrap(SessionManager.CharacterIndex + 1, characterOptions.Length);
+        SessionManager.CharacterIndex =
+            Wrap(SessionManager.CharacterIndex + 1, characterOptions.Length);
         RefreshAll();
     }
 
-    // --- Item arrows ---
+    // -------- Item arrows --------
     public void ItemLeft()
     {
-        SessionManager.ItemIndex = Wrap(SessionManager.ItemIndex - 1, itemOptions.Length);
+        SessionManager.ItemIndex =
+            Wrap(SessionManager.ItemIndex - 1, itemOptions.Length);
         RefreshAll();
     }
 
     public void ItemRight()
     {
-        SessionManager.ItemIndex = Wrap(SessionManager.ItemIndex + 1, itemOptions.Length);
+        SessionManager.ItemIndex =
+            Wrap(SessionManager.ItemIndex + 1, itemOptions.Length);
         RefreshAll();
     }
 
-    // --- Navigation buttons ---
+    // -------- Navigation --------
     public void BackToCapture()
     {
         SceneManager.LoadScene("Capture");

@@ -1,0 +1,1168 @@
+fileFormatVersion: 2
+guid: 7432e8909629d46f6b4e125cb8b62d83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6360652739921121993
+    second: Planet_Medium_Invisible_0
+  - first:
+      213: 8874171635263765845
+    second: Planet_Medium_Invisible_1
+  - first:
+      213: -3303128333597782964
+    second: Planet_Medium_Invisible_2
+  - first:
+      213: -5790579734942031634
+    second: Planet_Medium_Invisible_3
+  - first:
+      213: 423389261112306655
+    second: Planet_Medium_Invisible_4
+  - first:
+      213: -1390877492687590228
+    second: Planet_Medium_Invisible_5
+  - first:
+      213: -4679247315761508168
+    second: Planet_Medium_Invisible_6
+  - first:
+      213: -3347871347446053993
+    second: Planet_Medium_Invisible_7
+  - first:
+      213: -4655246168019551915
+    second: Planet_Medium_Invisible_8
+  - first:
+      213: -2119879819488047376
+    second: Planet_Medium_Invisible_9
+  - first:
+      213: 5561290368043423905
+    second: Planet_Medium_Invisible_10
+  - first:
+      213: -3893873685597149502
+    second: Planet_Medium_Invisible_11
+  - first:
+      213: -6766423751775075707
+    second: Planet_Medium_Invisible_12
+  - first:
+      213: 6708956851901251886
+    second: Planet_Medium_Invisible_13
+  - first:
+      213: 2613463079226647098
+    second: Planet_Medium_Invisible_14
+  - first:
+      213: -2237225753981517209
+    second: Planet_Medium_Invisible_15
+  - first:
+      213: 2727394636413080564
+    second: Planet_Medium_Invisible_16
+  - first:
+      213: 4389608290446240667
+    second: Planet_Medium_Invisible_17
+  - first:
+      213: -1868693603733714547
+    second: Planet_Medium_Invisible_18
+  - first:
+      213: -7584403328885217794
+    second: Planet_Medium_Invisible_19
+  - first:
+      213: -6523470802724210843
+    second: Planet_Medium_Invisible_20
+  - first:
+      213: 5730035374853791550
+    second: Planet_Medium_Invisible_21
+  - first:
+      213: -7057117071437572917
+    second: Planet_Medium_Invisible_22
+  - first:
+      213: -5017752849856612258
+    second: Planet_Medium_Invisible_23
+  - first:
+      213: 3575899358451765849
+    second: Planet_Medium_Invisible_24
+  - first:
+      213: 246260498110876436
+    second: Planet_Medium_Invisible_25
+  - first:
+      213: -1752344379799151165
+    second: Planet_Medium_Invisible_26
+  - first:
+      213: -4302080614970655055
+    second: Planet_Medium_Invisible_27
+  - first:
+      213: 6897836684307323305
+    second: Planet_Medium_Invisible_28
+  - first:
+      213: 8038792766843478364
+    second: Planet_Medium_Invisible_29
+  - first:
+      213: 8605962723947678617
+    second: Planet_Medium_Invisible_30
+  - first:
+      213: 4991017560014033408
+    second: Planet_Medium_Invisible_31
+  - first:
+      213: -635409956643030187
+    second: Planet_Medium_Invisible_32
+  - first:
+      213: -6627795608131717467
+    second: Planet_Medium_Invisible_33
+  - first:
+      213: -8479936437617435140
+    second: Planet_Medium_Invisible_34
+  - first:
+      213: 8456458079118341081
+    second: Planet_Medium_Invisible_35
+  - first:
+      213: -5258284430828469802
+    second: Planet_Medium_Invisible_36
+  - first:
+      213: 8757008232078792264
+    second: Planet_Medium_Invisible_37
+  - first:
+      213: -4338928835634011124
+    second: Planet_Medium_Invisible_38
+  - first:
+      213: -4114376003437407252
+    second: Planet_Medium_Invisible_39
+  - first:
+      213: -4321503782822823054
+    second: Planet_Medium_Invisible_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 402
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73de261880c6ab7a0800000000000000
+      internalID: -6360652739921121993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 409
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7ebbb514672b70800000000000000
+      internalID: 8874171635263765845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 410
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c4064084ee822d0800000000000000
+      internalID: -3303128333597782964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 403
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0643f296ab3afa0800000000000000
+      internalID: -5790579734942031634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 373
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb605e2a4e20e500800000000000000
+      internalID: 423389261112306655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 390
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac25422a4c92bce0800000000000000
+      internalID: -1390877492687590228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 392
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0d5d7ab59ff0fb0800000000000000
+      internalID: -4679247315761508168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 375
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79305cd4fb8f981d0800000000000000
+      internalID: -3347871347446053993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 352
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5593235564e356fb0800000000000000
+      internalID: -4655246168019551915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 354
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe45e8298ca492e0800000000000000
+      internalID: -2119879819488047376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 330
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a89700ff1cad2d40800000000000000
+      internalID: 5561290368043423905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 327
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6adb9738e26f9c0800000000000000
+      internalID: -3893873685597149502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 302
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824ea3a275d812a0800000000000000
+      internalID: -6766423751775075707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 299
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e214ff216b00b1d50800000000000000
+      internalID: 6708956851901251886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 272
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3227e6e2d2e44420800000000000000
+      internalID: 2613463079226647098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 269
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7628393b707c3f0e0800000000000000
+      internalID: -2237225753981517209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 240
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f315b1b8f6a9d520800000000000000
+      internalID: 2727394636413080564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b6827ab750bec30800000000000000
+      internalID: 4389608290446240667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89486371111116e0800000000000000
+      internalID: -1868693603733714547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a1843b59ceb690800000000000000
+      internalID: -7584403328885217794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 207
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567bdf42ed9f775a0800000000000000
+      internalID: -6523470802724210843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f159c70dc258f40800000000000000
+      internalID: 5730035374853791550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 158
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45e9ae965101e90800000000000000
+      internalID: -7057117071437572917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 174
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b7954e5c5d5ab0800000000000000
+      internalID: -5017752849856612258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9529015458520a130800000000000000
+      internalID: 3575899358451765849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 142
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b0c184e94ea6300800000000000000
+      internalID: 246260498110876436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd5be5221c6ea7e0800000000000000
+      internalID: -1752344379799151165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 112
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be749d5970fb44c0800000000000000
+      internalID: -4302080614970655055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9dbc60be90abf50800000000000000
+      internalID: 6897836684307323305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 84
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516faa1e678f8f60800000000000000
+      internalID: 8038792766843478364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b872740858e6770800000000000000
+      internalID: 8605962723947678617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0029f5cf608a34540800000000000000
+      internalID: 4991017560014033408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 59
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bbb8fc2029e27f0800000000000000
+      internalID: -635409956643030187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 32
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a63a6d82075504a0800000000000000
+      internalID: -6627795608131717467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfddbe51db6315a80800000000000000
+      internalID: -8479936437617435140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 20
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3b4d791df5b5570800000000000000
+      internalID: 8456458079118341081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d180847b22d607b0800000000000000
+      internalID: -5258284430828469802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465a382794278970800000000000000
+      internalID: 8757008232078792264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04e55e663709c3c0800000000000000
+      internalID: -4338928835634011124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d8b2e2dcc6e6c0800000000000000
+      internalID: -4114376003437407252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet_Medium_Invisible_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bb651b43fe604c0800000000000000
+      internalID: -4321503782822823054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

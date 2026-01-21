@@ -38,6 +38,12 @@ public class PlayBuilder : MonoBehaviour
     public bool listRunDirFiles = true;
     public bool logEachPolygon = true;
 
+    [Tooltip("If true, prints why a polygon was skipped (area too small, silhouette failed, etc.).")]
+    public bool logSkipReasons = true;
+
+    [Tooltip("If true, prints a short summary of skip counts at the end.")]
+    public bool logSummary = true;
+
     void Start()
     {
         GameObject platform = GameObject.Find(platformObjectName);
@@ -54,7 +60,6 @@ public class PlayBuilder : MonoBehaviour
 
         string runDir = SessionManager.RunDir;
 
-        // from your console screenshot:
         string pngPath = Path.Combine(runDir, "objects_only_rgba.png");
         string jsonPath = Path.Combine(runDir, "objects_contour.json");
 
@@ -131,35 +136,70 @@ public class PlayBuilder : MonoBehaviour
 
         int spawned = 0;
 
+        // Debug counters
+        int skippedTooFewPoints = 0;
+        int skippedArea = 0;
+        int skippedSilhouetteNullOrShort = 0;
+        int skippedAfterCleanup = 0;
+
         for (int idx = 0; idx < outersPx.Count; idx++)
         {
             var outer = outersPx[idx];
-            if (outer == null || outer.Count < 3) continue;
+
+            if (outer == null || outer.Count < 3)
+            {
+                skippedTooFewPoints++;
+                if (logSkipReasons) Debug.Log($"SKIP Polygon {idx}: outer is null or <3 points.");
+                continue;
+            }
 
             float area = Mathf.Abs(PolygonAreaPx(outer));
             if (logEachPolygon)
                 Debug.Log($"Polygon {idx}: points={outer.Count}, area(px^2)≈{area:0}");
 
             if (enableAreaFilter && area < minAreaPx)
+            {
+                skippedArea++;
+                if (logSkipReasons)
+                    Debug.Log($"SKIP Polygon {idx}: area too small ({area:0} < {minAreaPx:0}). Lower minAreaFrac or disableAreaFilter.");
                 continue;
+            }
 
-            // Build TOP silhouette in pixel space (exact-ish top outline)
+            // Build TOP silhouette in pixel space
             List<Vector2> topPx = BuildTopSilhouettePx(outer, topEdgeSamples);
-            if (topPx == null || topPx.Count < 2) continue;
+            if (topPx == null || topPx.Count < 2)
+            {
+                skippedSilhouetteNullOrShort++;
+                if (logSkipReasons)
+                    Debug.Log($"SKIP Polygon {idx}: BuildTopSilhouettePx returned {(topPx == null ? "null" : $"only {topPx.Count} pts")}. Try increasing topEdgeSamples or check polygon shape.");
+                continue;
+            }
+
+            int beforeCleanup = topPx.Count;
 
             // Simplify to reduce jitter
             topPx = RemoveNearDuplicates(topPx, 0.5f);
+
             if (simplifyEpsilonPixels > 0f)
                 topPx = DouglasPeuckerOpen(topPx, simplifyEpsilonPixels);
 
-            if (topPx.Count < 2) continue;
+            if (topPx == null || topPx.Count < 2)
+            {
+                skippedAfterCleanup++;
+                if (logSkipReasons)
+                    Debug.Log($"SKIP Polygon {idx}: after cleanup/simplify, top edge <2 points. (before={beforeCleanup}) Try reduce simplifyEpsilonPixels.");
+                continue;
+            }
+
+            if (logSkipReasons)
+                Debug.Log($"PASS Polygon {idx}: topEdge pts before={beforeCleanup} after={topPx.Count}");
 
             // Convert to local points
             var localPts = new Vector2[topPx.Count];
             for (int i = 0; i < topPx.Count; i++)
                 localPts[i] = PxToLocal(topPx[i].x, topPx[i].y, imgW, imgH, pixelsPerUnit);
 
-            // Spawn piece at origin (so points are in platform-local space)
+            // Spawn piece at origin (points are platform-local space)
             GameObject piece = new GameObject($"Piece_{spawned}");
             piece.transform.SetParent(piecesParent, false);
             piece.transform.localPosition = Vector3.zero;
@@ -168,8 +208,7 @@ public class PlayBuilder : MonoBehaviour
 
             if (oneWayLayer != -1) piece.layer = oneWayLayer;
 
-            // One-way setup:
-            // EdgeCollider2D + PlatformEffector2D
+            // One-way setup: EdgeCollider2D + PlatformEffector2D
             var edge = piece.AddComponent<EdgeCollider2D>();
             edge.isTrigger = false;
             edge.edgeRadius = Mathf.Max(0f, edgeThicknessWorld * 0.5f);
@@ -179,9 +218,6 @@ public class PlayBuilder : MonoBehaviour
             var eff = piece.AddComponent<PlatformEffector2D>();
             eff.useOneWay = true;
             eff.useOneWayGrouping = false;
-
-            // Make "top surface only" behave well:
-            // SurfaceArc = 180 means it collides from above (downward normals).
             eff.surfaceArc = 180f;
             eff.sideArc = 0f;
 
@@ -196,11 +232,23 @@ public class PlayBuilder : MonoBehaviour
         Debug.Log($"Spawned one-way top-edge pieces: {spawned}");
         if (spawned == 0)
             Debug.LogWarning("Spawned 0 pieces. Try: enableAreaFilter=false OR reduce minAreaFrac.");
+
+        if (logSummary)
+        {
+            Debug.Log(
+                "---- PlayBuilder Summary ----\n" +
+                $"Total polygons parsed: {outersPx.Count}\n" +
+                $"Spawned: {spawned}\n" +
+                $"Skipped (<3 pts): {skippedTooFewPoints}\n" +
+                $"Skipped (area filter): {skippedArea}\n" +
+                $"Skipped (silhouette fail): {skippedSilhouetteNullOrShort}\n" +
+                $"Skipped (after cleanup): {skippedAfterCleanup}\n" +
+                "----------------------------"
+            );
+        }
     }
 
     // ---------------- TOP SILHOUETTE (pixel space) ----------------
-    // For each x sample across the polygon's bbox, intersect a vertical line with polygon edges.
-    // Choose the "top" intersection = smallest pixel y (because pixel origin is top-left).
     static List<Vector2> BuildTopSilhouettePx(List<Vector2> poly, int samples)
     {
         if (poly == null || poly.Count < 3) return null;
@@ -221,32 +269,27 @@ public class PlayBuilder : MonoBehaviour
             float t = (samples == 1) ? 0.5f : (float)s / (samples - 1);
             float x = Mathf.Lerp(minX, maxX, t);
 
-            // find all edge intersections with vertical line at x
             bool found = false;
-            float bestY = float.PositiveInfinity; // smallest y = top in pixel coords
+            float bestY = float.PositiveInfinity;
 
             for (int i = 0; i < poly.Count; i++)
             {
                 Vector2 a = poly[i];
                 Vector2 b = poly[(i + 1) % poly.Count];
 
-                // Ignore vertical segments that don't cross nicely; handle them via neighbors
                 float dx = b.x - a.x;
                 if (Mathf.Abs(dx) < 1e-6f) continue;
 
-                float x0 = a.x, x1 = b.x;
-                float lo = Mathf.Min(x0, x1);
-                float hi = Mathf.Max(x0, x1);
+                float lo = Mathf.Min(a.x, b.x);
+                float hi = Mathf.Max(a.x, b.x);
 
-                // small epsilon to include boundary
                 if (x < lo - 1e-3f || x > hi + 1e-3f) continue;
 
-                float u = (x - a.x) / dx; // along segment
+                float u = (x - a.x) / dx;
                 if (u < 0f || u > 1f) continue;
 
                 float y = a.y + u * (b.y - a.y);
 
-                // topmost in pixel coords = smallest y
                 if (y < bestY)
                 {
                     bestY = y;
@@ -258,7 +301,6 @@ public class PlayBuilder : MonoBehaviour
                 outPts.Add(new Vector2(x, bestY));
         }
 
-        // clean up any missing regions
         if (outPts.Count < 2) return null;
         return outPts;
     }
@@ -313,14 +355,13 @@ public class PlayBuilder : MonoBehaviour
             }
         }
 
-        // also clean end if too close to start (for open polyline, we keep both usually)
-        if (outPts.Count >= 2 && (outPts[outPts.Count - 1] - outPts[outPts.Count - 2]).sqrMagnitude < minDist2)
+        if (outPts.Count >= 2 &&
+            (outPts[outPts.Count - 1] - outPts[outPts.Count - 2]).sqrMagnitude < minDist2)
             outPts.RemoveAt(outPts.Count - 1);
 
         return outPts;
     }
 
-    // Douglas-Peucker for OPEN polyline (top edge is open, not closed)
     static List<Vector2> DouglasPeuckerOpen(List<Vector2> pts, float epsilon)
     {
         if (pts == null || pts.Count < 3) return pts;
@@ -462,7 +503,6 @@ public class PlayBuilder : MonoBehaviour
                 continue;
             }
 
-            // Only parse numbers inside depth==2 => [x,y]
             if (depth != 2) continue;
             if (c == ',' || char.IsWhiteSpace(c)) continue;
 

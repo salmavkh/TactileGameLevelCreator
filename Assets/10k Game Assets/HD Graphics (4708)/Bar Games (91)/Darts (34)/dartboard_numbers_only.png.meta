@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: 90ccc71c47a4f4cd0bbd06bef5815045
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7629502414680834609
+    second: dartboard_numbers_only_0
+  - first:
+      213: -8576518709878861468
+    second: dartboard_numbers_only_1
+  - first:
+      213: 7686584284236551085
+    second: dartboard_numbers_only_2
+  - first:
+      213: -5267756960535886745
+    second: dartboard_numbers_only_3
+  - first:
+      213: 2332045712944259744
+    second: dartboard_numbers_only_4
+  - first:
+      213: 3996200039272958878
+    second: dartboard_numbers_only_5
+  - first:
+      213: -61967485986405483
+    second: dartboard_numbers_only_6
+  - first:
+      213: -919623238335499752
+    second: dartboard_numbers_only_7
+  - first:
+      213: -9162891305999554397
+    second: dartboard_numbers_only_8
+  - first:
+      213: -7976809003807204207
+    second: dartboard_numbers_only_9
+  - first:
+      213: -7014263284447624682
+    second: dartboard_numbers_only_10
+  - first:
+      213: 7553842294111253190
+    second: dartboard_numbers_only_11
+  - first:
+      213: -3232226165784844126
+    second: dartboard_numbers_only_12
+  - first:
+      213: 7452979848402349162
+    second: dartboard_numbers_only_13
+  - first:
+      213: 6944417438443874601
+    second: dartboard_numbers_only_14
+  - first:
+      213: 1746986160140287136
+    second: dartboard_numbers_only_15
+  - first:
+      213: -9210816637243573961
+    second: dartboard_numbers_only_16
+  - first:
+      213: -6901007878093246607
+    second: dartboard_numbers_only_17
+  - first:
+      213: 8822595084301172878
+    second: dartboard_numbers_only_18
+  - first:
+      213: 2674038326815258045
+    second: dartboard_numbers_only_19
+  - first:
+      213: -4466462615649650533
+    second: dartboard_numbers_only_20
+  - first:
+      213: 4248143788172254482
+    second: dartboard_numbers_only_21
+  - first:
+      213: -2046488064741157842
+    second: dartboard_numbers_only_22
+  - first:
+      213: -1434328080359227063
+    second: dartboard_numbers_only_23
+  - first:
+      213: 406761231619085676
+    second: dartboard_numbers_only_24
+  - first:
+      213: -2429870896882665915
+    second: dartboard_numbers_only_25
+  - first:
+      213: 330341234199486303
+    second: dartboard_numbers_only_26
+  - first:
+      213: 3926282358618654292
+    second: dartboard_numbers_only_27
+  - first:
+      213: -3411387624114848777
+    second: dartboard_numbers_only_28
+  - first:
+      213: -6500660558111223967
+    second: dartboard_numbers_only_29
+  - first:
+      213: 7246035182485355212
+    second: dartboard_numbers_only_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dartboard_numbers_only_0
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 986
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1324908f50071e960800000000000000
+      internalID: 7629502414680834609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1013
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461dd287ca51af880800000000000000
+      internalID: -8576518709878861468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1013
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da315066eab3caa60800000000000000
+      internalID: 7686584284236551085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 990
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764ca2444fa25e6b0800000000000000
+      internalID: -5267756960535886745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 919
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2e30068371d5020800000000000000
+      internalID: 2332045712944259744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 919
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b444053ca557730800000000000000
+      internalID: 3996200039272958878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 916
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593082a56e8d32ff0800000000000000
+      internalID: -61967485986405483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 916
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81271df7987dc33f0800000000000000
+      internalID: -919623238335499752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 811
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a16e77eed6d080800000000000000
+      internalID: -9162891305999554397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 803
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c1fe6597eac4190800000000000000
+      internalID: -7976809003807204207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 672
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124f69b4b458ae90800000000000000
+      internalID: -7014263284447624682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 672
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b2d56b83a4d860800000000000000
+      internalID: 7553842294111253190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_12
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 665
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8eba26d63d423d0800000000000000
+      internalID: -3232226165784844126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_13
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 665
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6caa2e3fad4e6760800000000000000
+      internalID: 7452979848402349162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 516
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a97efdd68f5060800000000000000
+      internalID: 6944417438443874601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 516
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7fae18aa8e3810800000000000000
+      internalID: 1746986160140287136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_16
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 524
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739b6d5c11b9c2080800000000000000
+      internalID: -9210816637243573961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 363
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f6412e5e1ba30a0800000000000000
+      internalID: -6901007878093246607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_18
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 367
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8001ec2c77207a70800000000000000
+      internalID: 8822595084301172878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_19
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 367
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db57a99c0b71c1520800000000000000
+      internalID: 2674038326815258045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98f3a75aefe302c0800000000000000
+      internalID: -4466462615649650533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 228
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d1ac8844074fa30800000000000000
+      internalID: 4248143788172254482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 231
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d608a2f96993e0800000000000000
+      internalID: -2046488064741157842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 231
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94102d6d53e381ce0800000000000000
+      internalID: -1434328080359227063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655e0f5f2b15a500800000000000000
+      internalID: 406761231619085676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_25
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 116
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546bf351b4d574ed0800000000000000
+      internalID: -2429870896882665915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 48
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fdf1f2a9b959400800000000000000
+      internalID: 330341234199486303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4560959b005fc7630800000000000000
+      internalID: 3926282358618654292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 21
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb7879b70158a0d0800000000000000
+      internalID: -3411387624114848777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 43
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f43641aa309c5a0800000000000000
+      internalID: -6500660558111223967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dartboard_numbers_only_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 43
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab50a7b961f8460800000000000000
+      internalID: 7246035182485355212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
