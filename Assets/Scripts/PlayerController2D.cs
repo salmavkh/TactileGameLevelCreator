@@ -20,6 +20,8 @@ public class PlayerController2D : MonoBehaviour
     private bool jumpQueued;
 
     private int airJumpsLeft;
+    public float obstacleBounceForce = 6f;
+
 
     void Awake()
     {
@@ -85,4 +87,23 @@ public class PlayerController2D : MonoBehaviour
         );
         return hit.collider != null;
     }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (!collision.gameObject.CompareTag("Obstacle")) return;
+
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if (rb == null) return;
+
+        // Direction: away from obstacle
+        float dir = Mathf.Sign(transform.position.x - collision.transform.position.x);
+        if (dir == 0) dir = 1f;
+
+        Vector2 bounce = new Vector2(dir * obstacleBounceForce, 0f);
+
+        // Reset horizontal velocity so bounce feels clean
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+        rb.AddForce(bounce, ForceMode2D.Impulse);
+    }
+
 }

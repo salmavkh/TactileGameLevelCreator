@@ -1,9 +1,16 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 
 public class CustomizeController : MonoBehaviour
 {
+
+    [Header("Gameplay Inputs")]
+    public TMP_InputField itemsInput;
+    public TMP_InputField obstaclesInput;
+    public Slider timerSlider;
+
     [Header("Preview UI Images (Canvas)")]
     public Image backgroundPreview;
     public Image characterPreview;
@@ -21,6 +28,9 @@ public class CustomizeController : MonoBehaviour
     public Sprite[] backgroundOptions; // 3
     public Sprite[] characterOptions;  // 3
     public Sprite[] itemOptions;       // 3
+
+    public CustomizePreviewSpawner previewSpawner;
+    public CustomizeHUD hud;
 
     void Start()
     {
@@ -106,6 +116,7 @@ public class CustomizeController : MonoBehaviour
         SessionManager.ItemIndex =
             Wrap(SessionManager.ItemIndex - 1, itemOptions.Length);
         RefreshAll();
+        if (previewSpawner != null) previewSpawner.RegeneratePreview();
     }
 
     public void ItemRight()
@@ -113,6 +124,7 @@ public class CustomizeController : MonoBehaviour
         SessionManager.ItemIndex =
             Wrap(SessionManager.ItemIndex + 1, itemOptions.Length);
         RefreshAll();
+        if (previewSpawner != null) previewSpawner.RegeneratePreview();
     }
 
     // -------- Navigation --------
@@ -125,4 +137,44 @@ public class CustomizeController : MonoBehaviour
     {
         SceneManager.LoadScene("Play");
     }
+
+    public void ApplyGameplaySettings()
+    {
+        // Items
+        if (itemsInput != null && int.TryParse(itemsInput.text, out int items))
+            SessionManager.NumItems = Mathf.Max(0, items);
+
+        // Obstacles
+        if (obstaclesInput != null && int.TryParse(obstaclesInput.text, out int obstacles))
+            SessionManager.NumObstacles = Mathf.Max(0, obstacles);
+
+        // Timer
+        if (timerSlider != null)
+            SessionManager.TimerSeconds = Mathf.Max(5f, timerSlider.value);
+
+        // Hearts (fixed for now)
+        SessionManager.MaxHearts = 3;
+
+        // New seed so preview + play match
+        SessionManager.RandomSeed = Random.Range(int.MinValue, int.MaxValue);
+
+        Debug.Log(
+            $"Customize Apply → Items:{SessionManager.NumItems}, " +
+            $"Obstacles:{SessionManager.NumObstacles}, " +
+            $"Timer:{SessionManager.TimerSeconds}, " +
+            $"Seed:{SessionManager.RandomSeed}"
+        );
+
+        if (previewSpawner != null)
+            previewSpawner.RegeneratePreview();
+
+    }
+
+    public void OnItemsChanged(int n)
+    {
+        SessionManager.NumItems = n;
+        SessionManager.TargetCollectCount = n; // so preview shows 0/n
+    }
+
+
 }
