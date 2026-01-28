@@ -66,6 +66,10 @@ public class LivesManager : MonoBehaviour
         // Debug.Log("GAME OVER: YOU DIED");
 
         if (gameOverText != null) gameOverText.SetActive(false); // you can stop using it
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayUI(SFX.LoseHearts);
+
         if (endMenu != null) endMenu.ShowGameOver();
         else Time.timeScale = 0f;
 

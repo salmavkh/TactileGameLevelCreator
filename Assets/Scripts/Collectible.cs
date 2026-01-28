@@ -9,6 +9,10 @@ public class Collectible : MonoBehaviour
         if (!other.CompareTag("Player")) return;
 
         Collected++;
+
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPlayer(SFX.Collect);
+
         Destroy(gameObject);
     }
 }

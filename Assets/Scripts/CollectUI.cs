@@ -35,6 +35,10 @@ public class CollectUI : MonoBehaviour
         if (!winTriggered && target > 0 && got >= target)
         {
             winTriggered = true;
+
+            if (AudioManager.Instance != null)
+                AudioManager.Instance.PlayUI(SFX.Win);
+
             if (endMenu != null) endMenu.ShowWin();
         }
 

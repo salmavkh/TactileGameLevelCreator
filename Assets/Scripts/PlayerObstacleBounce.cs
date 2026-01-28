@@ -40,6 +40,9 @@ public class PlayerObstacleBounce : MonoBehaviour
         if (LivesManager.Instance != null)
             LivesManager.Instance.TakeHit();
 
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlayPlayer(SFX.Hit);
+
         // Pick direction: prefer contact normal (works for left/right hits)
         float dir = 0f;
         if (col.contactCount > 0)

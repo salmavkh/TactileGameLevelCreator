@@ -27,6 +27,9 @@ public class TimerManager : MonoBehaviour
             ended = true;
             UpdateUI();
 
+            if (AudioManager.Instance != null)
+                AudioManager.Instance.PlayUI(SFX.LoseTimeout);
+
             // Timer game over
             if (LivesManager.Instance != null)
             {

@@ -21,6 +21,8 @@ public class PlayerController2D : MonoBehaviour
 
     private int airJumpsLeft;
     public float obstacleBounceForce = 6f;
+    public bool IsGroundedPublic() => IsGrounded();
+
 
 
     void Awake()
@@ -72,6 +74,9 @@ public class PlayerController2D : MonoBehaviour
     void Jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+
+        var sfx = GetComponent<PlayerSFX2D>();
+        if (sfx != null) sfx.PlayJump();
     }
 
     bool IsGrounded()
