@@ -52,6 +52,12 @@ public class PlayPauseMenu : MonoBehaviour
             pauseOverlay.SetActive(false);
     }
 
+    public void Restart()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("Play");
+    }
+
     public void BackToEditor()
     {
         // IMPORTANT: restore time scale before leaving
