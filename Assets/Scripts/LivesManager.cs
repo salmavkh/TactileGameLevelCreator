@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class LivesManager : MonoBehaviour
 {
     public static LivesManager Instance;
+    public PlayEndMenu endMenu;
 
     [Header("Lives")]
     public int maxLives = 3;
@@ -58,10 +59,15 @@ public class LivesManager : MonoBehaviour
 
     void Die()
     {
-        if (gameOverText != null) gameOverText.SetActive(true);
+        // if (gameOverText != null) gameOverText.SetActive(true);
 
-        // For now: freeze the game
-        Time.timeScale = 0f;
-        Debug.Log("GAME OVER: YOU DIED");
+        // // For now: freeze the game
+        // Time.timeScale = 0f;
+        // Debug.Log("GAME OVER: YOU DIED");
+
+        if (gameOverText != null) gameOverText.SetActive(false); // you can stop using it
+        if (endMenu != null) endMenu.ShowGameOver();
+        else Time.timeScale = 0f;
+
     }
 }

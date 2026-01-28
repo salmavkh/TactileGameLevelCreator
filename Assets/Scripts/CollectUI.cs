@@ -5,6 +5,9 @@ using TMPro;
 public class CollectUI : MonoBehaviour
 {
     public TMP_Text counterText; // or TMP later
+    public PlayEndMenu endMenu;
+    bool winTriggered = false;
+
 
     void Start()
     {
@@ -23,10 +26,17 @@ public class CollectUI : MonoBehaviour
         int got = Collectible.Collected;
         if (counterText != null) counterText.text = $"{got}/{target}";
 
-        if (target > 0 && got >= target)
+        // if (target > 0 && got >= target)
+        // {
+        //     counterText.text = $"WIN! {got}/{target}";
+        //     // later: show win panel, stop player, etc.
+        // }
+
+        if (!winTriggered && target > 0 && got >= target)
         {
-            counterText.text = $"WIN! {got}/{target}";
-            // later: show win panel, stop player, etc.
+            winTriggered = true;
+            if (endMenu != null) endMenu.ShowWin();
         }
+
     }
 }
