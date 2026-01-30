@@ -31,6 +31,8 @@ public class CustomizeController : MonoBehaviour
 
     public CustomizePreviewSpawner previewSpawner;
     public CustomizeHUD hud;
+    public int MaxObstacles = 999; // will be overwritten by preview spawner
+
 
     void Start()
     {
@@ -140,13 +142,37 @@ public class CustomizeController : MonoBehaviour
 
     public void ApplyGameplaySettings()
     {
-        // Items
-        if (itemsInput != null && int.TryParse(itemsInput.text, out int items))
-            SessionManager.NumItems = Mathf.Max(0, items);
+        // Items: blank -> 0, and DISPLAY 0
+        if (itemsInput != null)
+        {
+            string t = (itemsInput.text ?? "").Trim();
+            int items = 0;
 
-        // Obstacles
-        if (obstaclesInput != null && int.TryParse(obstaclesInput.text, out int obstacles))
-            SessionManager.NumObstacles = Mathf.Max(0, obstacles);
+            if (!string.IsNullOrEmpty(t))
+                int.TryParse(t, out items);
+
+            items = Mathf.Max(0, items);
+            SessionManager.NumItems = items;
+
+            // force UI to show value
+            itemsInput.text = items.ToString();
+        }
+
+        // Obstacles: blank -> 0, clamp to MaxObstacles, and DISPLAY value
+        if (obstaclesInput != null)
+        {
+            string t = (obstaclesInput.text ?? "").Trim();
+            int obs = 0;
+
+            if (!string.IsNullOrEmpty(t))
+                int.TryParse(t, out obs);
+
+            obs = Mathf.Clamp(obs, 0, MaxObstacles);
+            SessionManager.NumObstacles = obs;
+
+            // force UI to show value
+            obstaclesInput.text = obs.ToString();
+        }
 
         // Timer
         if (timerSlider != null)
@@ -167,6 +193,9 @@ public class CustomizeController : MonoBehaviour
 
         if (previewSpawner != null)
             previewSpawner.RegeneratePreview();
+
+        if (obstaclesInput != null)
+            obstaclesInput.text = SessionManager.NumObstacles.ToString();
 
     }
 
