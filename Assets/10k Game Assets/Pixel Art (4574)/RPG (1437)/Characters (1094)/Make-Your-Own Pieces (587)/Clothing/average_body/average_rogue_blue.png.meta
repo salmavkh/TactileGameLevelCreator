@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_rogue_blue_0: -171192389050976030
+      average_rogue_blue_1: 1600047897430435695
+      average_rogue_blue_10: -2714167291665691121
+      average_rogue_blue_11: 3577478084160235342
+      average_rogue_blue_2: 7632309293409102547
+      average_rogue_blue_3: -1317983140668268942
+      average_rogue_blue_4: 1945227201991032188
+      average_rogue_blue_5: 7971861280198268261
+      average_rogue_blue_6: -3321764366495732097
+      average_rogue_blue_7: 710480100637122165
+      average_rogue_blue_8: 2788776513748008152
+      average_rogue_blue_9: 4777186195357025964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      house_witch_off_0: -7229620610085163884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

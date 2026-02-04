@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_dress_pink_0: -5557380357508993782
+      heavy_dress_pink_1: 2754624066061892787
+      heavy_dress_pink_10: 2507246963700776004
+      heavy_dress_pink_11: -7752612928523729143
+      heavy_dress_pink_2: 1547664818427701605
+      heavy_dress_pink_3: -2502251860190651149
+      heavy_dress_pink_4: -3034967502015787556
+      heavy_dress_pink_5: -1185965249715812046
+      heavy_dress_pink_6: 3168533354506228133
+      heavy_dress_pink_7: 5569118336018892068
+      heavy_dress_pink_8: 627970973310645393
+      heavy_dress_pink_9: 6601599688921908144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

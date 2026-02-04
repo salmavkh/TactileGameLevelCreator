@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_pentagon_purple_0: 1016931619066860005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

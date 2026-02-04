@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      campfire_logs_0: -8782717522303601150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

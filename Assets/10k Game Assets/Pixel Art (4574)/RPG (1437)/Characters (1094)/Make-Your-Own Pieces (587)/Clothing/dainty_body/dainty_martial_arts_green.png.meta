@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_martial_arts_green_0: 7747020376628576018
+      dainty_martial_arts_green_1: 7723047346866399310
+      dainty_martial_arts_green_10: -7129474175360923696
+      dainty_martial_arts_green_11: 9041230993925682623
+      dainty_martial_arts_green_2: -5771123845588052006
+      dainty_martial_arts_green_3: 1995248772642181208
+      dainty_martial_arts_green_4: 8219625337299159758
+      dainty_martial_arts_green_5: -4737418255402870927
+      dainty_martial_arts_green_6: 2713105401924493885
+      dainty_martial_arts_green_7: -426890604649488838
+      dainty_martial_arts_green_8: 4654225992203676976
+      dainty_martial_arts_green_9: -2410805141019863807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      thieff_walk_4_0: 395734512658922351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

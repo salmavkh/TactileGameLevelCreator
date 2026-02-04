@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demoness_walk_10_0: 1456312105819771052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

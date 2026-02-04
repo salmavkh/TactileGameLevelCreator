@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pool_triangle_white_0: 2347647076315156895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

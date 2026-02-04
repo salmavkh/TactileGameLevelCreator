@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dotted_black_end_down_0: -1757883455659190064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

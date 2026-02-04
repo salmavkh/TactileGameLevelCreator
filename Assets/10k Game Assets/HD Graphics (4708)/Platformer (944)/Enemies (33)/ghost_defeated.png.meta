@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ghost_defeated_0: -7544774353486164910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

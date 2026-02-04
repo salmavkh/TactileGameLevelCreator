@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_frog_outline_captured_0: 6873222703281568851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

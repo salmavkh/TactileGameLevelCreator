@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rain_dash_0: 2535026395690593985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soot_defeated_0: 9142614776867009845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

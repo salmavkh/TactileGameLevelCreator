@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Medium_Fickle_Good_0: -3270373625207302297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

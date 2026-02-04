@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chess_rook_blue_0: -3525202949317698853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

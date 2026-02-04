@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      darkknightf_spritesheet_0: 2304090065068388915
+      darkknightf_spritesheet_1: -2734241350776683517
+      darkknightf_spritesheet_2: -4044698152647063173
+      darkknightf_spritesheet_3: -7724310465399432587
+      darkknightf_spritesheet_4: 5405852944990932272
+      darkknightf_spritesheet_5: -2941839119074764530
+      darkknightf_spritesheet_6: 2401248101212300613
+      darkknightf_spritesheet_7: 7387033211433407674
+      darkknightf_spritesheet_8: 409397765556412598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

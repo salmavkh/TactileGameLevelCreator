@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_raindrop_orange_0: 2845498802035725168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

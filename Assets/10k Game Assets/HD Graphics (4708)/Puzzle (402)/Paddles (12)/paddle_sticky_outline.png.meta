@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      paddle_sticky_outline_0: -5089679565506060479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

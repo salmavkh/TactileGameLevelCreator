@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_pinafore_green_0: -1058382545931527581
+      heavy_pinafore_green_1: 6281509154847568868
+      heavy_pinafore_green_10: 7027286426258238823
+      heavy_pinafore_green_11: 1715399303990266007
+      heavy_pinafore_green_2: -5061652860768348665
+      heavy_pinafore_green_3: 9153654188611062912
+      heavy_pinafore_green_4: -2386875533667617991
+      heavy_pinafore_green_5: 7740024021533188191
+      heavy_pinafore_green_6: 7176684573313975312
+      heavy_pinafore_green_7: 1469514852801679937
+      heavy_pinafore_green_8: -7252552645858364822
+      heavy_pinafore_green_9: -7476659305155295449
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

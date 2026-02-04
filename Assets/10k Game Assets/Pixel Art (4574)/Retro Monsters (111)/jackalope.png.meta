@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jackalope_0: 2817159834304837576
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

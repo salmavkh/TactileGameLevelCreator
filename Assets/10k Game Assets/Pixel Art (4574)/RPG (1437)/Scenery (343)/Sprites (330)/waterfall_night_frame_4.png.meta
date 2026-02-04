@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      waterfall_night_frame_4_0: 1646800135768559320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_bun_grey_0: 3019723182894647871
+      average_hair_bun_grey_1: 5398232404976379602
+      average_hair_bun_grey_10: 2981585798161809261
+      average_hair_bun_grey_11: -3617481223821679986
+      average_hair_bun_grey_2: 417757911306975347
+      average_hair_bun_grey_3: 3645084992599762787
+      average_hair_bun_grey_4: 8369179506985103041
+      average_hair_bun_grey_5: -1864619488559399057
+      average_hair_bun_grey_6: -9210270790261711082
+      average_hair_bun_grey_7: 7640552952174190052
+      average_hair_bun_grey_8: 6616708641390223425
+      average_hair_bun_grey_9: -5876879882333864228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

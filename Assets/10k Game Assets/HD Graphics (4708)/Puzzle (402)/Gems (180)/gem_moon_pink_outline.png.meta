@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_moon_pink_outline_0: 1077234578140013928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

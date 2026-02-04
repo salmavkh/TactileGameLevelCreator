@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower_pansy_pink_0: -1517165643151713801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      grass winter tiles (25)_0: 5875799136273656016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

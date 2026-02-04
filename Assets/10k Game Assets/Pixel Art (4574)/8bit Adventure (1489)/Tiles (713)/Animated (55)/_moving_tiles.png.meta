@@ -1635,7 +1635,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _moving_tiles_0: 2773743448155959055
+      _moving_tiles_1: 523244695715749858
+      _moving_tiles_10: -116063553799031035
+      _moving_tiles_11: 7227799269230460984
+      _moving_tiles_12: -7428823734823216793
+      _moving_tiles_13: 318083720879218068
+      _moving_tiles_14: 1616817427983123225
+      _moving_tiles_15: 9183273045566850515
+      _moving_tiles_16: -4105345544150094717
+      _moving_tiles_17: 5253044358054558327
+      _moving_tiles_18: -7024403250075759937
+      _moving_tiles_19: -6989506635377947282
+      _moving_tiles_2: -4910404025827221640
+      _moving_tiles_20: 3386013991020920341
+      _moving_tiles_21: -7702379700634214575
+      _moving_tiles_22: 6772133755818717966
+      _moving_tiles_23: -3642789825384875903
+      _moving_tiles_24: -3121134081301369841
+      _moving_tiles_25: 829142394475216395
+      _moving_tiles_26: 8208916508978778749
+      _moving_tiles_27: -7740054672386305153
+      _moving_tiles_28: -694941257351319901
+      _moving_tiles_29: 3629663507495212180
+      _moving_tiles_3: -5818134032277651914
+      _moving_tiles_30: -8045386080144712921
+      _moving_tiles_31: -2695338293034656962
+      _moving_tiles_32: -8332824675593857379
+      _moving_tiles_33: 6011074013940643205
+      _moving_tiles_34: 4036374408123550764
+      _moving_tiles_35: 4277407920527263924
+      _moving_tiles_36: 7939315157448170056
+      _moving_tiles_37: 5029362988455929985
+      _moving_tiles_38: -2719672800377373790
+      _moving_tiles_39: -4900498369724435789
+      _moving_tiles_4: -7487676292217165355
+      _moving_tiles_40: -299964326351299117
+      _moving_tiles_41: 292958812684171080
+      _moving_tiles_42: -4988779042967748264
+      _moving_tiles_43: -4837789434448418647
+      _moving_tiles_44: -6955829197656021885
+      _moving_tiles_45: -2798521051073610271
+      _moving_tiles_46: 521094977545950321
+      _moving_tiles_47: 4356791697847676266
+      _moving_tiles_48: 9052384366217840341
+      _moving_tiles_49: -4924783705532416559
+      _moving_tiles_5: 3249262280670876001
+      _moving_tiles_50: -1930694411747786194
+      _moving_tiles_51: 2294175601486447303
+      _moving_tiles_52: 3989263918425616293
+      _moving_tiles_53: -8936891934898023653
+      _moving_tiles_54: -9146384061873675822
+      _moving_tiles_55: 3960113303659699194
+      _moving_tiles_56: 3678552356457820886
+      _moving_tiles_57: 7200397822945435342
+      _moving_tiles_58: 221647723443292557
+      _moving_tiles_59: -7503265153669957695
+      _moving_tiles_6: 5416539880453306498
+      _moving_tiles_7: -5652693204445941871
+      _moving_tiles_8: 7269603155080422586
+      _moving_tiles_9: -2961850764867708207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

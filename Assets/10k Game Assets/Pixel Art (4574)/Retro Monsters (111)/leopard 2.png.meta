@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      leopard 2_0: -6789458693238901200
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

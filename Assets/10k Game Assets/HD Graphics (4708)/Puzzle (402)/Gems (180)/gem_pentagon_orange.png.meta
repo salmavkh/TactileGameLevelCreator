@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_pentagon_orange_0: 7386821502207504393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

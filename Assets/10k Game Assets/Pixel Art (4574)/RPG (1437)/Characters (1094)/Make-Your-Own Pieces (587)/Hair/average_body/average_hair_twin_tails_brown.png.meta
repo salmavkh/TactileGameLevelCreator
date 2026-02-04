@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_twin_tails_brown_0: 9021623307716035961
+      average_hair_twin_tails_brown_1: -4046930880824946285
+      average_hair_twin_tails_brown_2: -7654673776272455529
+      average_hair_twin_tails_brown_3: 7897449844783762582
+      average_hair_twin_tails_brown_4: 2664484377570580938
+      average_hair_twin_tails_brown_5: 6768562277189529035
+      average_hair_twin_tails_brown_6: -7634741225067811048
+      average_hair_twin_tails_brown_7: 7436745714803558844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

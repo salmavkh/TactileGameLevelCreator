@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tree_deciduous_huge_eyes_1_0: 681828623221126602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

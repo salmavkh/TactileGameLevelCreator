@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_emerald_pink_0: 4112577845431304508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

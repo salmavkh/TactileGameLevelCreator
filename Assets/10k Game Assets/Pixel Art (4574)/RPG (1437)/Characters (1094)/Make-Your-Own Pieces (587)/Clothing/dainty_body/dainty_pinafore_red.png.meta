@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_pinafore_red_0: 4540313067547540060
+      dainty_pinafore_red_1: -2312505143261548873
+      dainty_pinafore_red_10: -6679235338366662136
+      dainty_pinafore_red_11: 7737257259087260875
+      dainty_pinafore_red_2: -6428290768799540114
+      dainty_pinafore_red_3: -5386413961757566093
+      dainty_pinafore_red_4: 1676235211056136126
+      dainty_pinafore_red_5: 9124798093949417146
+      dainty_pinafore_red_6: -3419009358096560285
+      dainty_pinafore_red_7: -3095397904942929232
+      dainty_pinafore_red_8: -5286392619129487427
+      dainty_pinafore_red_9: -5374851765586205040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

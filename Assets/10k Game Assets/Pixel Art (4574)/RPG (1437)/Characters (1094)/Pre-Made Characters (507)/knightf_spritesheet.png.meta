@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      knightf_spritesheet_0: 107015262781892352
+      knightf_spritesheet_1: 7031330084715438098
+      knightf_spritesheet_2: -4070062323609974133
+      knightf_spritesheet_3: -4195699460637280671
+      knightf_spritesheet_4: -755498552462349869
+      knightf_spritesheet_5: 1585211410246480089
+      knightf_spritesheet_6: -8866075851410779469
+      knightf_spritesheet_7: -3804882783481392499
+      knightf_spritesheet_8: -3107975278613090351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

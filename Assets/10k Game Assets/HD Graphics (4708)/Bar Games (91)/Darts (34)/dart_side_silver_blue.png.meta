@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dart_side_silver_blue_0: 118318176529387437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

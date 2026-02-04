@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      twinkle_1_0: -3805288483533412390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

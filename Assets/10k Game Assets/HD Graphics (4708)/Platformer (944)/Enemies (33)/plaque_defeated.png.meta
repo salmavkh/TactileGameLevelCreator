@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      plaque_defeated_0: 2600822460309616018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

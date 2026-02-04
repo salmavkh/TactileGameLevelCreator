@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      overworld tiles (249)_0: -7543544592294900031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

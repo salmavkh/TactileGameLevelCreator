@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_hair_ponytail_blue_0: -5795074772902571403
+      dainty_hair_ponytail_blue_1: -2020746319813271413
+      dainty_hair_ponytail_blue_10: -5954970623926077899
+      dainty_hair_ponytail_blue_11: 1100196180528588411
+      dainty_hair_ponytail_blue_2: 6395372754770960907
+      dainty_hair_ponytail_blue_3: -5658012385061030398
+      dainty_hair_ponytail_blue_4: 6407063874286879959
+      dainty_hair_ponytail_blue_5: 2194947074956239494
+      dainty_hair_ponytail_blue_6: -7484585002828288974
+      dainty_hair_ponytail_blue_7: 5314377563614269899
+      dainty_hair_ponytail_blue_8: 1493548447700623468
+      dainty_hair_ponytail_blue_9: -2303078032460798882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_ninja_red_0: 2904635148633848255
+      dainty_ninja_red_1: 8129477637181503970
+      dainty_ninja_red_10: -5850649317034965834
+      dainty_ninja_red_11: 2652755209120712049
+      dainty_ninja_red_2: -2751101481571031943
+      dainty_ninja_red_3: 81210045588178216
+      dainty_ninja_red_4: -5721811269108694222
+      dainty_ninja_red_5: -5744100237641729619
+      dainty_ninja_red_6: 2226423259813757351
+      dainty_ninja_red_7: -6054279482141624095
+      dainty_ninja_red_8: -7979629023510656358
+      dainty_ninja_red_9: -5283380817380413398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

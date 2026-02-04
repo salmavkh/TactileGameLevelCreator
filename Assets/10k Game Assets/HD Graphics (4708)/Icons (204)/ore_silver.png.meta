@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ore_silver_0: 6970080515586003151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      striped_black_bottom_left_0: 401751913950058808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

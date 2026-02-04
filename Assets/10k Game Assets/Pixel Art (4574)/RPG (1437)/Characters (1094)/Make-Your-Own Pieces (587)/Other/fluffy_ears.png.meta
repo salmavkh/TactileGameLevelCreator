@@ -585,7 +585,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fluffy_ears_0: -1808852170883422867
+      fluffy_ears_1: 6261808397517219408
+      fluffy_ears_10: 3214866761202311063
+      fluffy_ears_11: -4262766028672171624
+      fluffy_ears_12: 6619054534393770923
+      fluffy_ears_13: 6724514289443767214
+      fluffy_ears_14: 5335266047256285716
+      fluffy_ears_15: 7465212997793734291
+      fluffy_ears_16: 3256434782465843522
+      fluffy_ears_17: -2721072638317398310
+      fluffy_ears_2: -978618593447963128
+      fluffy_ears_3: -5509212786864334775
+      fluffy_ears_4: 5857063720655016139
+      fluffy_ears_5: -6843994995188742680
+      fluffy_ears_6: 5321770740200093001
+      fluffy_ears_7: -4943939246674662991
+      fluffy_ears_8: 6638335433147933032
+      fluffy_ears_9: -7901381126716036449
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

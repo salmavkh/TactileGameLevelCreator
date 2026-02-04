@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_fox_outline_captured_0: 2801715378976638238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pumpkin_orange_happy_0: 8870681130582511141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

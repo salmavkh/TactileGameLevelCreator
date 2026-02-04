@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peashooter up (2)_0: -6037042533179689917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

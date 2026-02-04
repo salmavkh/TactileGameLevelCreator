@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meeple_3d_orange_0: 1776498632387069274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

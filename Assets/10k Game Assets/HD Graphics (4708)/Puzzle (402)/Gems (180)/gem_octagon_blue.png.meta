@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_octagon_blue_0: 7178520698425475839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

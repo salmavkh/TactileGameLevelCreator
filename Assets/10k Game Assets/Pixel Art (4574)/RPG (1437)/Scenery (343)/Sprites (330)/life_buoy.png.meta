@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      life_buoy_0: -4269416416893985218
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

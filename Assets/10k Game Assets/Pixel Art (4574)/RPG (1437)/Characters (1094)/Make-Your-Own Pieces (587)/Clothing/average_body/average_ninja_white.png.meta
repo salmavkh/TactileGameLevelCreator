@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_ninja_white_0: 8886493629836128753
+      average_ninja_white_1: 6717323541217606396
+      average_ninja_white_10: -6172551194565233905
+      average_ninja_white_11: -5855987604607433862
+      average_ninja_white_2: 8943757778148180277
+      average_ninja_white_3: 2424434746168527784
+      average_ninja_white_4: 5396199336975452268
+      average_ninja_white_5: -3254170722740797907
+      average_ninja_white_6: 5918184630500187344
+      average_ninja_white_7: 2647882225622893039
+      average_ninja_white_8: -8559257364233680358
+      average_ninja_white_9: 440661088677965569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

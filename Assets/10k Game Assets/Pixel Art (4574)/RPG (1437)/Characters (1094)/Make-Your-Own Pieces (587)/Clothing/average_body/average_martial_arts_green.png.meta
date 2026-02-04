@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_martial_arts_green_0: 4579878065401784998
+      average_martial_arts_green_1: -8326432938514043914
+      average_martial_arts_green_10: -1118186123338208457
+      average_martial_arts_green_11: -7334406382485711067
+      average_martial_arts_green_2: 1712948462872535591
+      average_martial_arts_green_3: -3973667810431158399
+      average_martial_arts_green_4: 8278761682790193478
+      average_martial_arts_green_5: -6540749371381300766
+      average_martial_arts_green_6: 2100499836982193909
+      average_martial_arts_green_7: -6606826275331697599
+      average_martial_arts_green_8: -4810958882459925984
+      average_martial_arts_green_9: 6274476406897053420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

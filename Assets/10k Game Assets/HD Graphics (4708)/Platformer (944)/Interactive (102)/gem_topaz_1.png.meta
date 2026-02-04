@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_topaz_1_0: 7202059269667821225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

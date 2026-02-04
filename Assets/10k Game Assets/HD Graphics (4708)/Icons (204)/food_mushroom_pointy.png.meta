@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      food_mushroom_pointy_0: -7471304098070827656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

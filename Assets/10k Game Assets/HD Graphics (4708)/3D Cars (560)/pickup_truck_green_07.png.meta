@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pickup_truck_green_07_0: -9000966731107885220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

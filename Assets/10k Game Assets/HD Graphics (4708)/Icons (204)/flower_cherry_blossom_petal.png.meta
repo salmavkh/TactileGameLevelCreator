@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower_cherry_blossom_petal_0: -3031018214730768410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

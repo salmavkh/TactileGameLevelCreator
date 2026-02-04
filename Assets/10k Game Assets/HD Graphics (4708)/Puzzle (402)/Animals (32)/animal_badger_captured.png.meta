@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_badger_captured_0: -3495882733223178101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_suit_blue_0: 1925498343516215349
+      dainty_suit_blue_1: 8311412350176699684
+      dainty_suit_blue_10: 3495930327043342893
+      dainty_suit_blue_11: -3556296758098310173
+      dainty_suit_blue_2: -1745013174850689238
+      dainty_suit_blue_3: 4689020195002667853
+      dainty_suit_blue_4: -636014990926998987
+      dainty_suit_blue_5: -8463824971743498897
+      dainty_suit_blue_6: -6551227529817872450
+      dainty_suit_blue_7: -9015524559230074319
+      dainty_suit_blue_8: 1136344563067776879
+      dainty_suit_blue_9: -7947387102127370198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      armadillo_0: -8326172958151952395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

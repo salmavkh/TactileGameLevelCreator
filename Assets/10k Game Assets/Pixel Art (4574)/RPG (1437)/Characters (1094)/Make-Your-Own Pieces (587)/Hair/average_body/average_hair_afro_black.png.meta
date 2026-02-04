@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_afro_black_0: 7117035720117406384
+      average_hair_afro_black_1: 4162247859012154255
+      average_hair_afro_black_10: 6413234462865538929
+      average_hair_afro_black_11: 3587247688652226466
+      average_hair_afro_black_2: -284974292897512662
+      average_hair_afro_black_3: 1911905357790051275
+      average_hair_afro_black_4: 900765587776574169
+      average_hair_afro_black_5: -8690813530524049988
+      average_hair_afro_black_6: 3178472035250054391
+      average_hair_afro_black_7: -7110101164715341908
+      average_hair_afro_black_8: 1332619370336636140
+      average_hair_afro_black_9: -8585587034792341325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

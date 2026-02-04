@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wings_demonic_0: -8280736995770994552
+      wings_demonic_1: 1536878860229069539
+      wings_demonic_2: 4987033156245742682
+      wings_demonic_3: 7571504764861259019
+      wings_demonic_4: 1155027587909563911
+      wings_demonic_5: -1900065344320620078
+      wings_demonic_6: 2626790851635819509
+      wings_demonic_7: 1143597781705835827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_twin_tails_blonde_0: -9219010084706302177
+      heavy_hair_twin_tails_blonde_1: -1640818482756797888
+      heavy_hair_twin_tails_blonde_2: -7703512190997605998
+      heavy_hair_twin_tails_blonde_3: -5237471981859040591
+      heavy_hair_twin_tails_blonde_4: 3927278632866380610
+      heavy_hair_twin_tails_blonde_5: 7193751160930302503
+      heavy_hair_twin_tails_blonde_6: 187864763314232660
+      heavy_hair_twin_tails_blonde_7: -8096087075554988149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

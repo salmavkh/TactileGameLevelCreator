@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      battleship_tiles_horizontal_red_0: 4168379470588839959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

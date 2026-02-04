@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_tail_0: -1868624822670575240
+      demon_tail_1: 3141005397873222143
+      demon_tail_10: 7334138917304185834
+      demon_tail_11: -674773394995375643
+      demon_tail_2: -5020761516221380966
+      demon_tail_3: -1922821705274029144
+      demon_tail_4: -5480315921099604981
+      demon_tail_5: 4088618374208079620
+      demon_tail_6: 5872996504356104634
+      demon_tail_7: -2860318796223584002
+      demon_tail_8: 4623844409527075317
+      demon_tail_9: 1510408358058500596
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

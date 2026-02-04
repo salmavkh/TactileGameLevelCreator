@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boar_happy_0: -7076890758224627660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

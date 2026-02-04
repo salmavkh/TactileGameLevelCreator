@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tree_big_stump_snowy_0: 468287935179527097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      executive_spritesheet_0: -2572287292449989370
+      executive_spritesheet_1: 5299221838211470798
+      executive_spritesheet_2: 8937165211501507762
+      executive_spritesheet_3: 3824835488344364376
+      executive_spritesheet_4: -4528602936800894803
+      executive_spritesheet_5: 1421921705021351297
+      executive_spritesheet_6: 6832255907124194364
+      executive_spritesheet_7: -6787479505835282528
+      executive_spritesheet_8: 7329470889861672994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

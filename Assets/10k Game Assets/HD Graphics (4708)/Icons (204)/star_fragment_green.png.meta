@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      star_fragment_green_0: 4333170441205719888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

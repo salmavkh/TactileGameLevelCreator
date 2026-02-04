@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sweeper_tile_mine_safe_0: 3662397234641391581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

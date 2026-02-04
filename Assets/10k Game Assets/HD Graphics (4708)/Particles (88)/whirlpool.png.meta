@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      whirlpool_0: -8203960809527574535
+      whirlpool_1: 8101584833336153883
+      whirlpool_2: 1821433470832362008
+      whirlpool_3: 7207812787073331880
+      whirlpool_4: 1817189771857178534
+      whirlpool_5: -2295172445876813957
+      whirlpool_6: -1135061792487768426
+      whirlpool_7: 6937703380593129186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

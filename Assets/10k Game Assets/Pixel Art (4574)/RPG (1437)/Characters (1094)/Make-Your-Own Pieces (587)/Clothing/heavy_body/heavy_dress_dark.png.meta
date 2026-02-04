@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_dress_dark_0: 8888584803329982902
+      heavy_dress_dark_1: 900111622869717239
+      heavy_dress_dark_10: -3440718562319597998
+      heavy_dress_dark_11: -8266463556006098990
+      heavy_dress_dark_2: -161381968221230145
+      heavy_dress_dark_3: -9085067709693927834
+      heavy_dress_dark_4: 5276052292657088962
+      heavy_dress_dark_5: 462105871308392278
+      heavy_dress_dark_6: -3803191718143164016
+      heavy_dress_dark_7: 4762311301310808235
+      heavy_dress_dark_8: 5542551014983902734
+      heavy_dress_dark_9: -1929731140080101104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

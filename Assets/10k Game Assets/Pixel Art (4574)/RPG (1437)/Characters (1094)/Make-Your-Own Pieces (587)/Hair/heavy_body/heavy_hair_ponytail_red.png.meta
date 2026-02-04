@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_ponytail_red_0: -8150552598384527927
+      heavy_hair_ponytail_red_1: 5177916318264082648
+      heavy_hair_ponytail_red_10: -7301351875228259203
+      heavy_hair_ponytail_red_11: -6532525106510303943
+      heavy_hair_ponytail_red_2: -2579381737247030858
+      heavy_hair_ponytail_red_3: -4350884130272582804
+      heavy_hair_ponytail_red_4: 6832537450622682914
+      heavy_hair_ponytail_red_5: -3519792467308445924
+      heavy_hair_ponytail_red_6: -567605324914345763
+      heavy_hair_ponytail_red_7: -6643461180983072300
+      heavy_hair_ponytail_red_8: -4923623894292060556
+      heavy_hair_ponytail_red_9: -6313955049470916496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

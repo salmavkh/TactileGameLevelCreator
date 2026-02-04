@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_shorts_yellow_0: 4118769965090752070
+      average_shorts_yellow_1: 1615684071398116291
+      average_shorts_yellow_10: 8020713467511565981
+      average_shorts_yellow_11: 171993885758095445
+      average_shorts_yellow_2: -162740068234537989
+      average_shorts_yellow_3: 5488680012489936652
+      average_shorts_yellow_4: 6497753820288753056
+      average_shorts_yellow_5: -6183749321209841142
+      average_shorts_yellow_6: 2465138945573901364
+      average_shorts_yellow_7: -625920240368345170
+      average_shorts_yellow_8: -47571015492027966
+      average_shorts_yellow_9: 8688397153215833824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_ponytail_brown_0: -4769184975116620045
+      average_hair_ponytail_brown_1: -8640968459146040381
+      average_hair_ponytail_brown_10: -1057343710883342278
+      average_hair_ponytail_brown_11: -8659161107374933060
+      average_hair_ponytail_brown_2: 6547681606555338184
+      average_hair_ponytail_brown_3: 2784758760160128017
+      average_hair_ponytail_brown_4: 3246548630389131168
+      average_hair_ponytail_brown_5: -8053987591887653467
+      average_hair_ponytail_brown_6: 2247397793005493253
+      average_hair_ponytail_brown_7: 459557677519483170
+      average_hair_ponytail_brown_8: -3464039884692562999
+      average_hair_ponytail_brown_9: -7236232010727609214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

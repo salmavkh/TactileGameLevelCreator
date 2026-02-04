@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_hair_double_bun_pink_0: 4860238876356482595
+      dainty_hair_double_bun_pink_1: -6627053000993438775
+      dainty_hair_double_bun_pink_10: 2922627578077414812
+      dainty_hair_double_bun_pink_11: 8246193107967901810
+      dainty_hair_double_bun_pink_2: -2068311642360872812
+      dainty_hair_double_bun_pink_3: 5780312176277583106
+      dainty_hair_double_bun_pink_4: -765431493533541784
+      dainty_hair_double_bun_pink_5: 4642632933128646071
+      dainty_hair_double_bun_pink_6: -8034808942856917823
+      dainty_hair_double_bun_pink_7: 6681672798523041586
+      dainty_hair_double_bun_pink_8: 3122351034309266685
+      dainty_hair_double_bun_pink_9: 4042695061799558229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

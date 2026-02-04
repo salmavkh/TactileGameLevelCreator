@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peg_placed_blue_0: 2394435087796061560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

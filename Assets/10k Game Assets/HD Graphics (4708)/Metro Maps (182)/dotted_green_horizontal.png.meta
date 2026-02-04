@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dotted_green_horizontal_0: 6568522056659743467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

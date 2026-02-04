@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      coin_gold_outline_6_0: 2590166421262760669
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

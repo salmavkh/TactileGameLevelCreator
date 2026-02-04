@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helmet_gold_0: 4693646014078339549
+      helmet_gold_1: 515619545549361758
+      helmet_gold_10: -2995817245848159879
+      helmet_gold_11: 7580685941667343055
+      helmet_gold_2: 2023698515137138310
+      helmet_gold_3: 639137855612630299
+      helmet_gold_4: 3285358042005578058
+      helmet_gold_5: 4302302277297429726
+      helmet_gold_6: -7091327128744932830
+      helmet_gold_7: 4957030732291892543
+      helmet_gold_8: 4979991291174433663
+      helmet_gold_9: 492214911146704924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

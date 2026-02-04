@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      grid_menu_0: 4965012037253801572
+      grid_menu_1: -5821964642260734623
+      grid_menu_2: -2723737686444311332
+      grid_menu_3: 4035857701426578891
+      grid_menu_4: -8594401643484423995
+      grid_menu_5: -616349205658055426
+      grid_menu_6: -8274157787796844039
+      grid_menu_7: 6585425019908792914
+      grid_menu_8: 8531729165099681304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

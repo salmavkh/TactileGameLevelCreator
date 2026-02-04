@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mage_hood_dainty_white_0: -25965772813074914
+      mage_hood_dainty_white_1: -2772461806546869346
+      mage_hood_dainty_white_10: 6098036851333471778
+      mage_hood_dainty_white_11: -6148705829523230783
+      mage_hood_dainty_white_2: -4105692969838816036
+      mage_hood_dainty_white_3: -4689556493767431704
+      mage_hood_dainty_white_4: -2323566474048623837
+      mage_hood_dainty_white_5: -1592992208902954602
+      mage_hood_dainty_white_6: 6666610959123359844
+      mage_hood_dainty_white_7: -1871447622252819311
+      mage_hood_dainty_white_8: -4539747053902859073
+      mage_hood_dainty_white_9: -1725620679209225424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

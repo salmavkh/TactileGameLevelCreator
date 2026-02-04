@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      twin_bullet_pink_3_0: 6200129063044758784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

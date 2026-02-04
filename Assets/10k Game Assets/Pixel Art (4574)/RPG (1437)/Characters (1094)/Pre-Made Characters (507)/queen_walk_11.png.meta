@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      queen_walk_11_0: -6604218178759311661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      seadragon 3_0: -7104775803909724167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

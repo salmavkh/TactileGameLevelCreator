@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      token_hexagon_purple_0: -7045215473309049636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

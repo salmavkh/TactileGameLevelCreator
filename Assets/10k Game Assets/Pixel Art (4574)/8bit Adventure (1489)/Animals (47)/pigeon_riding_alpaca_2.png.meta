@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pigeon_riding_alpaca_2_0: -7666818934407330793
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

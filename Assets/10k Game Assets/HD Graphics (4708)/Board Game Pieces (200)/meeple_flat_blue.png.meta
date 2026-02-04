@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meeple_flat_blue_0: 2439384299537240265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

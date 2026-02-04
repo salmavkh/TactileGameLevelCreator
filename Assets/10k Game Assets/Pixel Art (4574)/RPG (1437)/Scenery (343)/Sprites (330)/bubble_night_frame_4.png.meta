@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bubble_night_frame_4_0: 4364059058764104244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

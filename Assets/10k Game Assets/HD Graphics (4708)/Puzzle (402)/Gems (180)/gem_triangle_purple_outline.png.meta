@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_triangle_purple_outline_0: -3671531862672118913
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

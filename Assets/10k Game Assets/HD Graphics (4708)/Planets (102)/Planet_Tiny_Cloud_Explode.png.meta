@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Tiny_Cloud_Explode_0: 8557474946068686132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

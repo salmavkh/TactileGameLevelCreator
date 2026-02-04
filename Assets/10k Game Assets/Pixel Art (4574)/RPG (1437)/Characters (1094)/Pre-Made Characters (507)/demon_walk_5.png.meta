@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_walk_5_0: 2164686292464897192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

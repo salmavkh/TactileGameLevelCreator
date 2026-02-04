@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      phone_landscape_rotate_clock_0: -3304059641457494548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

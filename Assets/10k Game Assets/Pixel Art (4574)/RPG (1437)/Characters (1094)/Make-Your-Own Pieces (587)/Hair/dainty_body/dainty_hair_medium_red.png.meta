@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_hair_medium_red_0: 8498362256710646465
+      dainty_hair_medium_red_1: 357998122918432141
+      dainty_hair_medium_red_10: 3658714213589675249
+      dainty_hair_medium_red_11: 3471871129732455690
+      dainty_hair_medium_red_2: 5062116856966722164
+      dainty_hair_medium_red_3: 3749404179292481560
+      dainty_hair_medium_red_4: 5278764252497994671
+      dainty_hair_medium_red_5: -8108728065445135782
+      dainty_hair_medium_red_6: -5180246438308430662
+      dainty_hair_medium_red_7: -2425083094207852847
+      dainty_hair_medium_red_8: 8349505056776675827
+      dainty_hair_medium_red_9: -4516696953874014859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

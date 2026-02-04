@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_owl_captured_0: 7280260774094273622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

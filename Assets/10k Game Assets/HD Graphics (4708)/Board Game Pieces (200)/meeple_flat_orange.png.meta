@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meeple_flat_orange_0: 301045185951633335
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

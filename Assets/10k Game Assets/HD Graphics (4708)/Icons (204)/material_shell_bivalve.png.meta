@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      material_shell_bivalve_0: 3031550690045280149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

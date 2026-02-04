@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_triangle_white_0: 7845423725990114032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

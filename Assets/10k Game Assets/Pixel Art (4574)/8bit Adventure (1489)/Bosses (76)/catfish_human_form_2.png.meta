@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      catfish_human_form_2_0: 6574338643949481312
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mantis_0: 665313845716424348
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

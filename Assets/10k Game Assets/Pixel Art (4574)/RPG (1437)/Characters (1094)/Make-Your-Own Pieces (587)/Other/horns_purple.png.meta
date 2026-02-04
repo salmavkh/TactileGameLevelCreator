@@ -585,7 +585,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      horns_purple_0: 7595893881400434017
+      horns_purple_1: -4157349443894058025
+      horns_purple_10: -1496105293503758830
+      horns_purple_11: 499104776042585373
+      horns_purple_12: -6765053667401525412
+      horns_purple_13: -4358692428147562787
+      horns_purple_14: -2869536080395999943
+      horns_purple_15: -3547115194483049654
+      horns_purple_16: 4206568227465804776
+      horns_purple_17: 6145730818037775508
+      horns_purple_2: -2648204508737864617
+      horns_purple_3: 1312627158206958123
+      horns_purple_4: -2857112822079662068
+      horns_purple_5: -3269657093355618297
+      horns_purple_6: 1608873811056116668
+      horns_purple_7: -7099513866071871826
+      horns_purple_8: 1663834498669717311
+      horns_purple_9: 8439023444916202618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chess_board_0: 2292675106818252411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

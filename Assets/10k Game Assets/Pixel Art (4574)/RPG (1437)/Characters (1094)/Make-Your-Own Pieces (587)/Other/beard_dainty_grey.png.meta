@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      beard_dainty_grey_0: 2210388899734521642
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

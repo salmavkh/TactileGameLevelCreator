@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      twins_human_form_3_0: 4769666765005403068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ball_purple_flat_outline_0: -8849243936330343172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

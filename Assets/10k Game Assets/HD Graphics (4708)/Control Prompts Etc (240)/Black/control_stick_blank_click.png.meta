@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      control_stick_blank_click_0: 5222199767279803405
+      control_stick_blank_click_1: -202584592043012277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

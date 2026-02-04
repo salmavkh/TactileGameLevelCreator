@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wormhole_0: -5298761639805663854
+      wormhole_1: -3267046617091468725
+      wormhole_10: -8221737880315791370
+      wormhole_11: 8294557882674399908
+      wormhole_12: -8298496702817282899
+      wormhole_13: 4132413771166784131
+      wormhole_14: -8711644004776441142
+      wormhole_15: 2914590336776944107
+      wormhole_16: 4707962280967063410
+      wormhole_17: 5936808635609119116
+      wormhole_18: -4293734815905823883
+      wormhole_19: 7001057130097111798
+      wormhole_2: -3953161836808803914
+      wormhole_20: -5159046173100800161
+      wormhole_21: 830312045388177911
+      wormhole_22: 8303573041894453557
+      wormhole_23: -4588195985672060573
+      wormhole_3: 2029918482453938759
+      wormhole_4: 6408381323374285104
+      wormhole_5: -4891923633583013665
+      wormhole_6: 2230254248641353910
+      wormhole_7: 7565980280263271130
+      wormhole_8: 182884849725746620
+      wormhole_9: 425250188889294235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

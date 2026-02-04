@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_grass_graveyard_0: 4398046554702748577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

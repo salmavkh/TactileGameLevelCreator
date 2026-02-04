@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_medium_pink_0: -5841705174671654847
+      average_hair_medium_pink_1: 911668263945398771
+      average_hair_medium_pink_10: 7358455728818125494
+      average_hair_medium_pink_11: 7387060073934174663
+      average_hair_medium_pink_2: 8964420921751461837
+      average_hair_medium_pink_3: 5364744631604680924
+      average_hair_medium_pink_4: -1262620846314860227
+      average_hair_medium_pink_5: -5777931764732999774
+      average_hair_medium_pink_6: 1528028741158833579
+      average_hair_medium_pink_7: -5463465458988976357
+      average_hair_medium_pink_8: 3102420081291881041
+      average_hair_medium_pink_9: -4321205288829366861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

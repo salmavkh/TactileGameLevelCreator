@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_bikini_green_0: 2829786149886130559
+      dainty_bikini_green_1: -7624718936013383431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

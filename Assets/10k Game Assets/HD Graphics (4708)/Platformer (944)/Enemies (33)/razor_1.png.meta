@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      razor_1_0: 3772498115782130908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

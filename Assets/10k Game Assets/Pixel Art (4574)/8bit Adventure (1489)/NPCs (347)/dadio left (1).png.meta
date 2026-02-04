@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dadio left (1)_0: 165898129406123133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

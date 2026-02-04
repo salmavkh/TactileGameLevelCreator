@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ball_green_shaded_outline_0: 2985475816798393086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

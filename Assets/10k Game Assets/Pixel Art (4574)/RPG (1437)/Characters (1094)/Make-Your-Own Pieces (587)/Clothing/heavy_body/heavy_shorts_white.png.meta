@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_shorts_white_0: 2610556744464554493
+      heavy_shorts_white_1: -5829807669270481773
+      heavy_shorts_white_10: -6594991892770276779
+      heavy_shorts_white_11: -572892580113896442
+      heavy_shorts_white_2: -868409173556855481
+      heavy_shorts_white_3: 2756646866574660377
+      heavy_shorts_white_4: -9035996880281336825
+      heavy_shorts_white_5: 4283324154640027108
+      heavy_shorts_white_6: -9066602254947707852
+      heavy_shorts_white_7: 4928370291420885256
+      heavy_shorts_white_8: 3296440839888921564
+      heavy_shorts_white_9: -5519004281757951383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

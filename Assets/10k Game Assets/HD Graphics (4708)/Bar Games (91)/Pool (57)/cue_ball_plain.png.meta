@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cue_ball_plain_0: 4013273967386984129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

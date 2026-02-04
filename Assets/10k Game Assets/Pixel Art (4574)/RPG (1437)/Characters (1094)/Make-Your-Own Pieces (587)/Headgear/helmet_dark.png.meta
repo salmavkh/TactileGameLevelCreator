@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helmet_dark_0: 7772525152330507756
+      helmet_dark_1: -4369418333421997534
+      helmet_dark_10: -5563137263806879183
+      helmet_dark_11: 5257140543225212089
+      helmet_dark_2: 3214427715255951903
+      helmet_dark_3: -2455530564545851841
+      helmet_dark_4: -3704282882895250852
+      helmet_dark_5: -6675565585025303388
+      helmet_dark_6: 8876266307933988448
+      helmet_dark_7: -1350262005265412493
+      helmet_dark_8: 2224578126163929733
+      helmet_dark_9: 2089854454858224212
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

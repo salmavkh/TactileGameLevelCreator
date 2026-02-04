@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      striped_yellow_corner_bottom_left_0: 6875710274655770332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

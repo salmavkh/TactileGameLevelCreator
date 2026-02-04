@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      padcircle_animate_left_0: -5125436802409215664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

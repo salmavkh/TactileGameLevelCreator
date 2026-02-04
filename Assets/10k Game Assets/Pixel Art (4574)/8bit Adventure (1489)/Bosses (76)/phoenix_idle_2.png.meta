@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      phoenix_idle_2_0: -5340577977925374867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

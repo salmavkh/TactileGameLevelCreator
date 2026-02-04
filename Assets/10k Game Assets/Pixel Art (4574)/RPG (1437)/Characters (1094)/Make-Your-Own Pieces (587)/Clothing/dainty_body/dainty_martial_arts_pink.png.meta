@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_martial_arts_pink_0: -4966753769186049316
+      dainty_martial_arts_pink_1: -1375622367610044085
+      dainty_martial_arts_pink_10: -4524338614983326575
+      dainty_martial_arts_pink_11: -6311028531962699961
+      dainty_martial_arts_pink_2: 8458177041175462759
+      dainty_martial_arts_pink_3: 356563568065089214
+      dainty_martial_arts_pink_4: -1082258771345954681
+      dainty_martial_arts_pink_5: -7322742035044009695
+      dainty_martial_arts_pink_6: 7183779751411259201
+      dainty_martial_arts_pink_7: 4536836202318040391
+      dainty_martial_arts_pink_8: 4845254554245070571
+      dainty_martial_arts_pink_9: -3399744616973444753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

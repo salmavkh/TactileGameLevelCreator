@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_amethyst_0: -8555375827058381262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

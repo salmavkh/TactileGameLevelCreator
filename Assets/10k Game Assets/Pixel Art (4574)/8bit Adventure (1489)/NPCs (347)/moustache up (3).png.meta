@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moustache up (3)_0: 5162715813526986004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

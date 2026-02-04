@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_armor_dragon_0: 5477485905964393324
+      average_armor_dragon_1: 3977139470173971002
+      average_armor_dragon_2: 4755218904953631112
+      average_armor_dragon_3: -4548929514503943871
+      average_armor_dragon_4: -5729779486398693675
+      average_armor_dragon_5: 5184883284992289608
+      average_armor_dragon_6: -7350999827111787338
+      average_armor_dragon_7: 7083421800156381865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

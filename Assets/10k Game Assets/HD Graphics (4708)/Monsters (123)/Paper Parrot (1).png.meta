@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paper Parrot (1)_0: -3398873496270836821
+      Paper Parrot (1)_1: 6081174251609234785
+      Paper Parrot (1)_2: -594887801788623027
+      Paper Parrot (1)_3: 164025468227153855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      volcano tiles (56)_0: -7389029019136130377
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

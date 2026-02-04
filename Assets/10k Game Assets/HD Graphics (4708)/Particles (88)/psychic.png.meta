@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      psychic_0: 5126300740797948313
+      psychic_1: 927810441223323204
+      psychic_10: 4984658706936102525
+      psychic_11: 4152535011578805548
+      psychic_12: 2565540949312397850
+      psychic_13: -8574851244467147147
+      psychic_14: 7430712788989995038
+      psychic_15: -40447067322653282
+      psychic_16: 1917761593767816625
+      psychic_17: -2261461979949718142
+      psychic_18: -6615318725864197282
+      psychic_19: 548417471076798210
+      psychic_2: 779221973109347579
+      psychic_3: -4986382968206249110
+      psychic_4: -875234570610734388
+      psychic_5: -230672039933376840
+      psychic_6: 1414999039323883223
+      psychic_7: 3917248837867201289
+      psychic_8: 3871408221736744684
+      psychic_9: -6434595948011396893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

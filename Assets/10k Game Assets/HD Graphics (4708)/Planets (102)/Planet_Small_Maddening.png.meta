@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_Maddening_0: -4280142151814622661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

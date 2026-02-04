@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      river_corner_top_left_0: 7443469918219759226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

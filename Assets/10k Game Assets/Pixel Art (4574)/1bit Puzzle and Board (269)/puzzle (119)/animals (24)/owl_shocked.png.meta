@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      owl_shocked_0: -6430475981313304424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

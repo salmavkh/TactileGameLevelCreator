@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      log_pile_snowy_0: -4687798089901918410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

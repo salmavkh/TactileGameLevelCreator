@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lost Soul (2)_0: 9060651269028028079
+      Lost Soul (2)_1: 3616707768848169956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

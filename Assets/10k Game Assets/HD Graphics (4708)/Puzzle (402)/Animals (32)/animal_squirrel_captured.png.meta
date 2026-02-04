@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_squirrel_captured_0: 8982922301341086947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_martial_arts_white_0: -5449373565267873704
+      heavy_martial_arts_white_1: -4836307939717399076
+      heavy_martial_arts_white_10: -1275955273084489600
+      heavy_martial_arts_white_11: 4966937534021921146
+      heavy_martial_arts_white_2: -3147490605199688464
+      heavy_martial_arts_white_3: 5087988100727294426
+      heavy_martial_arts_white_4: 3782843630520956402
+      heavy_martial_arts_white_5: 3594061492700307296
+      heavy_martial_arts_white_6: 5620827191965484527
+      heavy_martial_arts_white_7: 5851016849935753437
+      heavy_martial_arts_white_8: 714780079705432321
+      heavy_martial_arts_white_9: 1454269181611152618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

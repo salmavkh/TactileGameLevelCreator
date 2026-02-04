@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      weapon_flail_iron_0: -8551082945287992135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

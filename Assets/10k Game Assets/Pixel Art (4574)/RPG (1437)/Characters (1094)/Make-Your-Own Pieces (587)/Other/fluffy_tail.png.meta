@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fluffy_tail_0: -3558206366958129486
+      fluffy_tail_1: -8858944687631932138
+      fluffy_tail_10: -5994001659583017084
+      fluffy_tail_11: -2320083681450059996
+      fluffy_tail_2: -5647315759409325341
+      fluffy_tail_3: -1684417039149532577
+      fluffy_tail_4: -3193714378562200758
+      fluffy_tail_5: -7564006349408306667
+      fluffy_tail_6: 9176884361781151307
+      fluffy_tail_7: 3382888022272367859
+      fluffy_tail_8: -8499306187798972044
+      fluffy_tail_9: 630758978885833249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

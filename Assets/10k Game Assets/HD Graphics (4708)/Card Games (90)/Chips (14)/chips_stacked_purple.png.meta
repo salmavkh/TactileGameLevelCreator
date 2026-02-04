@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chips_stacked_purple_0: 8833192940592911601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

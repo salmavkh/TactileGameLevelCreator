@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demoness_spritesheet_0: 2965248854874928595
+      demoness_spritesheet_1: -2118267228489115335
+      demoness_spritesheet_2: -5664619614703616715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

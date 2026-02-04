@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lake_night_frame_3_0: 3866654300280635303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

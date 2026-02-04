@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pigeon_looking_2_0: -5358337275963499072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

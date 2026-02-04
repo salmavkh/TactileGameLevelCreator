@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_dress_red_0: 3225215148846925023
+      average_dress_red_1: -8341462595310836002
+      average_dress_red_10: -8757896452155882317
+      average_dress_red_11: 918305751655142638
+      average_dress_red_2: -1994818874352971748
+      average_dress_red_3: 2768432942850112442
+      average_dress_red_4: -1133675880753676484
+      average_dress_red_5: -5008167586801052746
+      average_dress_red_6: -983301166358705787
+      average_dress_red_7: 4020949536389412452
+      average_dress_red_8: -5987600204597038020
+      average_dress_red_9: 6060428589121044980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

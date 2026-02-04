@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rpg_tileset_beach_town_0: 9069512148909566463
+      rpg_tileset_beach_town_1: -1197734017408900160
+      rpg_tileset_beach_town_10: 8559295324735659861
+      rpg_tileset_beach_town_11: 4123974327368866596
+      rpg_tileset_beach_town_12: -7920332443184239187
+      rpg_tileset_beach_town_13: -7468407997496484863
+      rpg_tileset_beach_town_14: -7757612311751341772
+      rpg_tileset_beach_town_2: -2753842624510173706
+      rpg_tileset_beach_town_3: -7828746549884289073
+      rpg_tileset_beach_town_4: 2099259117048691999
+      rpg_tileset_beach_town_5: -2310732307460700806
+      rpg_tileset_beach_town_6: 3558822125465706098
+      rpg_tileset_beach_town_7: 5345081208567708900
+      rpg_tileset_beach_town_8: 8928709789695866687
+      rpg_tileset_beach_town_9: 5630608106111012133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

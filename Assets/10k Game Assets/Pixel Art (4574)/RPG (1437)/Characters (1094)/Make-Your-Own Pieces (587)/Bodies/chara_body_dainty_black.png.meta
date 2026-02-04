@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chara_body_dainty_black_0: 3284092989444689431
+      chara_body_dainty_black_1: 7356119291034221171
+      chara_body_dainty_black_10: -2080640848601665249
+      chara_body_dainty_black_11: 2665225367625335313
+      chara_body_dainty_black_2: -8059528188627469667
+      chara_body_dainty_black_3: -1669996886837682189
+      chara_body_dainty_black_4: 2284433469744287780
+      chara_body_dainty_black_5: 8137943550994054350
+      chara_body_dainty_black_6: 2610456625243978638
+      chara_body_dainty_black_7: -4635191957413526128
+      chara_body_dainty_black_8: 7291634160373469676
+      chara_body_dainty_black_9: -1761982054705272031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

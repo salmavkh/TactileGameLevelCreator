@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      batseye (1)_0: -9054658140341058944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

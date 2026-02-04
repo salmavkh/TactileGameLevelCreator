@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clownf_walk_2_0: 753064119647409821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

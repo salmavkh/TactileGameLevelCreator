@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oldman_spritesheet_0: -5548970418523288222
+      oldman_spritesheet_1: 3678447782383768666
+      oldman_spritesheet_10: 2972437742283435013
+      oldman_spritesheet_11: 5850394250666946926
+      oldman_spritesheet_2: 1076438162267515315
+      oldman_spritesheet_3: 7862997236210346237
+      oldman_spritesheet_4: -6064473477736714299
+      oldman_spritesheet_5: 1158801877925845006
+      oldman_spritesheet_6: -4194536650863587220
+      oldman_spritesheet_7: -7568365330377488370
+      oldman_spritesheet_8: 1471698808461488849
+      oldman_spritesheet_9: 288033181970753560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

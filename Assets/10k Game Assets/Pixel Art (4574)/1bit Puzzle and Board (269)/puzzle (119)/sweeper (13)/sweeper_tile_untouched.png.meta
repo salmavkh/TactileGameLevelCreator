@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sweeper_tile_untouched_0: -195078065566301362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

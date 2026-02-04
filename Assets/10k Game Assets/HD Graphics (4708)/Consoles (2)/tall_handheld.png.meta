@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tall_handheld_0: -5348221365999238486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

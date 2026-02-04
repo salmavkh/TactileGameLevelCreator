@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      four_buttons_vertical_0: -8993938489957807920
+      four_buttons_vertical_1: -5581729924565202155
+      four_buttons_vertical_2: -634782431604518250
+      four_buttons_vertical_3: 7707426093272522254
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

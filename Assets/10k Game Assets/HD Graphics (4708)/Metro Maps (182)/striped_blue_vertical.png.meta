@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      striped_blue_vertical_0: 4109654094836657838
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

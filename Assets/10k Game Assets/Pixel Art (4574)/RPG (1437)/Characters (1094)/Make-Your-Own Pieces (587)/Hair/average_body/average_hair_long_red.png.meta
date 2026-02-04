@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_long_red_0: -8274585337268370991
+      average_hair_long_red_1: -4134643182697331144
+      average_hair_long_red_10: 6557000289160869506
+      average_hair_long_red_11: 8175946912736215283
+      average_hair_long_red_2: -6132320682781378437
+      average_hair_long_red_3: -5361916661682395187
+      average_hair_long_red_4: -6337845151806141791
+      average_hair_long_red_5: -302808263076230594
+      average_hair_long_red_6: -7940109629893966787
+      average_hair_long_red_7: -3038247148921562318
+      average_hair_long_red_8: 872640292572760531
+      average_hair_long_red_9: -7417658416168686643
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

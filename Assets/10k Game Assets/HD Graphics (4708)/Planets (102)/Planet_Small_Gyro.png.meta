@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_Gyro_0: 4466902903062134652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

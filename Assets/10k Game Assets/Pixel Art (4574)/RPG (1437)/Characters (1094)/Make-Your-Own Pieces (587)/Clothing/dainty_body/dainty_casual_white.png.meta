@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_casual_white_0: 2033915885552977817
+      dainty_casual_white_1: -6537689348606622696
+      dainty_casual_white_10: -169207087979958295
+      dainty_casual_white_11: 7057792444818752386
+      dainty_casual_white_2: -3390849618289682838
+      dainty_casual_white_3: 8523313088729511636
+      dainty_casual_white_4: -1632628930707857559
+      dainty_casual_white_5: -6670828395043226351
+      dainty_casual_white_6: -5165700484624287337
+      dainty_casual_white_7: 1094009229973700002
+      dainty_casual_white_8: -7336386259477683673
+      dainty_casual_white_9: -5646383414567238752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

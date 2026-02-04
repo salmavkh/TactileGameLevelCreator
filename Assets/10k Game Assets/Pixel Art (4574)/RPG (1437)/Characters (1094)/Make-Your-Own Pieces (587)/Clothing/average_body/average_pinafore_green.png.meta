@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_pinafore_green_0: -5388186879315007583
+      average_pinafore_green_1: 7769368945120110083
+      average_pinafore_green_10: -1493897326021269084
+      average_pinafore_green_11: -795910321065657795
+      average_pinafore_green_2: -7886482860552799768
+      average_pinafore_green_3: -5476842490446396536
+      average_pinafore_green_4: -3500971169854876464
+      average_pinafore_green_5: -8709212565236368604
+      average_pinafore_green_6: 2940574707748306674
+      average_pinafore_green_7: 1163253986036034730
+      average_pinafore_green_8: 6530650942547226409
+      average_pinafore_green_9: 53025116393720538
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

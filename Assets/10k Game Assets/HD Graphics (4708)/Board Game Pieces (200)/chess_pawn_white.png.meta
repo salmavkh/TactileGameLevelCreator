@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chess_pawn_white_0: -4594173861439699070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

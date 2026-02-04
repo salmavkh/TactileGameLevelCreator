@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Medium_Arbore_II_0: -7923266398860180892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

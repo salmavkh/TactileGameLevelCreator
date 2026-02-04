@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helmet_dainty_gold_0: 3001772558029799936
+      helmet_dainty_gold_1: 7147305266261063586
+      helmet_dainty_gold_10: -9122486708233954620
+      helmet_dainty_gold_11: 2133621711137392495
+      helmet_dainty_gold_2: -8122879512809750143
+      helmet_dainty_gold_3: -1544229608000330280
+      helmet_dainty_gold_4: 1659188541629852702
+      helmet_dainty_gold_5: 9071784441472655607
+      helmet_dainty_gold_6: -6891570858733422925
+      helmet_dainty_gold_7: -1420678004160208300
+      helmet_dainty_gold_8: -7794748897453771368
+      helmet_dainty_gold_9: -331581307790570648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

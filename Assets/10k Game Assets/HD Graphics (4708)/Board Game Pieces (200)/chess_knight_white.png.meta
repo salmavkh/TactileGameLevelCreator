@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chess_knight_white_0: 2552378676547880672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

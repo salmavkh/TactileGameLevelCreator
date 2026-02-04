@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      catfish_vortex_2_0: 4580393269792016556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

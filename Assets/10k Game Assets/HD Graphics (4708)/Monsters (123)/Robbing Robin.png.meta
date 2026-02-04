@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Robbing Robin_0: -5869425718774208212
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

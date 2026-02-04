@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chara_body_average_red_0: -3187264471589067571
+      chara_body_average_red_1: 4094625748146646859
+      chara_body_average_red_10: -6169539117663178417
+      chara_body_average_red_11: -1337313647400618034
+      chara_body_average_red_2: 4907833491686998199
+      chara_body_average_red_3: -1263598833898328551
+      chara_body_average_red_4: -7607441209738616267
+      chara_body_average_red_5: -7598106815153470221
+      chara_body_average_red_6: -7429299508268313291
+      chara_body_average_red_7: -2617258683974636816
+      chara_body_average_red_8: 3558766022099526080
+      chara_body_average_red_9: -4986511125774657868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

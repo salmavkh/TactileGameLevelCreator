@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ukulele_0: 2732200362883988084
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

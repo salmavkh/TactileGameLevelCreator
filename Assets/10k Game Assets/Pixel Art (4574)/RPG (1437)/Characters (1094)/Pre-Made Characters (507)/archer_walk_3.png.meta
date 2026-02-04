@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      archer_walk_3_0: -3954187736496419678
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pool_ball_plain_4_0: -1176649381936959059
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

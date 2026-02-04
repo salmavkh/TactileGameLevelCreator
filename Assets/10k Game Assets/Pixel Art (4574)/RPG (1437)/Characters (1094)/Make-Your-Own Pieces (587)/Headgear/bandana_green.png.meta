@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bandana_green_0: -3007127702878544195
+      bandana_green_1: 6325631263169700579
+      bandana_green_10: 6144983335124879705
+      bandana_green_11: -24118999581383517
+      bandana_green_2: -1566349658962387663
+      bandana_green_3: 8646812262666715678
+      bandana_green_4: 1383620310003649183
+      bandana_green_5: 4908491664570294946
+      bandana_green_6: 7507554293346026140
+      bandana_green_7: 7083676947108123259
+      bandana_green_8: -1590996384119629540
+      bandana_green_9: 8871809527170184481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

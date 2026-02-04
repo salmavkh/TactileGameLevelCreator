@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower dusty (2)_0: -2630672593199750431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

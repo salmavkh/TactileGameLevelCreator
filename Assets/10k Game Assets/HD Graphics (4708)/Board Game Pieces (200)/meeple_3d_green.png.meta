@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meeple_3d_green_0: 294445982869259723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_casual_green_0: 8215080346926772377
+      average_casual_green_1: 3425915050804237402
+      average_casual_green_10: 5576474398295029789
+      average_casual_green_11: 1187595054774373708
+      average_casual_green_2: -8860680771349990042
+      average_casual_green_3: -9042249318345385157
+      average_casual_green_4: -3972734541674856904
+      average_casual_green_5: 4094259591935160346
+      average_casual_green_6: -5919458840530256934
+      average_casual_green_7: 6072956573674645977
+      average_casual_green_8: -6599777927182412590
+      average_casual_green_9: -1680896196151854484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

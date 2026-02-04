@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_tunic_blue_0: -1996232557869204006
+      dainty_tunic_blue_1: -3600782707231323525
+      dainty_tunic_blue_10: -8541761487169403735
+      dainty_tunic_blue_11: -2739738818122439677
+      dainty_tunic_blue_2: 2699664898140996907
+      dainty_tunic_blue_3: -5906202667491725898
+      dainty_tunic_blue_4: 8682931083637706110
+      dainty_tunic_blue_5: -25615883686133757
+      dainty_tunic_blue_6: -6718540246987872937
+      dainty_tunic_blue_7: -6899664089087698788
+      dainty_tunic_blue_8: -2609359853066912921
+      dainty_tunic_blue_9: 3320422784767225782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

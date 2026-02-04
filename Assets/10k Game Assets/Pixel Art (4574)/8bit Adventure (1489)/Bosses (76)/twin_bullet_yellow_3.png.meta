@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      twin_bullet_yellow_3_0: -1639619675536005478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

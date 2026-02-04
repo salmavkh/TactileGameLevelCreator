@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      phoenix_hurt_4_0: -5328815500235306039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

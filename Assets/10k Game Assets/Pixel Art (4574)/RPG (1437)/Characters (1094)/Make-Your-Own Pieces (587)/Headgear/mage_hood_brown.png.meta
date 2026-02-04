@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mage_hood_brown_0: -7312618742300216141
+      mage_hood_brown_1: -1683570714448317116
+      mage_hood_brown_10: 7240037371939307474
+      mage_hood_brown_11: -5677693880836864461
+      mage_hood_brown_2: -3012727491776411434
+      mage_hood_brown_3: -2928007255280735251
+      mage_hood_brown_4: -4853377156849247823
+      mage_hood_brown_5: 7134352029085835851
+      mage_hood_brown_6: 3604567132806837326
+      mage_hood_brown_7: -8441953216783399165
+      mage_hood_brown_8: 1858776585412724845
+      mage_hood_brown_9: 4612546585320977516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

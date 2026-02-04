@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dartboard_wires_light_0: -2501990024302539804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

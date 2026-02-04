@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pigeon_flying_left_1_0: 4351816469934740370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

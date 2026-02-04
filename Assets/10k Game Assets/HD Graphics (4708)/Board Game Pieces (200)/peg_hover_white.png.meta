@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peg_hover_white_0: -7718029184707070172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

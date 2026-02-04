@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_casual_pink_0: 320139407357214793
+      average_casual_pink_1: -8970379530486165874
+      average_casual_pink_10: 3951401736554297347
+      average_casual_pink_11: -4566215244324949785
+      average_casual_pink_2: 2590263634347783867
+      average_casual_pink_3: 7454559540607070220
+      average_casual_pink_4: -9197123209227727176
+      average_casual_pink_5: -3189726674832973910
+      average_casual_pink_6: -62573263459686016
+      average_casual_pink_7: 8412258088291262447
+      average_casual_pink_8: -2445210393419754511
+      average_casual_pink_9: 7313386703630108303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

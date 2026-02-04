@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dart_side_silver_red_outline_0: 5108461784435897647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

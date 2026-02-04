@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      striped_blue_end_right_0: 4122458430856652054
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

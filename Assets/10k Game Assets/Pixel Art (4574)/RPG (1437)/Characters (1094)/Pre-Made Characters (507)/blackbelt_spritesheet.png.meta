@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blackbelt_spritesheet_0: 6959396977213156688
+      blackbelt_spritesheet_1: -1409356881131323420
+      blackbelt_spritesheet_10: 1324348057641228291
+      blackbelt_spritesheet_11: 2761237662906393016
+      blackbelt_spritesheet_2: 3779007187638343461
+      blackbelt_spritesheet_3: -5891180115817171399
+      blackbelt_spritesheet_4: -7268880929370886486
+      blackbelt_spritesheet_5: 9099538798936456464
+      blackbelt_spritesheet_6: 1063082905334545547
+      blackbelt_spritesheet_7: -2426230059099006137
+      blackbelt_spritesheet_8: 7374971104859493682
+      blackbelt_spritesheet_9: 5161725278845514725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

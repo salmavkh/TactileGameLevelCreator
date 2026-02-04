@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_armor_gold_0: -6225853753747140446
+      average_armor_gold_1: 7811543195903168946
+      average_armor_gold_2: 8416892346537666296
+      average_armor_gold_3: -2540520488208543889
+      average_armor_gold_4: 1661350479512824433
+      average_armor_gold_5: 5848281986895178614
+      average_armor_gold_6: -7266870837570092233
+      average_armor_gold_7: 6871734034930571954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

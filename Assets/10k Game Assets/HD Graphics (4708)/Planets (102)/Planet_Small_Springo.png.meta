@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_Springo_0: 8511133252442073314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

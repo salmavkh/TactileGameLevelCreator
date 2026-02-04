@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cliff_9slice_dark_grey_0: -3404380866108200571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

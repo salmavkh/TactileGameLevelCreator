@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      phoenix_flame_2_0: -851970993091423762
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

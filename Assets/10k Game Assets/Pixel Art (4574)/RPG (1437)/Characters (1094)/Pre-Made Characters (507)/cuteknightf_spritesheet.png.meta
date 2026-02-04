@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cuteknightf_spritesheet_0: 6814446754218115888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

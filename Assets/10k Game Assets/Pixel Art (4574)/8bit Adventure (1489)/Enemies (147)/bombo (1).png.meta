@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bombo (1)_0: -360534300430014623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

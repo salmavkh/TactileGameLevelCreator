@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_armor_dark_0: 1332957621648596341
+      heavy_armor_dark_1: 1071534892807405646
+      heavy_armor_dark_2: -1552732701292229744
+      heavy_armor_dark_3: 3014155189800882442
+      heavy_armor_dark_4: -3858329384951495106
+      heavy_armor_dark_5: -679860157688569015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

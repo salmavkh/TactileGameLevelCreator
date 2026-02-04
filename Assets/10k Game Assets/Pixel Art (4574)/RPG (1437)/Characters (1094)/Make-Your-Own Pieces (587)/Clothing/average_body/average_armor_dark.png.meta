@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_armor_dark_0: 211734629289488966
+      average_armor_dark_1: -2462889374837082877
+      average_armor_dark_2: -3441448612928693081
+      average_armor_dark_3: 2445740628554983952
+      average_armor_dark_4: -1194630964342066831
+      average_armor_dark_5: 1629262849114393138
+      average_armor_dark_6: -4220899258263181408
+      average_armor_dark_7: 2652417346026264944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Medium_Honey_0: -791001848609788163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

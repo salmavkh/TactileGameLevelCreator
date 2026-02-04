@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_spiky_blue_0: -2142459427254935352
+      heavy_hair_spiky_blue_1: 5960733927689502886
+      heavy_hair_spiky_blue_10: 8463115742544766102
+      heavy_hair_spiky_blue_11: 3356686167736599038
+      heavy_hair_spiky_blue_2: -5103154245880743379
+      heavy_hair_spiky_blue_3: -3169247271486776429
+      heavy_hair_spiky_blue_4: -5826951576272545015
+      heavy_hair_spiky_blue_5: -4410179043760811884
+      heavy_hair_spiky_blue_6: -2306523293847138521
+      heavy_hair_spiky_blue_7: 3347204590118573565
+      heavy_hair_spiky_blue_8: 6975588249210060921
+      heavy_hair_spiky_blue_9: 3653968690650123376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

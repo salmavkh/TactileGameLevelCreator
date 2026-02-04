@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_bubble_frame_2_0: -3944327626673240557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

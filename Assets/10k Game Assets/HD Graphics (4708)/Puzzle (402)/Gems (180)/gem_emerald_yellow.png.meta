@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_emerald_yellow_0: 3478030294969558524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

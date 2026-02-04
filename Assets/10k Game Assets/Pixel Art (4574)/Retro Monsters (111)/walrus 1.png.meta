@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walrus 1_0: -7623127510666925651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

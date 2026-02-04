@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gladiatorf_spritesheet_0: 1359367675499913305
+      gladiatorf_spritesheet_1: -4075378670838734948
+      gladiatorf_spritesheet_2: 6178436812555134667
+      gladiatorf_spritesheet_3: 857533073454484221
+      gladiatorf_spritesheet_4: -5698301194957433386
+      gladiatorf_spritesheet_5: -238153606195335067
+      gladiatorf_spritesheet_6: 8174528544157666555
+      gladiatorf_spritesheet_7: -8272057084513667497
+      gladiatorf_spritesheet_8: 7548186973708961409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

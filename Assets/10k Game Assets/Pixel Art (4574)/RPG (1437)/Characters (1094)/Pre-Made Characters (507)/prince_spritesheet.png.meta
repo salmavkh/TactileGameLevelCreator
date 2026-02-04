@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      prince_spritesheet_0: 3258212689587989417
+      prince_spritesheet_1: -4782639425469368622
+      prince_spritesheet_2: -1028898908714915006
+      prince_spritesheet_3: 6490081879007069607
+      prince_spritesheet_4: -3229534981140564864
+      prince_spritesheet_5: -4545574857364670584
+      prince_spritesheet_6: -7396892269293994791
+      prince_spritesheet_7: -4365214617259062270
+      prince_spritesheet_8: 8279482706342041519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

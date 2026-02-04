@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      thief_spritesheet_0: -3638998658204663739
+      thief_spritesheet_1: -6892233851823928352
+      thief_spritesheet_2: -1931805191635226558
+      thief_spritesheet_3: 3367639778187360195
+      thief_spritesheet_4: -463041411962992627
+      thief_spritesheet_5: -3737834225523641059
+      thief_spritesheet_6: 1646285254982283999
+      thief_spritesheet_7: -2565753810609413948
+      thief_spritesheet_8: 4229812549790152617
+      thief_spritesheet_9: 7987762608231454175
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

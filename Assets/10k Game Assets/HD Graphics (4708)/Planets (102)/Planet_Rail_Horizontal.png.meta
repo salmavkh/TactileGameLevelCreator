@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Rail_Horizontal_0: 4063074684483532732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

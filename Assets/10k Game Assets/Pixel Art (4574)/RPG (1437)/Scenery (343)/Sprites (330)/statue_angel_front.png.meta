@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      statue_angel_front_0: -5362688199278716417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

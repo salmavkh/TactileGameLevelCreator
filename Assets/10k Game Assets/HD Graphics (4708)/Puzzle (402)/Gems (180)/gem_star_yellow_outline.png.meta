@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_star_yellow_outline_0: 5647974572466459387
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

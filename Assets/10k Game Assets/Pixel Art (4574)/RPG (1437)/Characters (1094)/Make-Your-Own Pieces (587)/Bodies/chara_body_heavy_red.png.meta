@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chara_body_heavy_red_0: 3289429827326677816
+      chara_body_heavy_red_1: 2458381388283429259
+      chara_body_heavy_red_2: 1633697798048898075
+      chara_body_heavy_red_3: 8850867745809291292
+      chara_body_heavy_red_4: -5851022789789488642
+      chara_body_heavy_red_5: 229892464505876387
+      chara_body_heavy_red_6: -3501481263000873660
+      chara_body_heavy_red_7: 576411607256801899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

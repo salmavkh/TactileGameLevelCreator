@@ -585,7 +585,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rpg_tileset_snow_town_0: -9117532168278027748
+      rpg_tileset_snow_town_1: 7068048588842526898
+      rpg_tileset_snow_town_10: -2112599425259872304
+      rpg_tileset_snow_town_11: -8783980611610395418
+      rpg_tileset_snow_town_12: -7985331064781962451
+      rpg_tileset_snow_town_13: -196162009538396866
+      rpg_tileset_snow_town_14: -2158668835434993854
+      rpg_tileset_snow_town_15: 6746353911265561884
+      rpg_tileset_snow_town_16: -4845789785955032561
+      rpg_tileset_snow_town_17: 7287879193831929284
+      rpg_tileset_snow_town_2: 3241615330882981188
+      rpg_tileset_snow_town_3: -5636478397980160063
+      rpg_tileset_snow_town_4: 6459397875366515194
+      rpg_tileset_snow_town_5: 529781522198419716
+      rpg_tileset_snow_town_6: 2878404221369157442
+      rpg_tileset_snow_town_7: -3187289236675047541
+      rpg_tileset_snow_town_8: 4815933112769023342
+      rpg_tileset_snow_town_9: 7391359533261963797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_raindrop_yellow_outline_0: -5005493140606596104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

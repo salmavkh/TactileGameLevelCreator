@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Huge_Springo_0: -1156995268754223934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

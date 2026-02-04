@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      food_chestnut_in_shell_0: -8991902939366773035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

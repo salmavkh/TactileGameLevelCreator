@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      striped_black_horizontal_0: -5678028059045617364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

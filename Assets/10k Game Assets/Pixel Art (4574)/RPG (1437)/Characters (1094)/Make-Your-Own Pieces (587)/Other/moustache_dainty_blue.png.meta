@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moustache_dainty_blue_0: 6336861602371585731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

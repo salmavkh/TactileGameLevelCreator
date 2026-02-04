@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_pinafore_red_0: -5790832590015258037
+      heavy_pinafore_red_1: -8200717896017432089
+      heavy_pinafore_red_10: -5565584651189461263
+      heavy_pinafore_red_11: -1502279784340968176
+      heavy_pinafore_red_2: -5755969518996033335
+      heavy_pinafore_red_3: 3748310769259830634
+      heavy_pinafore_red_4: -5508546370268982716
+      heavy_pinafore_red_5: -7877498252831552791
+      heavy_pinafore_red_6: -4471137201451749864
+      heavy_pinafore_red_7: -6128019229735113454
+      heavy_pinafore_red_8: -8404226767192435524
+      heavy_pinafore_red_9: -5228439471178262852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

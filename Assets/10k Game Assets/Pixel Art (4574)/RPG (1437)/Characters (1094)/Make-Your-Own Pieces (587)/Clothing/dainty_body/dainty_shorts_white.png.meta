@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_shorts_white_0: -5816646816154912085
+      dainty_shorts_white_1: -3884296377593651931
+      dainty_shorts_white_10: -6849180279858641418
+      dainty_shorts_white_11: 9210351670882593237
+      dainty_shorts_white_2: -1285119572241491982
+      dainty_shorts_white_3: -5360015729490056810
+      dainty_shorts_white_4: 5542577404104184401
+      dainty_shorts_white_5: -6637250134110814620
+      dainty_shorts_white_6: 3535987355052957391
+      dainty_shorts_white_7: -7680975720683430649
+      dainty_shorts_white_8: -9021434429791744719
+      dainty_shorts_white_9: 5185271649899229420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

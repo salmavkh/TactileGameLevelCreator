@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_pentagon_pink_outline_0: -8677359193005106557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

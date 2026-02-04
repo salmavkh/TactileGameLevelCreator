@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      waterfall (2)_0: -1020668870333782124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

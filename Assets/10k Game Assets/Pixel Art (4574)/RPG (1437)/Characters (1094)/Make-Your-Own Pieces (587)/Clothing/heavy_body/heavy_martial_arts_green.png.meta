@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_martial_arts_green_0: -3991862682287902329
+      heavy_martial_arts_green_1: 4288339472838950375
+      heavy_martial_arts_green_10: -6877922550866680844
+      heavy_martial_arts_green_11: -5774780212479308256
+      heavy_martial_arts_green_2: -6293902376706880048
+      heavy_martial_arts_green_3: -1695178738478099156
+      heavy_martial_arts_green_4: 7974194833903339217
+      heavy_martial_arts_green_5: -7218324320732089974
+      heavy_martial_arts_green_6: 5287689724553364075
+      heavy_martial_arts_green_7: 1430724503905521752
+      heavy_martial_arts_green_8: -3561026425231178945
+      heavy_martial_arts_green_9: -9101452045422024015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

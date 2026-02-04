@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      squirrel_shocked_0: 6481762267663469035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

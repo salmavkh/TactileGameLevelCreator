@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sunglasses_dainty_0: 5493090839158809963
+      sunglasses_dainty_1: -3667859916408101708
+      sunglasses_dainty_2: 6051846294611427375
+      sunglasses_dainty_3: 8167624184098877682
+      sunglasses_dainty_4: 2661211803482512976
+      sunglasses_dainty_5: 6624348530138710855
+      sunglasses_dainty_6: 5589696898110810237
+      sunglasses_dainty_7: 917033016665171392
+      sunglasses_dainty_8: -9146841134267389409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

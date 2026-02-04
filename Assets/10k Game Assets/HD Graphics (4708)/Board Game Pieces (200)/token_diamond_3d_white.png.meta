@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      token_diamond_3d_white_0: 8345473488249150297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

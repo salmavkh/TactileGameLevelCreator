@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ninja_spritesheet_0: -8438027841955929113
+      ninja_spritesheet_1: 8745419799217331343
+      ninja_spritesheet_2: 1958759077341377176
+      ninja_spritesheet_3: 4283699191970080522
+      ninja_spritesheet_4: 8482268300649736051
+      ninja_spritesheet_5: 7395590163646705363
+      ninja_spritesheet_6: 2984537477001521643
+      ninja_spritesheet_7: -643936226315394966
+      ninja_spritesheet_8: -128116843386633065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

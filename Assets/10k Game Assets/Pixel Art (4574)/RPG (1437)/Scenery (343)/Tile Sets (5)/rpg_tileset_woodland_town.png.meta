@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rpg_tileset_woodland_town_0: 501939906004065819
+      rpg_tileset_woodland_town_1: 7002845993823404400
+      rpg_tileset_woodland_town_10: 9080456584262827862
+      rpg_tileset_woodland_town_11: 58820105556430156
+      rpg_tileset_woodland_town_12: 8510471973553071545
+      rpg_tileset_woodland_town_13: 606680352933903692
+      rpg_tileset_woodland_town_14: -5166888277350420353
+      rpg_tileset_woodland_town_15: 5336593674519694432
+      rpg_tileset_woodland_town_16: 5964636271261732522
+      rpg_tileset_woodland_town_17: -6182301624732848617
+      rpg_tileset_woodland_town_18: 2978657827009221861
+      rpg_tileset_woodland_town_19: -5751471736147259158
+      rpg_tileset_woodland_town_2: 2716559532568545478
+      rpg_tileset_woodland_town_20: -5142401209901596818
+      rpg_tileset_woodland_town_21: -4616939758652954623
+      rpg_tileset_woodland_town_22: -4660959519053770944
+      rpg_tileset_woodland_town_23: -6946626940954109991
+      rpg_tileset_woodland_town_3: 4826251090766627244
+      rpg_tileset_woodland_town_4: -7452032604888831114
+      rpg_tileset_woodland_town_5: -2457995539059217129
+      rpg_tileset_woodland_town_6: -3119962137769733856
+      rpg_tileset_woodland_town_7: 8936858469958993147
+      rpg_tileset_woodland_town_8: -4573301120058179640
+      rpg_tileset_woodland_town_9: -8446477785093350865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

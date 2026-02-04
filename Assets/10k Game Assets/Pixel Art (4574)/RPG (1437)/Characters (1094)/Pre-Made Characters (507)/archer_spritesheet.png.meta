@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      archer_spritesheet_0: -1669685402457937117
+      archer_spritesheet_1: -7278340446671699646
+      archer_spritesheet_2: 3625765075456212385
+      archer_spritesheet_3: 4481441206961534651
+      archer_spritesheet_4: 2476598366320609534
+      archer_spritesheet_5: 4534174152886493063
+      archer_spritesheet_6: -1421799881342195227
+      archer_spritesheet_7: 3160931975792569491
+      archer_spritesheet_8: 5838037679458108997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

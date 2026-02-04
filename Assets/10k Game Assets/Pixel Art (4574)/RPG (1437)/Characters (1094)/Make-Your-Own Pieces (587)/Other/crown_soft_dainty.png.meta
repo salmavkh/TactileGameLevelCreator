@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crown_soft_dainty_0: -3375003051052086190
+      crown_soft_dainty_1: -2151906276095949143
+      crown_soft_dainty_10: -9036013768729635165
+      crown_soft_dainty_11: 5316499599433415923
+      crown_soft_dainty_2: 6726070481030194945
+      crown_soft_dainty_3: -4882480128933994587
+      crown_soft_dainty_4: 4925538838017628139
+      crown_soft_dainty_5: -1483234957009584423
+      crown_soft_dainty_6: -5177462955561097514
+      crown_soft_dainty_7: 536634253040466463
+      crown_soft_dainty_8: -6441914832010607072
+      crown_soft_dainty_9: -3688325304912319823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

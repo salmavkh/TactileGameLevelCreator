@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      house_woodland_2_0: -2442599996908958124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

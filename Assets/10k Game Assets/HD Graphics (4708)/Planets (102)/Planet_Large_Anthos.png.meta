@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Large_Anthos_0: 824177081036168192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

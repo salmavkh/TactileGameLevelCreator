@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_summer_skirt_black_0: 25923964611377813
+      average_summer_skirt_black_1: 1587020832754754759
+      average_summer_skirt_black_10: 7243846148773292990
+      average_summer_skirt_black_11: -3310584070966905301
+      average_summer_skirt_black_2: -3850448961994917314
+      average_summer_skirt_black_3: -7723931517993063684
+      average_summer_skirt_black_4: 403106503787611839
+      average_summer_skirt_black_5: 6331769096997781963
+      average_summer_skirt_black_6: -5498772719817226582
+      average_summer_skirt_black_7: -55089261537208789
+      average_summer_skirt_black_8: -7221308699624386407
+      average_summer_skirt_black_9: -7626097754960027066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

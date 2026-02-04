@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      berserker_spritesheet_0: 9107963185642548994
+      berserker_spritesheet_1: 1535155427180054014
+      berserker_spritesheet_2: -4473631278392362667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

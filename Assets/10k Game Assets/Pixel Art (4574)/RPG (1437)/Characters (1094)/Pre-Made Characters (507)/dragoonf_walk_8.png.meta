@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragoonf_walk_8_0: 8026162022055793632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

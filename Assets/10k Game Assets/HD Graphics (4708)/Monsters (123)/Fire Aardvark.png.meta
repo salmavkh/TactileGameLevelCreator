@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire Aardvark_0: -6296913471748310692
+      Fire Aardvark_1: -4336597759803093910
+      Fire Aardvark_2: -965030773015864164
+      Fire Aardvark_3: -1490886415194502146
+      Fire Aardvark_4: -4123075799129951232
+      Fire Aardvark_5: -6809277021806956717
+      Fire Aardvark_6: -1069625696854031385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

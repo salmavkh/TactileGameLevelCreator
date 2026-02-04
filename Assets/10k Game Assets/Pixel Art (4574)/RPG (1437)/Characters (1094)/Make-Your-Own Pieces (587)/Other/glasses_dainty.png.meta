@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glasses_dainty_0: 3797529592014454061
+      glasses_dainty_1: 7548333470106567707
+      glasses_dainty_2: 682494255961819779
+      glasses_dainty_3: 3213263706520751956
+      glasses_dainty_4: 7469145267114212441
+      glasses_dainty_5: -3031900712309260166
+      glasses_dainty_6: 729022577109115243
+      glasses_dainty_7: -601931000433340197
+      glasses_dainty_8: 4268724225491410521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

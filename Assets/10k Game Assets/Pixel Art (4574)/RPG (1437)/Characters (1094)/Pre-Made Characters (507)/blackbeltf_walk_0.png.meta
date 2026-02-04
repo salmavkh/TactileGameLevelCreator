@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blackbeltf_walk_0_0: 3490386417065009736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

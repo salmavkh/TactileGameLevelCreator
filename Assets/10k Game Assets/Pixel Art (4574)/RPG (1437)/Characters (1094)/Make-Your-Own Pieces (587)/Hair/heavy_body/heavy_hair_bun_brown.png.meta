@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_bun_brown_0: -6715395749549699403
+      heavy_hair_bun_brown_1: 2485671281296985158
+      heavy_hair_bun_brown_10: 2754217553226455313
+      heavy_hair_bun_brown_11: 4979751689209424283
+      heavy_hair_bun_brown_2: -4199070730714595548
+      heavy_hair_bun_brown_3: -2032674021436953432
+      heavy_hair_bun_brown_4: 5864502722113408553
+      heavy_hair_bun_brown_5: -2156210681208491771
+      heavy_hair_bun_brown_6: -2096483650184760417
+      heavy_hair_bun_brown_7: -5317521234201976440
+      heavy_hair_bun_brown_8: 264443710912817142
+      heavy_hair_bun_brown_9: 1010177013294769436
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

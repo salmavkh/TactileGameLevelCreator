@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      obelisk (5)_0: 1609433399209403593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

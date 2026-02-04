@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clown_spritesheet_0: 8176504238444267414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

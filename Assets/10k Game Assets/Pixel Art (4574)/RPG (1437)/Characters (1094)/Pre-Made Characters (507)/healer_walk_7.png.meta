@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      healer_walk_7_0: 349288088191706047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

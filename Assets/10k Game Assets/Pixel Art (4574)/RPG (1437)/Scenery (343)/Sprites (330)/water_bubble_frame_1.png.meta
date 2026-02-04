@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      water_bubble_frame_1_0: 6887169228018491956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

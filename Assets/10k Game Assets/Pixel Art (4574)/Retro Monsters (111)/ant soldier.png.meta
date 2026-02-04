@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ant soldier_0: 3339930719680333113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

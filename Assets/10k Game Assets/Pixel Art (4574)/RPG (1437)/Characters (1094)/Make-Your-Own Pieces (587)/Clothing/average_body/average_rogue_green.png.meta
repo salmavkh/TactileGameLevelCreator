@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_rogue_green_0: 8392740276916112878
+      average_rogue_green_1: -1677089976740765036
+      average_rogue_green_10: 4229183353532688035
+      average_rogue_green_11: 3569498855440334737
+      average_rogue_green_2: 8566307145846537398
+      average_rogue_green_3: 304226929642328077
+      average_rogue_green_4: -6768006122079362931
+      average_rogue_green_5: -885425610567240159
+      average_rogue_green_6: -5281568649026024247
+      average_rogue_green_7: 2973753650990730201
+      average_rogue_green_8: 1909793292859510938
+      average_rogue_green_9: -8546691597274392099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

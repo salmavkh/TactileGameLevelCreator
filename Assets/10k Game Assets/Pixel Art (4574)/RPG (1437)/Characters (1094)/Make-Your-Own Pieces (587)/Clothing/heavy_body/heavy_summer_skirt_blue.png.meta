@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_summer_skirt_blue_0: -3339637407960193212
+      heavy_summer_skirt_blue_1: 5412980346205544359
+      heavy_summer_skirt_blue_10: 7289814129406049543
+      heavy_summer_skirt_blue_11: -328826676616817766
+      heavy_summer_skirt_blue_2: 8961286515906217741
+      heavy_summer_skirt_blue_3: 3419291497670132050
+      heavy_summer_skirt_blue_4: -5423316402446640834
+      heavy_summer_skirt_blue_5: -6941511578409361748
+      heavy_summer_skirt_blue_6: -7842466605074821438
+      heavy_summer_skirt_blue_7: 4605038128116604049
+      heavy_summer_skirt_blue_8: -2453818549326670483
+      heavy_summer_skirt_blue_9: -8010977507022623401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

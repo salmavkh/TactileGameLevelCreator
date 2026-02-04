@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Large_Rocky_0: -9046837408864876843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

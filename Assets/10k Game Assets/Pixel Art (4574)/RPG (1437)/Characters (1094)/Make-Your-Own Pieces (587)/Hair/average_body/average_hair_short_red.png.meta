@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_short_red_0: 8294442377069034995
+      average_hair_short_red_1: -7187823101149448254
+      average_hair_short_red_10: 143611248451603009
+      average_hair_short_red_11: 7372731989394685967
+      average_hair_short_red_2: -3605913133873858872
+      average_hair_short_red_3: 6228581526027747043
+      average_hair_short_red_4: 6083203817401244254
+      average_hair_short_red_5: 6879819882814239982
+      average_hair_short_red_6: -8421499028432604548
+      average_hair_short_red_7: 5957734663894679371
+      average_hair_short_red_8: 6054511372829904414
+      average_hair_short_red_9: -4770635382014825931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

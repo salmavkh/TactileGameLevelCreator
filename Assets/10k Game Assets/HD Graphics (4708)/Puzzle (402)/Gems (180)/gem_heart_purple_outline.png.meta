@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_heart_purple_outline_0: -6531858793073083533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

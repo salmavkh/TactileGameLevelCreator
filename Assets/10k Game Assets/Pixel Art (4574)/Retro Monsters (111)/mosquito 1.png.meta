@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mosquito 1_0: -2906047899096688966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

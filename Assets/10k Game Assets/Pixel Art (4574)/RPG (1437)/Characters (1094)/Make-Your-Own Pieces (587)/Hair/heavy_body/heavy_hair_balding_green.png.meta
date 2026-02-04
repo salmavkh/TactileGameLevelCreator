@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_balding_green_0: -2394835465076661761
+      heavy_hair_balding_green_1: 963599831210120575
+      heavy_hair_balding_green_2: -6585817352981588
+      heavy_hair_balding_green_3: 2761455562919590863
+      heavy_hair_balding_green_4: 7005079750126490062
+      heavy_hair_balding_green_5: 1351542105913280292
+      heavy_hair_balding_green_6: -6251267412428260415
+      heavy_hair_balding_green_7: 2776767018948921500
+      heavy_hair_balding_green_8: 2798076900851970484
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

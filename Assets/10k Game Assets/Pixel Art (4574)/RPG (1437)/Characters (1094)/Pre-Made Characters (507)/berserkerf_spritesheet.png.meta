@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      berserkerf_spritesheet_0: -8012811826016415557
+      berserkerf_spritesheet_1: 2657698115227275126
+      berserkerf_spritesheet_2: 343342650933708702
+      berserkerf_spritesheet_3: 1262570731781768994
+      berserkerf_spritesheet_4: -2003000830999015883
+      berserkerf_spritesheet_5: 2350654982874096189
+      berserkerf_spritesheet_6: -2994976315510005165
+      berserkerf_spritesheet_7: 4378553736550789910
+      berserkerf_spritesheet_8: -4434768724989276546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

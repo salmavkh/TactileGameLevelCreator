@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower_daisy_orange_0: -4256592798339077761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

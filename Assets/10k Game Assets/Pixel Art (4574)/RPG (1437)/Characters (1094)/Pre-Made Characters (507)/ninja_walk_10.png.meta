@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ninja_walk_10_0: 7440541081437447501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

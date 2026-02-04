@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_short_pink_0: 2750062305353887853
+      heavy_hair_short_pink_1: -4817402334018166541
+      heavy_hair_short_pink_10: -1962559743963304146
+      heavy_hair_short_pink_11: -6940366589406951181
+      heavy_hair_short_pink_2: -2219747658355848907
+      heavy_hair_short_pink_3: 5029715865549066564
+      heavy_hair_short_pink_4: 6880051671551928645
+      heavy_hair_short_pink_5: -1840206678171717042
+      heavy_hair_short_pink_6: -3328868713137497388
+      heavy_hair_short_pink_7: 5119146357540712654
+      heavy_hair_short_pink_8: -7508768092676094788
+      heavy_hair_short_pink_9: 7874901313047933647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

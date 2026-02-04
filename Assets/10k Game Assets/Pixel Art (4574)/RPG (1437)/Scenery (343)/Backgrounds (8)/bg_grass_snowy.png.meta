@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_grass_snowy_0: -6937320796117127075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chameleon_0: -3551205180599332140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

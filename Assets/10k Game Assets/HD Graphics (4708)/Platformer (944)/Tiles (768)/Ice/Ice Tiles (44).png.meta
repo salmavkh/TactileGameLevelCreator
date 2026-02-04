@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ice Tiles (44)_0: -322808400654687890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

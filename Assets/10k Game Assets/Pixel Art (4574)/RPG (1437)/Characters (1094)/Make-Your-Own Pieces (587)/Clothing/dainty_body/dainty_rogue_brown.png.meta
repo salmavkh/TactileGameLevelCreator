@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_rogue_brown_0: -8857926078886510890
+      dainty_rogue_brown_1: 7226701151092884191
+      dainty_rogue_brown_10: 7296649122912585417
+      dainty_rogue_brown_11: 2988972952463401572
+      dainty_rogue_brown_2: -1071507812308979545
+      dainty_rogue_brown_3: -5946486670558313895
+      dainty_rogue_brown_4: -2759791209246063884
+      dainty_rogue_brown_5: 5031312457188709709
+      dainty_rogue_brown_6: 8242917982375812791
+      dainty_rogue_brown_7: -8819215877631541671
+      dainty_rogue_brown_8: -3127254129899253906
+      dainty_rogue_brown_9: 9192929114733706278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

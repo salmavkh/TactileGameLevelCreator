@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gladiatorf_walk_0_0: 1784729506764377098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

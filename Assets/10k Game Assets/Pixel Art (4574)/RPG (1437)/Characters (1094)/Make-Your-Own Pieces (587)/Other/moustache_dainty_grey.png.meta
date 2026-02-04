@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moustache_dainty_grey_0: -6328096007054631788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

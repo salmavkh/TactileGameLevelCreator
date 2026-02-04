@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crop_broccoli_0: -1187706337787027963
+      crop_broccoli_1: 8215056878907721253
+      crop_broccoli_2: 5714517194366395694
+      crop_broccoli_3: 1945323134598134988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

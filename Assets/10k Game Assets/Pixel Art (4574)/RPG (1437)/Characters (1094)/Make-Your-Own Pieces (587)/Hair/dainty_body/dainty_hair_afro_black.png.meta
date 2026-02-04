@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_hair_afro_black_0: -5109939602019370289
+      dainty_hair_afro_black_1: 2320384660125932818
+      dainty_hair_afro_black_10: -4955644999012760680
+      dainty_hair_afro_black_11: -228061529136031692
+      dainty_hair_afro_black_2: -67678814366677523
+      dainty_hair_afro_black_3: 4191619111705883407
+      dainty_hair_afro_black_4: -7760861619927165812
+      dainty_hair_afro_black_5: -952961412584910189
+      dainty_hair_afro_black_6: -8574545506550417579
+      dainty_hair_afro_black_7: 2901568828892828825
+      dainty_hair_afro_black_8: 604273029221958858
+      dainty_hair_afro_black_9: -1334381981708327435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      color bee left (2)_0: -8588307651416441804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

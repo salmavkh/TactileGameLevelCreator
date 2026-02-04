@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      striped_yellow_vertical_0: -1220835025460269444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

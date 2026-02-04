@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wasps Nest_0: 915095375597582815
+      Wasps Nest_1: -3446228117802440804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

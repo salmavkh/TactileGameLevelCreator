@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      queen_bee_stinger_7_0: 6091358940849240960
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower_tulip_red_0: 2274496334984328891
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

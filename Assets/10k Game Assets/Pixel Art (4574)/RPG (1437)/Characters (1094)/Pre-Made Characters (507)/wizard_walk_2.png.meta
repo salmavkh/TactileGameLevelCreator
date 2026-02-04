@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard_walk_2_0: 1236405756050248424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

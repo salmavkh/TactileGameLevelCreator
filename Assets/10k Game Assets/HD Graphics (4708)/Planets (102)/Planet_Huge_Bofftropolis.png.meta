@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Huge_Bofftropolis_0: -8766684067937355721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

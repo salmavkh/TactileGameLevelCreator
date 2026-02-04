@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_square_orange_0: 5322123369723973128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      river_lake_top_left_0: -2093776127783387184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

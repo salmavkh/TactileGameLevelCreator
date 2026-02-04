@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      polyominoes_tetromino_16_0: 4289537119597680888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

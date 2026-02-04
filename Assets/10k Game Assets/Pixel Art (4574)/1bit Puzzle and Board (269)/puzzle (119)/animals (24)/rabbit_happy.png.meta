@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rabbit_happy_0: 1704642229214873574
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

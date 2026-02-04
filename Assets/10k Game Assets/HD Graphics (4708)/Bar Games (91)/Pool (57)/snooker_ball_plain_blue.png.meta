@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      snooker_ball_plain_blue_0: -4258613104781277300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

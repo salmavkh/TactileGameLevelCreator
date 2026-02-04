@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      catfish_blowing_2_0: 1731355684156750058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bacterium_0: 3251763190349319422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

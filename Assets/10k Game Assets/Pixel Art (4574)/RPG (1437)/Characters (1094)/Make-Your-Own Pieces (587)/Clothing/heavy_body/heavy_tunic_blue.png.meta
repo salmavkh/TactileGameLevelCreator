@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_tunic_blue_0: -1107554613152533540
+      heavy_tunic_blue_1: 2137456258863033415
+      heavy_tunic_blue_2: -2519045849694581122
+      heavy_tunic_blue_3: -3237161947821318051
+      heavy_tunic_blue_4: 7062590595190422018
+      heavy_tunic_blue_5: 1593099481530612509
+      heavy_tunic_blue_6: 4252868005821141511
+      heavy_tunic_blue_7: 2677423795898725256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

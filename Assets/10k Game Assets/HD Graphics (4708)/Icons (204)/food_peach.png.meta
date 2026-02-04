@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      food_peach_0: 6877951738100490731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

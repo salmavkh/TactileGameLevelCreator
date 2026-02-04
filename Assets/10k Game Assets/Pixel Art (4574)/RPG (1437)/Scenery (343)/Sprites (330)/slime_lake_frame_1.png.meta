@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_lake_frame_1_0: -2882014440014945949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

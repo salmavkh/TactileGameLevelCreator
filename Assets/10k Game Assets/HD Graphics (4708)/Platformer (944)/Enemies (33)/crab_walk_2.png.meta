@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crab_walk_2_0: -46724239729114611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower_hyacinth_yellow_0: 8848278223471380928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

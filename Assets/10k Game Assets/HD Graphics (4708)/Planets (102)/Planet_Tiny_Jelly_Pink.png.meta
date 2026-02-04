@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Tiny_Jelly_Pink_0: -7084653905886655354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

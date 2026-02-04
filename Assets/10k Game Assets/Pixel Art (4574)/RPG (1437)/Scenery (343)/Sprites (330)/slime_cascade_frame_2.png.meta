@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_cascade_frame_2_0: 4143325844855727627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

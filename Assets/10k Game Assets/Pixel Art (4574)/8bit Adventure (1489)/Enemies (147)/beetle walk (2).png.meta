@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      beetle walk (2)_0: 203527233105601245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

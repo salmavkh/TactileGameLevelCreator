@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bowler_hat_blue_0: 2273503089743973960
+      bowler_hat_blue_1: -7763034761301852521
+      bowler_hat_blue_10: 419375082573177818
+      bowler_hat_blue_11: -2848220039371522163
+      bowler_hat_blue_2: 884404260189503777
+      bowler_hat_blue_3: -7348625818535212118
+      bowler_hat_blue_4: -943472021085297979
+      bowler_hat_blue_5: -6087902100779493229
+      bowler_hat_blue_6: 825630640567910405
+      bowler_hat_blue_7: 5493259328993721462
+      bowler_hat_blue_8: 3969400422906859583
+      bowler_hat_blue_9: 5506704179601514665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

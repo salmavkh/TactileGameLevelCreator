@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chequers_large_0: 2321071575917056707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

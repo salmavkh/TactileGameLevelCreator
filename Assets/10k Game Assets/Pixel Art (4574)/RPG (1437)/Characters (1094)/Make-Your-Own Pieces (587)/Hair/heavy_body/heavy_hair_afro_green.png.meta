@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_afro_green_0: 5966200980206220728
+      heavy_hair_afro_green_1: 6646988563634088863
+      heavy_hair_afro_green_10: 6575096701550362574
+      heavy_hair_afro_green_11: -5211993599865798411
+      heavy_hair_afro_green_2: -9175541651260490451
+      heavy_hair_afro_green_3: 3294347894721093397
+      heavy_hair_afro_green_4: -1842232321513674321
+      heavy_hair_afro_green_5: -3388808393511777126
+      heavy_hair_afro_green_6: -553842379834636342
+      heavy_hair_afro_green_7: -2779840618846720370
+      heavy_hair_afro_green_8: -2582399425794463718
+      heavy_hair_afro_green_9: -3132558715424591064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

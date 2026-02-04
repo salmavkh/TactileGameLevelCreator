@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_tunic_green_0: -5439555524132948242
+      average_tunic_green_1: 5246608170370863820
+      average_tunic_green_10: -226885549914259005
+      average_tunic_green_11: 5262695827821778882
+      average_tunic_green_2: 6376717388576429238
+      average_tunic_green_3: 6837669041609597495
+      average_tunic_green_4: 5472424660384098034
+      average_tunic_green_5: -7685042975926592315
+      average_tunic_green_6: 1858128704752450633
+      average_tunic_green_7: -8977284538240927193
+      average_tunic_green_8: 4825899635502497851
+      average_tunic_green_9: 7993907483442298641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

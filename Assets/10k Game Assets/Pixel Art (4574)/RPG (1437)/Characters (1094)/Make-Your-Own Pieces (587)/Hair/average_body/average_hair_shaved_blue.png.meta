@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_shaved_blue_0: -9080562036496241307
+      average_hair_shaved_blue_1: 4569825064479378990
+      average_hair_shaved_blue_10: -7509515842024657913
+      average_hair_shaved_blue_11: 2575770484966777955
+      average_hair_shaved_blue_2: -5640364270013953684
+      average_hair_shaved_blue_3: 970849932727016447
+      average_hair_shaved_blue_4: -2527826398101398917
+      average_hair_shaved_blue_5: 9171723013154670515
+      average_hair_shaved_blue_6: -1922259637392264069
+      average_hair_shaved_blue_7: 4843969019403857339
+      average_hair_shaved_blue_8: 7912502394672437811
+      average_hair_shaved_blue_9: 756388368547120394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

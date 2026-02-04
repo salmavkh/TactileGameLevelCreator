@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Medium_Bofftropolis_0: 2036683308775218122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

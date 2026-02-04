@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      food_mushroom_white_0: -5803325831888183027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      food_acorn_brown_0: -4559678676286815995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

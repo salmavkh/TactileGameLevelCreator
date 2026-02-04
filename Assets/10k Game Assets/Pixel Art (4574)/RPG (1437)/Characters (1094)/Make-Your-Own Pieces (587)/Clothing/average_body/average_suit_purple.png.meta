@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_suit_purple_0: -5979919171143359607
+      average_suit_purple_1: -7678705928218439714
+      average_suit_purple_10: 3667644828082715878
+      average_suit_purple_11: -4991982272571939733
+      average_suit_purple_2: 8373802709062563522
+      average_suit_purple_3: 3653374035724315733
+      average_suit_purple_4: 820725622180666501
+      average_suit_purple_5: 3980046817840162327
+      average_suit_purple_6: 942528797847177625
+      average_suit_purple_7: 532580070345159180
+      average_suit_purple_8: -9167101137129539133
+      average_suit_purple_9: -3805043023804916282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

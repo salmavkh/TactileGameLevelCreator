@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_spiky_red_0: -5563962802400383079
+      average_hair_spiky_red_1: -8828711853558249988
+      average_hair_spiky_red_10: 1844978057214311875
+      average_hair_spiky_red_11: -2461208891015392514
+      average_hair_spiky_red_2: 6104026702470949416
+      average_hair_spiky_red_3: 2555429458078333119
+      average_hair_spiky_red_4: 4634438631657962650
+      average_hair_spiky_red_5: 5736029152046952437
+      average_hair_spiky_red_6: -2618365398859062096
+      average_hair_spiky_red_7: -8041605685124498624
+      average_hair_spiky_red_8: 2357282090047983552
+      average_hair_spiky_red_9: 8852571726912176940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

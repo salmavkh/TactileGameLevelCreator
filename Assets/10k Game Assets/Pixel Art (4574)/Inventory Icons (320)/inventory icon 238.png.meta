@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      inventory icon 238_0: -3883108857009698111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

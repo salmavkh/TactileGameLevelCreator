@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_hair_balding_blue_0: -7795946273930230769
+      dainty_hair_balding_blue_1: 1431320190473272409
+      dainty_hair_balding_blue_2: -8681347273906141560
+      dainty_hair_balding_blue_3: 6340136227121205373
+      dainty_hair_balding_blue_4: 2446394569946119122
+      dainty_hair_balding_blue_5: 8320563036183416735
+      dainty_hair_balding_blue_6: 5366195845415190545
+      dainty_hair_balding_blue_7: 3298517745994776377
+      dainty_hair_balding_blue_8: 5137539551120055435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

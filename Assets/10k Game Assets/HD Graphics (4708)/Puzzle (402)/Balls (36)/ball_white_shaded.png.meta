@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ball_white_shaded_0: -8675630775618261291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

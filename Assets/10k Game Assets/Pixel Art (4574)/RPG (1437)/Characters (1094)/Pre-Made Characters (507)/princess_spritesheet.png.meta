@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      princess_spritesheet_0: -5802147337137310997
+      princess_spritesheet_1: -3993800439681228630
+      princess_spritesheet_2: -2437497963891208765
+      princess_spritesheet_3: -5996983643084094737
+      princess_spritesheet_4: 7911685950652713958
+      princess_spritesheet_5: 536492128732822269
+      princess_spritesheet_6: 3931477643906237296
+      princess_spritesheet_7: 112429179738174240
+      princess_spritesheet_8: -6469849553883540317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

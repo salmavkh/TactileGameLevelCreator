@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      polka_dots_even_0: -2568192613672227444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ugly fish 3_0: -3504187605038017159
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

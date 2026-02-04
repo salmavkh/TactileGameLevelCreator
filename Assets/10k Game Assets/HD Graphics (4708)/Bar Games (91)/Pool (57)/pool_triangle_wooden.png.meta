@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pool_triangle_wooden_0: 8868929577489756362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

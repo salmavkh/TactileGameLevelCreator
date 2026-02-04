@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clownf_spritesheet_0: 7520755188629762105
+      clownf_spritesheet_1: -3142045359594504495
+      clownf_spritesheet_2: 809046922513375393
+      clownf_spritesheet_3: -3240400376380905049
+      clownf_spritesheet_4: -5092406397521435329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

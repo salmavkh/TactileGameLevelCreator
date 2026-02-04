@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_casual_yellow_0: 5806407631225520873
+      heavy_casual_yellow_1: -7819208612669173976
+      heavy_casual_yellow_10: -2548783363941827578
+      heavy_casual_yellow_11: -2003936517328386530
+      heavy_casual_yellow_2: -812764276629628855
+      heavy_casual_yellow_3: -1784626473968427187
+      heavy_casual_yellow_4: -60706596018130642
+      heavy_casual_yellow_5: 8697874487788359912
+      heavy_casual_yellow_6: 8903270036223652042
+      heavy_casual_yellow_7: -555535120835034271
+      heavy_casual_yellow_8: 8037958661090724710
+      heavy_casual_yellow_9: -2834859274052879877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tardigrade_0: 5743890556536826225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

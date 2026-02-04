@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard_hat_red_0: -3877980337306944012
+      wizard_hat_red_1: -5743050846292222010
+      wizard_hat_red_2: 8240167208343043383
+      wizard_hat_red_3: 1111440615536502866
+      wizard_hat_red_4: 4195415464390009500
+      wizard_hat_red_5: 2090533353892634555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

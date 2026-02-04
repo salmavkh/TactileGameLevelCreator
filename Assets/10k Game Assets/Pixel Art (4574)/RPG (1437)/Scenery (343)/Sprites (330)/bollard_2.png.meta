@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bollard_2_0: -6177594294941023290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

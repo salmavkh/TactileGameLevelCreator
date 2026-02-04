@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_double_bun_blonde_0: -4250802444543041581
+      average_hair_double_bun_blonde_1: 6721923635831361218
+      average_hair_double_bun_blonde_10: -1688592785162497440
+      average_hair_double_bun_blonde_11: 498434899007147801
+      average_hair_double_bun_blonde_2: 1878214201673753599
+      average_hair_double_bun_blonde_3: 3083854611503082362
+      average_hair_double_bun_blonde_4: 859251612452820211
+      average_hair_double_bun_blonde_5: -7962204904799354480
+      average_hair_double_bun_blonde_6: -8358822976789060588
+      average_hair_double_bun_blonde_7: -8106964410995118767
+      average_hair_double_bun_blonde_8: 4081643815262833186
+      average_hair_double_bun_blonde_9: 5181600942743544112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

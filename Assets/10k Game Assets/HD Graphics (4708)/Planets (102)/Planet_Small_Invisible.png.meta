@@ -810,7 +810,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_Invisible_0: -2437181313214966932
+      Planet_Small_Invisible_1: 8986883318496931744
+      Planet_Small_Invisible_10: -7588384943391386912
+      Planet_Small_Invisible_11: 5297020257866863387
+      Planet_Small_Invisible_12: 9115333869514055442
+      Planet_Small_Invisible_13: -8843827229750712601
+      Planet_Small_Invisible_14: 1592805091567209785
+      Planet_Small_Invisible_15: -2369699332967176814
+      Planet_Small_Invisible_16: -4182358250097172591
+      Planet_Small_Invisible_17: 4822947259121850505
+      Planet_Small_Invisible_18: -5130738344201446662
+      Planet_Small_Invisible_19: -1474384519755679367
+      Planet_Small_Invisible_2: 1039183703209752713
+      Planet_Small_Invisible_20: 3168317564551032191
+      Planet_Small_Invisible_21: -722292695021119465
+      Planet_Small_Invisible_22: -3957473016517152975
+      Planet_Small_Invisible_23: -3348707950883845584
+      Planet_Small_Invisible_24: -3899095588944152652
+      Planet_Small_Invisible_25: -2274964848232039426
+      Planet_Small_Invisible_26: -1741790613866388999
+      Planet_Small_Invisible_3: -3984315516761337056
+      Planet_Small_Invisible_4: -5068400262324896033
+      Planet_Small_Invisible_5: -8551431360117527129
+      Planet_Small_Invisible_6: -3760950668752901251
+      Planet_Small_Invisible_7: 8846601258272854606
+      Planet_Small_Invisible_8: 584985001664969650
+      Planet_Small_Invisible_9: 9111046259983707050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

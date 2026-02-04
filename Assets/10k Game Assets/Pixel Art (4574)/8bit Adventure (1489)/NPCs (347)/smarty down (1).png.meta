@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smarty down (1)_0: -7470639709456501669
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

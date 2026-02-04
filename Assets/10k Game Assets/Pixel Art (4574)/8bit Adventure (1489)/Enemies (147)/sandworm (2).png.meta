@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sandworm (2)_0: 4254626897994986629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

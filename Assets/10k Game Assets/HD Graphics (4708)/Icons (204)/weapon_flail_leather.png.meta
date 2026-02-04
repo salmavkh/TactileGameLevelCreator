@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      weapon_flail_leather_0: 4763378546696913186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

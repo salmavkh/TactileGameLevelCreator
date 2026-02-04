@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pool_chalk_outline_0: -929943071669892414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

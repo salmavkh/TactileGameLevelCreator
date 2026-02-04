@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Man O War (1)_0: -1575125735202939103
+      Man O War (1)_1: 47979639104532597
+      Man O War (1)_2: 2382619934378189790
+      Man O War (1)_3: 6103499354531640458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

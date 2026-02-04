@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_badger_outline_captured_0: 7708888649998319362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

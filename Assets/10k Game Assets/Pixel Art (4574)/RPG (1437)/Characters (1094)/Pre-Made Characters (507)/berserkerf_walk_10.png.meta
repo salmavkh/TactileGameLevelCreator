@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      berserkerf_walk_10_0: 6025554271046427104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

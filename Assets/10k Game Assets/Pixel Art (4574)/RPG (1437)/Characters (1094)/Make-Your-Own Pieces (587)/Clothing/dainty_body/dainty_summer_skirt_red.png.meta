@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_summer_skirt_red_0: 2313295671411831708
+      dainty_summer_skirt_red_1: 7974316381777474333
+      dainty_summer_skirt_red_10: -6418623714867613536
+      dainty_summer_skirt_red_11: 6803418948750770591
+      dainty_summer_skirt_red_2: 7768925926921857274
+      dainty_summer_skirt_red_3: 8847254266147033861
+      dainty_summer_skirt_red_4: 7255460553320820779
+      dainty_summer_skirt_red_5: 5360221289784371409
+      dainty_summer_skirt_red_6: -6622106362584435370
+      dainty_summer_skirt_red_7: -2890962355896548797
+      dainty_summer_skirt_red_8: 3992473716590850578
+      dainty_summer_skirt_red_9: -1038999565193496587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

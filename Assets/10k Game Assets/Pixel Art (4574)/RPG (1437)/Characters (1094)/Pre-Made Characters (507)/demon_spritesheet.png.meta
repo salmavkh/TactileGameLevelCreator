@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_spritesheet_0: 4370422938512480686
+      demon_spritesheet_1: -6385668614482137733
+      demon_spritesheet_2: 2134005610229264466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

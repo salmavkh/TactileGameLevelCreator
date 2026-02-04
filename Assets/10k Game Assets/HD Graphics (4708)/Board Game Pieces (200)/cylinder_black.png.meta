@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cylinder_black_0: -7183122108835911725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

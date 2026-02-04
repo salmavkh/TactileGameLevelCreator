@@ -585,7 +585,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Tiny_Invisible_0: 1739919333013526711
+      Planet_Tiny_Invisible_1: -8866483291578380565
+      Planet_Tiny_Invisible_10: -2921658595957305203
+      Planet_Tiny_Invisible_11: -1667038947148705394
+      Planet_Tiny_Invisible_12: -8484839508201860635
+      Planet_Tiny_Invisible_13: 8018022945446362437
+      Planet_Tiny_Invisible_14: 1345884945181377066
+      Planet_Tiny_Invisible_15: -5775903252050854033
+      Planet_Tiny_Invisible_16: -1920048400760751222
+      Planet_Tiny_Invisible_17: -4583041700325962464
+      Planet_Tiny_Invisible_2: -5942509721818049782
+      Planet_Tiny_Invisible_3: 1751077035197572650
+      Planet_Tiny_Invisible_4: 1854418027115414149
+      Planet_Tiny_Invisible_5: 2387908855449785876
+      Planet_Tiny_Invisible_6: -6860997850253357153
+      Planet_Tiny_Invisible_7: -858891784748084730
+      Planet_Tiny_Invisible_8: 7202441573822675283
+      Planet_Tiny_Invisible_9: -7285707695263277820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

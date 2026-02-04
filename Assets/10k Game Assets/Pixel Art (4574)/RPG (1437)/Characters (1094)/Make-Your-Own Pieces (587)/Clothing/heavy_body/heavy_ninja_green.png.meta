@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_ninja_green_0: 112481406665621641
+      heavy_ninja_green_1: 3199384263327285015
+      heavy_ninja_green_10: 1742170231352936387
+      heavy_ninja_green_2: -4447002137365972331
+      heavy_ninja_green_3: 5408276976124763982
+      heavy_ninja_green_4: -5456927586902356541
+      heavy_ninja_green_5: -2318003208627560904
+      heavy_ninja_green_6: -2242345513310885645
+      heavy_ninja_green_7: 5394983611559511093
+      heavy_ninja_green_8: 61247449064675152
+      heavy_ninja_green_9: 8418506616390022277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

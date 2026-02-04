@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_ninja_purple_0: -5810456762465475870
+      heavy_ninja_purple_1: -1393632172734099520
+      heavy_ninja_purple_10: 5522504998547572209
+      heavy_ninja_purple_2: 168153742583517093
+      heavy_ninja_purple_3: 5078575768027135243
+      heavy_ninja_purple_4: -4739083179244192797
+      heavy_ninja_purple_5: -7613579568794966298
+      heavy_ninja_purple_6: 2534484637083481922
+      heavy_ninja_purple_7: 6265255147316455969
+      heavy_ninja_purple_8: 5192511125936493475
+      heavy_ninja_purple_9: 7096153227873682219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

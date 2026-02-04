@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      star_fragment_pink_0: 7655379802249462861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

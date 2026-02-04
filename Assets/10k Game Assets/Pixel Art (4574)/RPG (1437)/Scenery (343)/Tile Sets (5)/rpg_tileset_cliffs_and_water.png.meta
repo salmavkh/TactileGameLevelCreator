@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rpg_tileset_cliffs_and_water_0: 4664107581938726828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

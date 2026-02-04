@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      prince_walk_4_0: -7244567553731811404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

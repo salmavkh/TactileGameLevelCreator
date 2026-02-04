@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      angel_walk_4_0: -6693584065840705561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

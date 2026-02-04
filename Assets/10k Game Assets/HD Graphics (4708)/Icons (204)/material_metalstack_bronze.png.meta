@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      material_metalstack_bronze_0: 7733795043630142043
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

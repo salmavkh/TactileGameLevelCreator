@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_rogue_red_0: -9029203297170154696
+      heavy_rogue_red_1: 463873921455688603
+      heavy_rogue_red_10: -7220282433371541320
+      heavy_rogue_red_2: 8301288356051169127
+      heavy_rogue_red_3: -4899341858270617184
+      heavy_rogue_red_4: 1819007528195713119
+      heavy_rogue_red_5: -7032101593873851330
+      heavy_rogue_red_6: -6213642416022319725
+      heavy_rogue_red_7: -2415198221834916947
+      heavy_rogue_red_8: -8746702052493994599
+      heavy_rogue_red_9: 1537664241601202932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

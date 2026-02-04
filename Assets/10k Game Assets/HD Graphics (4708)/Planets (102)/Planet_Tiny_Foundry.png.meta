@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Tiny_Foundry_0: 3810622029307946451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

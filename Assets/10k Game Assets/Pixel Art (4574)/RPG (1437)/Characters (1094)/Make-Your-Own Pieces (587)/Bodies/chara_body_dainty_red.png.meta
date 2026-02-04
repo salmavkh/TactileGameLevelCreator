@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chara_body_dainty_red_0: 6411527449634711196
+      chara_body_dainty_red_1: -4207807516840289552
+      chara_body_dainty_red_10: -2939832587503506450
+      chara_body_dainty_red_11: -7058436758299377195
+      chara_body_dainty_red_2: 2749947294142247940
+      chara_body_dainty_red_3: 6269119252877203407
+      chara_body_dainty_red_4: -3285537254348990012
+      chara_body_dainty_red_5: 5836775512439296740
+      chara_body_dainty_red_6: -2977013837852654413
+      chara_body_dainty_red_7: 412703076535387094
+      chara_body_dainty_red_8: -5372625803016403237
+      chara_body_dainty_red_9: -9204783277071920058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

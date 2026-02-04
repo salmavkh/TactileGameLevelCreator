@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bagpipe moth 2_0: 6088791721065935453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

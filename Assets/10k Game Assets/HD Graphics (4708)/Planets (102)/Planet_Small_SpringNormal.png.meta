@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_SpringNormal_0: 8747482027780896739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

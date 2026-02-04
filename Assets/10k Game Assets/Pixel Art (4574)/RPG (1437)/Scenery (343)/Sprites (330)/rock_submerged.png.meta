@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock_submerged_0: -1503053148568945379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

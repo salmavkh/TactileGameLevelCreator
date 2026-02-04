@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      statue_demon_0: 3493669449504414492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

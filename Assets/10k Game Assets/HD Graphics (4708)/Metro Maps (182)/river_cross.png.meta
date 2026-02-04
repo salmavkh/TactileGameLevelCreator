@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      river_cross_0: 879618251948375349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

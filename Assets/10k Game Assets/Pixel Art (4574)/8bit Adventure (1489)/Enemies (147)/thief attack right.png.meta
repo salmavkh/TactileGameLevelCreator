@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      thief attack right_0: -3877416540547296550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

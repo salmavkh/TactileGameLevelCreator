@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helmet_dragon_0: 5196256880826120596
+      helmet_dragon_1: -1036057207556090239
+      helmet_dragon_2: 4928347026242036043
+      helmet_dragon_3: 6603702947642202018
+      helmet_dragon_4: 7919186411729233424
+      helmet_dragon_5: -2187151283172367442
+      helmet_dragon_6: 2796504823706377597
+      helmet_dragon_7: 9050283032266145760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

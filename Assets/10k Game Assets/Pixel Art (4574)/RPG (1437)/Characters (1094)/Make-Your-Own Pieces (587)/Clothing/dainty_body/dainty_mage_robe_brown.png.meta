@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_mage_robe_brown_0: 169685512995065320
+      dainty_mage_robe_brown_1: 5208103529370898768
+      dainty_mage_robe_brown_10: -5833824164224375450
+      dainty_mage_robe_brown_11: 3359853422441871676
+      dainty_mage_robe_brown_2: -322380622859318921
+      dainty_mage_robe_brown_3: 3539209425358281170
+      dainty_mage_robe_brown_4: 6365921561822598310
+      dainty_mage_robe_brown_5: -6742836940743970669
+      dainty_mage_robe_brown_6: 3510524928136690004
+      dainty_mage_robe_brown_7: -7445113339160929173
+      dainty_mage_robe_brown_8: 3053235295076551173
+      dainty_mage_robe_brown_9: -4000099326071895327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

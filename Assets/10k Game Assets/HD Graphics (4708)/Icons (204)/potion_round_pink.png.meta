@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      potion_round_pink_0: -3297511129385575424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

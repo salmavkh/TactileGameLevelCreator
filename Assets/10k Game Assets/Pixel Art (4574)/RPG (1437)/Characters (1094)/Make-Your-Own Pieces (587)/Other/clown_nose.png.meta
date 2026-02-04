@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clown_nose_0: 1523600726678212755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

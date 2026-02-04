@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flying dino 3_0: -6376499908744350230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

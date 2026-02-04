@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chips_flat_black_0: 7224416391525590407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

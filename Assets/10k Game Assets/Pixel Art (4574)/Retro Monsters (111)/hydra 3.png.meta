@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hydra 3_0: 7424519430426269255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

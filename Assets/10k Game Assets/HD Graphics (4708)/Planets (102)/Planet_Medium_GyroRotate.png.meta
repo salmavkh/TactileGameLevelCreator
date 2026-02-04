@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Medium_GyroRotate_0: 6548937210722745367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      darkknight_spritesheet_0: 4577879182481996215
+      darkknight_spritesheet_1: -5970123685530690790
+      darkknight_spritesheet_2: -7902275880700772843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

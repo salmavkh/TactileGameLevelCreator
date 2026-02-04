@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      enemy boomerang (2)_0: -6436367535984682681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

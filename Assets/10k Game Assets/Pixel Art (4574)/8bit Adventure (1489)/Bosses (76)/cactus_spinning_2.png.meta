@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cactus_spinning_2_0: 879168501162572359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

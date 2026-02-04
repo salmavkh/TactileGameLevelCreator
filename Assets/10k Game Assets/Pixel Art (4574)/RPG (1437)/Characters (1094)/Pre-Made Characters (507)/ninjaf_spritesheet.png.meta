@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ninjaf_spritesheet_0: 8853854005497806228
+      ninjaf_spritesheet_1: 615160555514512306
+      ninjaf_spritesheet_10: -845595872095389883
+      ninjaf_spritesheet_2: 1026093995773485115
+      ninjaf_spritesheet_3: -8312343992229737620
+      ninjaf_spritesheet_4: 8725388228691109564
+      ninjaf_spritesheet_5: 882704506292015646
+      ninjaf_spritesheet_6: -7949200380019004739
+      ninjaf_spritesheet_7: -3651915112852078092
+      ninjaf_spritesheet_8: -92242434869182385
+      ninjaf_spritesheet_9: 205281740749643590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

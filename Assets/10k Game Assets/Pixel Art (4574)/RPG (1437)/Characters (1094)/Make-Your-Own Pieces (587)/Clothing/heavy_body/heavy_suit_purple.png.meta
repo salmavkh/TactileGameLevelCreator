@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_suit_purple_0: -3221122989747380046
+      heavy_suit_purple_1: 1224534549391052254
+      heavy_suit_purple_2: 7578436557489579219
+      heavy_suit_purple_3: 4045739516366591298
+      heavy_suit_purple_4: 3241370182742367954
+      heavy_suit_purple_5: -4157645069670114079
+      heavy_suit_purple_6: 4161670619350844001
+      heavy_suit_purple_7: -9119732232709209191
+      heavy_suit_purple_8: -7032068431286341102
+      heavy_suit_purple_9: 3154295375600007545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

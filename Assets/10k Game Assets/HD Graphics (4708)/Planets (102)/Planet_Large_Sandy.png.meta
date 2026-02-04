@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Large_Sandy_0: 1197071544077458920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

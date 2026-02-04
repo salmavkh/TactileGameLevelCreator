@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_hair_shaved_pink_0: -1662596722372287990
+      dainty_hair_shaved_pink_1: -2880674588754063140
+      dainty_hair_shaved_pink_10: 6686683403931925625
+      dainty_hair_shaved_pink_11: -3275107790636077266
+      dainty_hair_shaved_pink_2: 5261075984814150797
+      dainty_hair_shaved_pink_3: 8539779992700492847
+      dainty_hair_shaved_pink_4: 5497087860629756865
+      dainty_hair_shaved_pink_5: -3164200536760789937
+      dainty_hair_shaved_pink_6: 6654308523947485579
+      dainty_hair_shaved_pink_7: 5604493915770206950
+      dainty_hair_shaved_pink_8: -2866594151544677330
+      dainty_hair_shaved_pink_9: -1795501364488895948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

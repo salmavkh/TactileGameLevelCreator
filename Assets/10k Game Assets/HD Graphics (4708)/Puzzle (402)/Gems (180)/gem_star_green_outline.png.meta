@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_star_green_outline_0: -5134874829378164782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

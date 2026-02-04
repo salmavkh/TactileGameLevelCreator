@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_Honey_0: 8049883196343395547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

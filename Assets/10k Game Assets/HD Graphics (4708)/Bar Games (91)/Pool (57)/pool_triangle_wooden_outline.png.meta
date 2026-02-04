@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pool_triangle_wooden_outline_0: -1801866837129750314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1160,7 +1160,48 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Medium_Invisible_0: -6360652739921121993
+      Planet_Medium_Invisible_1: 8874171635263765845
+      Planet_Medium_Invisible_10: 5561290368043423905
+      Planet_Medium_Invisible_11: -3893873685597149502
+      Planet_Medium_Invisible_12: -6766423751775075707
+      Planet_Medium_Invisible_13: 6708956851901251886
+      Planet_Medium_Invisible_14: 2613463079226647098
+      Planet_Medium_Invisible_15: -2237225753981517209
+      Planet_Medium_Invisible_16: 2727394636413080564
+      Planet_Medium_Invisible_17: 4389608290446240667
+      Planet_Medium_Invisible_18: -1868693603733714547
+      Planet_Medium_Invisible_19: -7584403328885217794
+      Planet_Medium_Invisible_2: -3303128333597782964
+      Planet_Medium_Invisible_20: -6523470802724210843
+      Planet_Medium_Invisible_21: 5730035374853791550
+      Planet_Medium_Invisible_22: -7057117071437572917
+      Planet_Medium_Invisible_23: -5017752849856612258
+      Planet_Medium_Invisible_24: 3575899358451765849
+      Planet_Medium_Invisible_25: 246260498110876436
+      Planet_Medium_Invisible_26: -1752344379799151165
+      Planet_Medium_Invisible_27: -4302080614970655055
+      Planet_Medium_Invisible_28: 6897836684307323305
+      Planet_Medium_Invisible_29: 8038792766843478364
+      Planet_Medium_Invisible_3: -5790579734942031634
+      Planet_Medium_Invisible_30: 8605962723947678617
+      Planet_Medium_Invisible_31: 4991017560014033408
+      Planet_Medium_Invisible_32: -635409956643030187
+      Planet_Medium_Invisible_33: -6627795608131717467
+      Planet_Medium_Invisible_34: -8479936437617435140
+      Planet_Medium_Invisible_35: 8456458079118341081
+      Planet_Medium_Invisible_36: -5258284430828469802
+      Planet_Medium_Invisible_37: 8757008232078792264
+      Planet_Medium_Invisible_38: -4338928835634011124
+      Planet_Medium_Invisible_39: -4114376003437407252
+      Planet_Medium_Invisible_4: 423389261112306655
+      Planet_Medium_Invisible_40: -4321503782822823054
+      Planet_Medium_Invisible_5: -1390877492687590228
+      Planet_Medium_Invisible_6: -4679247315761508168
+      Planet_Medium_Invisible_7: -3347871347446053993
+      Planet_Medium_Invisible_8: -4655246168019551915
+      Planet_Medium_Invisible_9: -2119879819488047376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

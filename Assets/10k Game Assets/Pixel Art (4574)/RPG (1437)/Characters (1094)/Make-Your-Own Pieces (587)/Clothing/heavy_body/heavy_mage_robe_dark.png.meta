@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_mage_robe_dark_0: 5273610414412999619
+      heavy_mage_robe_dark_1: -6998220347519938793
+      heavy_mage_robe_dark_2: 6592841641407338347
+      heavy_mage_robe_dark_3: -1722548546196927579
+      heavy_mage_robe_dark_4: 3382973019854284253
+      heavy_mage_robe_dark_5: -5219236269362092432
+      heavy_mage_robe_dark_6: 7399924823861326044
+      heavy_mage_robe_dark_7: 1182350234328968738
+      heavy_mage_robe_dark_8: -7280068627653205821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

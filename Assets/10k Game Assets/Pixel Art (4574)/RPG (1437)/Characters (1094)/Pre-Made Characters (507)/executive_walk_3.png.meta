@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      executive_walk_3_0: 4794175118693867027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

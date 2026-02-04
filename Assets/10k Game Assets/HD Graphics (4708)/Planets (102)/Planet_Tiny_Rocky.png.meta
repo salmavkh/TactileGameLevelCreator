@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Tiny_Rocky_0: -4654465557385396852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

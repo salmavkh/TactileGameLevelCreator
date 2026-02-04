@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helmet_normal_0: 1431856142237088044
+      helmet_normal_1: -4131090752658827980
+      helmet_normal_10: 6152662729114714949
+      helmet_normal_11: -1419948996796857503
+      helmet_normal_2: -2781865554918694638
+      helmet_normal_3: -3734218544637718496
+      helmet_normal_4: 8734052358136044818
+      helmet_normal_5: 54627029144270676
+      helmet_normal_6: 2669871287641046981
+      helmet_normal_7: -5694540643984185689
+      helmet_normal_8: -7538558232740868129
+      helmet_normal_9: 7980953310874815796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

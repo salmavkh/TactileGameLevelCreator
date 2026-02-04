@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_mage_robe_red_0: 5564711862378746484
+      average_mage_robe_red_1: -2951862004660311092
+      average_mage_robe_red_10: -4882596897608527875
+      average_mage_robe_red_11: -3305076292763278451
+      average_mage_robe_red_2: 3594465901515441048
+      average_mage_robe_red_3: -3524790011243285833
+      average_mage_robe_red_4: 9057404310763258132
+      average_mage_robe_red_5: 5253693074762632876
+      average_mage_robe_red_6: 4023932850347700389
+      average_mage_robe_red_7: -5741198500006176873
+      average_mage_robe_red_8: -7068480958296024972
+      average_mage_robe_red_9: -6947548706608667673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

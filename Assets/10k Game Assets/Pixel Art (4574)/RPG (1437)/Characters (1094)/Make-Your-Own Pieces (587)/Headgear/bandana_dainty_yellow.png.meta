@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bandana_dainty_yellow_0: 5159690904244770218
+      bandana_dainty_yellow_1: -4457873735100677339
+      bandana_dainty_yellow_10: 7326699631838852357
+      bandana_dainty_yellow_11: -8369282893627518587
+      bandana_dainty_yellow_2: 363269403584991846
+      bandana_dainty_yellow_3: 4612740019023728017
+      bandana_dainty_yellow_4: -638006656336834968
+      bandana_dainty_yellow_5: -4070172309892768831
+      bandana_dainty_yellow_6: 6179318481400963177
+      bandana_dainty_yellow_7: -8018925372373428722
+      bandana_dainty_yellow_8: 905732331168305472
+      bandana_dainty_yellow_9: -7977677407317756977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

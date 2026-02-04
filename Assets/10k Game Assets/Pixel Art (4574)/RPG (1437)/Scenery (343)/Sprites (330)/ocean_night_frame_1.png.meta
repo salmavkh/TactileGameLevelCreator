@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ocean_night_frame_1_0: 4848715884730853680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle tiles (18)_0: -3699031493300632996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

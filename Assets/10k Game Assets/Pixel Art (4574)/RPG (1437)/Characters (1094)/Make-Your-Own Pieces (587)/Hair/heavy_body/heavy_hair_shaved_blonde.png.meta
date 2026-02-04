@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heavy_hair_shaved_blonde_0: 866567599070178989
+      heavy_hair_shaved_blonde_1: 1190262543200739353
+      heavy_hair_shaved_blonde_10: 2559471053592805274
+      heavy_hair_shaved_blonde_11: 4315852184376112126
+      heavy_hair_shaved_blonde_2: 7772745768773376878
+      heavy_hair_shaved_blonde_3: 6780571352746700130
+      heavy_hair_shaved_blonde_4: 3511018305492833112
+      heavy_hair_shaved_blonde_5: -7820327144451956990
+      heavy_hair_shaved_blonde_6: -7358582512930848368
+      heavy_hair_shaved_blonde_7: 3173909187162468489
+      heavy_hair_shaved_blonde_8: -2765160580378182882
+      heavy_hair_shaved_blonde_9: -8763953690587456437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

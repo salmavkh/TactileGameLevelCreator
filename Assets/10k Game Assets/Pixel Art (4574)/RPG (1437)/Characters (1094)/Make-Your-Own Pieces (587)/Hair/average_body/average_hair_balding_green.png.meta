@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      average_hair_balding_green_0: -6691181209230259116
+      average_hair_balding_green_1: -5795024446030736469
+      average_hair_balding_green_2: 3401121875411027753
+      average_hair_balding_green_3: -7943018750372450423
+      average_hair_balding_green_4: -6430499981083488320
+      average_hair_balding_green_5: 1587909468316093424
+      average_hair_balding_green_6: -8901348134038843158
+      average_hair_balding_green_7: -5756679111451498381
+      average_hair_balding_green_8: 8628683455372752467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

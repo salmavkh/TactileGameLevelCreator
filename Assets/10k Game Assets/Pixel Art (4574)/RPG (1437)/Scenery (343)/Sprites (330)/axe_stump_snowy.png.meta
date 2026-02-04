@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      axe_stump_snowy_0: 9000587882693231546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      archer_hat_yellow_0: 369013300033753973
+      archer_hat_yellow_1: -3509917440683848084
+      archer_hat_yellow_10: -2582622274780722897
+      archer_hat_yellow_11: -6829828444052302360
+      archer_hat_yellow_2: -1228936721815435648
+      archer_hat_yellow_3: 6563246754972335814
+      archer_hat_yellow_4: 816723962714587193
+      archer_hat_yellow_5: 5178248796107089659
+      archer_hat_yellow_6: 3119995721528021377
+      archer_hat_yellow_7: 6030835873301481605
+      archer_hat_yellow_8: 6510148158664518152
+      archer_hat_yellow_9: 3123957020936821105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

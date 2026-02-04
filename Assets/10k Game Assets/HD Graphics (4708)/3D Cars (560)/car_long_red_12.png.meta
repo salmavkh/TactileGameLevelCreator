@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      car_long_red_12_0: -3720269131744035340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

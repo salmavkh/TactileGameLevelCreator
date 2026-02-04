@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_emerald_purple_outline_0: 6705557052471173447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

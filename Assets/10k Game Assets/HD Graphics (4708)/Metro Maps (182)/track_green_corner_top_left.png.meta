@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      track_green_corner_top_left_0: -4142215261521588421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

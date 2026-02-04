@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      phone_landscape_finger_0: 6836979026885237414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

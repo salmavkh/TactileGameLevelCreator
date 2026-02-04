@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      token_diamond_flat_white_0: 7872841371037668131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

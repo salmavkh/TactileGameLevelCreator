@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      squirrel_neutral_0: -4405716876615235916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

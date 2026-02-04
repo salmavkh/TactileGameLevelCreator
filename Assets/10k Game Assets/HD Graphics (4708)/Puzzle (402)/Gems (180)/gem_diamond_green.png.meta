@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_diamond_green_0: 8139417623152214959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minesweep_number_0_0: 1779044814958649579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

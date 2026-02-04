@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animal_bat_captured_0: 5120398394151277152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

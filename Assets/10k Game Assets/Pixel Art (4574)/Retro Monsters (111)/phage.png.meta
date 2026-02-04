@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      phage_0: -6330200682043164045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

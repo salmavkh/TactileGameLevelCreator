@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planet_Small_Icy_0: 7859821915806773158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gem_diamond_red_outline_0: 8775701594151447326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

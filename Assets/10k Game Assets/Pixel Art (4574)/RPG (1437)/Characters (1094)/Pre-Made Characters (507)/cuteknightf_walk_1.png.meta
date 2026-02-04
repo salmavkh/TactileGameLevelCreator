@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cuteknightf_walk_1_0: 5617781297577039914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      catfish_hurt_2_0: -4061214083680771509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

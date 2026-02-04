@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      town tiles (38)_0: -8096210400468672791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

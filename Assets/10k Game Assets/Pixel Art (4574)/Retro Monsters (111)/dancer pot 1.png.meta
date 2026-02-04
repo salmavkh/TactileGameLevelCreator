@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dancer pot 1_0: 8362944945558034599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

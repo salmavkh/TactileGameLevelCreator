@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      maggot fly 2_0: -4395635462140010816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

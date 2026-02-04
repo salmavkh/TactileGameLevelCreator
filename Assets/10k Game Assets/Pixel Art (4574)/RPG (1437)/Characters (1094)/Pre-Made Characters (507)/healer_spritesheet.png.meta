@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      healer_spritesheet_0: 705915012078303429
+      healer_spritesheet_1: 4756902542651576033
+      healer_spritesheet_2: -554611687353009271
+      healer_spritesheet_3: 8504750027033515593
+      healer_spritesheet_4: 664262493923088932
+      healer_spritesheet_5: -258569405415978845
+      healer_spritesheet_6: 2943279881225470347
+      healer_spritesheet_7: -1211735556715060558
+      healer_spritesheet_8: -1924729771739660788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

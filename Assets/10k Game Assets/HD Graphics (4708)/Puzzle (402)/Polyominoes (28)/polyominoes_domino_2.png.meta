@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      polyominoes_domino_2_0: 2934499540132018424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

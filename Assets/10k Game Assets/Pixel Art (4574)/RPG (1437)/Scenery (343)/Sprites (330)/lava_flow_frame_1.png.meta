@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava_flow_frame_1_0: -7892331405524148193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

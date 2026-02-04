@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peg_hover_orange_0: -125995796671908941
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

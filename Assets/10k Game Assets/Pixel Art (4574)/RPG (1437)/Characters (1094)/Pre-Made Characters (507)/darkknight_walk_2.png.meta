@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      darkknight_walk_2_0: -7208242950299639725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

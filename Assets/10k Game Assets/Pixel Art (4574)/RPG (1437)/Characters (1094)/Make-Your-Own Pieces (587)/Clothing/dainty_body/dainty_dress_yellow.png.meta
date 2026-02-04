@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dainty_dress_yellow_0: -1735392936288548165
+      dainty_dress_yellow_1: -8908831660723209795
+      dainty_dress_yellow_10: -1544818864470655383
+      dainty_dress_yellow_11: -2468555738680018364
+      dainty_dress_yellow_2: -4338211458345652710
+      dainty_dress_yellow_3: 1364089416015966651
+      dainty_dress_yellow_4: -8510089875869232711
+      dainty_dress_yellow_5: -7254161835974366559
+      dainty_dress_yellow_6: -5121146179304343043
+      dainty_dress_yellow_7: -2292319480541606079
+      dainty_dress_yellow_8: 1883842797650898095
+      dainty_dress_yellow_9: 3586438186546283983
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

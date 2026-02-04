@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      house_flat_black_0: 1869709451652212231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

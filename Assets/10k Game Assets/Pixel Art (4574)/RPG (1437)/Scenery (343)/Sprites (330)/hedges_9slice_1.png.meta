@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hedges_9slice_1_0: 6882286911707053855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
