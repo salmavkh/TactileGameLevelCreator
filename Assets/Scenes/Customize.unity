@@ -5675,7 +5675,7 @@ MonoBehaviour:
   previewPlayerMarker: {fileID: 428406288}
   itemPrefabs:
   - {fileID: 1789568618692472891, guid: d9139892bbb4a4df5ae7f8903b55a70f, type: 3}
-  - {fileID: 4388194915786447936, guid: e720c38aa15a84ea19f82e711668fe4f, type: 3}
+  - {fileID: 3638203201421509330, guid: 4660e3700f4644384ba921e8bea0ec38, type: 3}
   - {fileID: 8185244914533319617, guid: baac0982f87c44ccf854a74f4c262756, type: 3}
   obstaclePrefab: {fileID: 183119560671978701, guid: 99e3097d4c19c45f68ba5e09ce15e1a2, type: 3}
 --- !u!4 &962547151
