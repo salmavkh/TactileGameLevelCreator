@@ -10,6 +10,11 @@ public class Collectible : MonoBehaviour
 
         Collected++;
 
+        // Trigger Touch animation on the player
+        PlayerController2D player = other.GetComponent<PlayerController2D>();
+        if (player != null)
+            player.PlayTouch();
+
         if (AudioManager.Instance != null)
             AudioManager.Instance.PlayPlayer(SFX.Collect);
 
