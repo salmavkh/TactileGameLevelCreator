@@ -1367,7 +1367,7 @@ MonoBehaviour:
   pythonExePath: /Users/salmavkh/ubc26/fourth year/Work Study/Tactile Game Level
     Creator/fastsam/.venv/bin/python
   segmenterScriptPath: /Users/salmavkh/ubc26/fourth year/Work Study/Tactile Game
-    Level Creator/fastsam/process_img_for_unity_2.py
+    Level Creator/fastsam/process_img_for_unity.py
 --- !u!1 &1830385628
 GameObject:
   m_ObjectHideFlags: 0
