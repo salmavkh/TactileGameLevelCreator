@@ -1,0 +1,3965 @@
+fileFormatVersion: 2
+guid: 0004c12fee2a7494b9dc3ffcd29f0f51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5220786048933948392
+    second: splatter_light_0
+  - first:
+      213: -5785297132736315586
+    second: splatter_light_1
+  - first:
+      213: -3425426662575911212
+    second: splatter_light_2
+  - first:
+      213: 1827930249593529570
+    second: splatter_light_3
+  - first:
+      213: -4872536423940159002
+    second: splatter_light_4
+  - first:
+      213: 602632884424484943
+    second: splatter_light_5
+  - first:
+      213: 2401785852995965468
+    second: splatter_light_6
+  - first:
+      213: 1874790432437917056
+    second: splatter_light_7
+  - first:
+      213: 9017858413083857632
+    second: splatter_light_8
+  - first:
+      213: 8714117287912567865
+    second: splatter_light_9
+  - first:
+      213: 5914591508950735644
+    second: splatter_light_10
+  - first:
+      213: -1769761212464003589
+    second: splatter_light_11
+  - first:
+      213: -7754916450997586817
+    second: splatter_light_12
+  - first:
+      213: 24654448059392000
+    second: splatter_light_13
+  - first:
+      213: -3882511219242838444
+    second: splatter_light_14
+  - first:
+      213: 7460870990868889649
+    second: splatter_light_15
+  - first:
+      213: 7893833139707677204
+    second: splatter_light_16
+  - first:
+      213: -3421615617557436090
+    second: splatter_light_17
+  - first:
+      213: 1703301819579036316
+    second: splatter_light_18
+  - first:
+      213: -2846741627134900689
+    second: splatter_light_19
+  - first:
+      213: 1312749869392820118
+    second: splatter_light_20
+  - first:
+      213: -669963062218718532
+    second: splatter_light_21
+  - first:
+      213: -806003654105534246
+    second: splatter_light_22
+  - first:
+      213: 6108929003519845570
+    second: splatter_light_23
+  - first:
+      213: -5041880191099581532
+    second: splatter_light_24
+  - first:
+      213: 1116891723290804566
+    second: splatter_light_25
+  - first:
+      213: 712776181565756797
+    second: splatter_light_26
+  - first:
+      213: -8170366857775031982
+    second: splatter_light_27
+  - first:
+      213: -2208901766910055589
+    second: splatter_light_28
+  - first:
+      213: -5646620896868032432
+    second: splatter_light_29
+  - first:
+      213: 4043496952878578841
+    second: splatter_light_30
+  - first:
+      213: 7694403715142238296
+    second: splatter_light_31
+  - first:
+      213: 2097227092119756984
+    second: splatter_light_32
+  - first:
+      213: 7206489033012548363
+    second: splatter_light_33
+  - first:
+      213: -5395624581809261077
+    second: splatter_light_34
+  - first:
+      213: 8870124076497970336
+    second: splatter_light_35
+  - first:
+      213: -5273539462540143909
+    second: splatter_light_36
+  - first:
+      213: -7739448741337115458
+    second: splatter_light_37
+  - first:
+      213: 4306020838757205744
+    second: splatter_light_38
+  - first:
+      213: 815936054813200329
+    second: splatter_light_39
+  - first:
+      213: -2432740296533397886
+    second: splatter_light_40
+  - first:
+      213: 5006366394895449922
+    second: splatter_light_41
+  - first:
+      213: 5357683048420970433
+    second: splatter_light_42
+  - first:
+      213: -6642116388316060282
+    second: splatter_light_43
+  - first:
+      213: -2092070180152013155
+    second: splatter_light_44
+  - first:
+      213: 805421590237306698
+    second: splatter_light_45
+  - first:
+      213: -5249135872291101078
+    second: splatter_light_46
+  - first:
+      213: 7138875282323632433
+    second: splatter_light_47
+  - first:
+      213: 8251566305555170876
+    second: splatter_light_48
+  - first:
+      213: -7563117384438488665
+    second: splatter_light_49
+  - first:
+      213: 6599946979980591920
+    second: splatter_light_50
+  - first:
+      213: -7557245982142393178
+    second: splatter_light_51
+  - first:
+      213: 1552975601036484127
+    second: splatter_light_52
+  - first:
+      213: -4564161848998103678
+    second: splatter_light_53
+  - first:
+      213: -6511959989478192940
+    second: splatter_light_54
+  - first:
+      213: -7959774603604181676
+    second: splatter_light_55
+  - first:
+      213: 2503703266580618780
+    second: splatter_light_56
+  - first:
+      213: 4795959363862928411
+    second: splatter_light_57
+  - first:
+      213: -9009003558913719018
+    second: splatter_light_58
+  - first:
+      213: -5456475006440161219
+    second: splatter_light_59
+  - first:
+      213: 9128805675504569595
+    second: splatter_light_60
+  - first:
+      213: 4822495614146721502
+    second: splatter_light_61
+  - first:
+      213: 5359700434959399457
+    second: splatter_light_62
+  - first:
+      213: -6655709118494169045
+    second: splatter_light_63
+  - first:
+      213: 281561667378206244
+    second: splatter_light_64
+  - first:
+      213: 3481773138476717708
+    second: splatter_light_65
+  - first:
+      213: -7650399991550228838
+    second: splatter_light_66
+  - first:
+      213: 4911732774395812655
+    second: splatter_light_67
+  - first:
+      213: -91512956986490334
+    second: splatter_light_68
+  - first:
+      213: 4184484565488899888
+    second: splatter_light_69
+  - first:
+      213: 64395463246260638
+    second: splatter_light_70
+  - first:
+      213: 5169200953211991538
+    second: splatter_light_71
+  - first:
+      213: 8495825995972579569
+    second: splatter_light_72
+  - first:
+      213: -2104928343831289282
+    second: splatter_light_73
+  - first:
+      213: -4222293188129912179
+    second: splatter_light_74
+  - first:
+      213: -3436806416769985721
+    second: splatter_light_75
+  - first:
+      213: -2853305406063740921
+    second: splatter_light_76
+  - first:
+      213: -2845113681005247509
+    second: splatter_light_77
+  - first:
+      213: 3459438696633374261
+    second: splatter_light_78
+  - first:
+      213: -5934725350950595010
+    second: splatter_light_79
+  - first:
+      213: 9067814636062449538
+    second: splatter_light_80
+  - first:
+      213: -1728862799768687939
+    second: splatter_light_81
+  - first:
+      213: -1307555247912016841
+    second: splatter_light_82
+  - first:
+      213: 5772559731475289266
+    second: splatter_light_83
+  - first:
+      213: -3027632221951486908
+    second: splatter_light_84
+  - first:
+      213: 2583001501483115735
+    second: splatter_light_85
+  - first:
+      213: -6933182907458226122
+    second: splatter_light_86
+  - first:
+      213: -1255064852440423795
+    second: splatter_light_87
+  - first:
+      213: -8103460103113555550
+    second: splatter_light_88
+  - first:
+      213: -1205109546794202552
+    second: splatter_light_89
+  - first:
+      213: -8406086075505563057
+    second: splatter_light_90
+  - first:
+      213: 3665536474863700274
+    second: splatter_light_91
+  - first:
+      213: -2366435761064166219
+    second: splatter_light_92
+  - first:
+      213: 4461441662554808065
+    second: splatter_light_93
+  - first:
+      213: -4230369570795688520
+    second: splatter_light_94
+  - first:
+      213: 5100555417848145158
+    second: splatter_light_95
+  - first:
+      213: 3288044665503708192
+    second: splatter_light_96
+  - first:
+      213: 9085863198402759863
+    second: splatter_light_97
+  - first:
+      213: 6421329597304685483
+    second: splatter_light_98
+  - first:
+      213: 6658665513914208247
+    second: splatter_light_99
+  - first:
+      213: -4807752579192366727
+    second: splatter_light_100
+  - first:
+      213: 7067168797690645400
+    second: splatter_light_101
+  - first:
+      213: 3690759724477708120
+    second: splatter_light_102
+  - first:
+      213: 5673854345763990042
+    second: splatter_light_103
+  - first:
+      213: -1374954557545953964
+    second: splatter_light_104
+  - first:
+      213: 8030961520226373042
+    second: splatter_light_105
+  - first:
+      213: 2375910468245270694
+    second: splatter_light_106
+  - first:
+      213: -434939302402005651
+    second: splatter_light_107
+  - first:
+      213: -1112776776508494242
+    second: splatter_light_108
+  - first:
+      213: -3504312203646301605
+    second: splatter_light_109
+  - first:
+      213: -3221532828982003190
+    second: splatter_light_110
+  - first:
+      213: -8628502153571301421
+    second: splatter_light_111
+  - first:
+      213: 2090032392753121422
+    second: splatter_light_112
+  - first:
+      213: -7159259017264470452
+    second: splatter_light_113
+  - first:
+      213: 6297524588528379600
+    second: splatter_light_114
+  - first:
+      213: 4872423228418037753
+    second: splatter_light_115
+  - first:
+      213: -5414159964436556940
+    second: splatter_light_116
+  - first:
+      213: 5223060418431209313
+    second: splatter_light_117
+  - first:
+      213: -5593905517685146420
+    second: splatter_light_118
+  - first:
+      213: 4152730018063246092
+    second: splatter_light_119
+  - first:
+      213: -3300677421311187455
+    second: splatter_light_120
+  - first:
+      213: 646658236736889202
+    second: splatter_light_121
+  - first:
+      213: -1016200501002790468
+    second: splatter_light_122
+  - first:
+      213: -2634307366389500297
+    second: splatter_light_123
+  - first:
+      213: -29920561996590633
+    second: splatter_light_124
+  - first:
+      213: -9198625114032161446
+    second: splatter_light_125
+  - first:
+      213: 4236751887279211407
+    second: splatter_light_126
+  - first:
+      213: 7888837510245544339
+    second: splatter_light_127
+  - first:
+      213: -5925490809194800041
+    second: splatter_light_128
+  - first:
+      213: 7004597765235355004
+    second: splatter_light_129
+  - first:
+      213: 4888885488989997072
+    second: splatter_light_130
+  - first:
+      213: -1521880708347042454
+    second: splatter_light_131
+  - first:
+      213: 4486978393502673317
+    second: splatter_light_132
+  - first:
+      213: 3444996047660929914
+    second: splatter_light_133
+  - first:
+      213: 7137023995854908645
+    second: splatter_light_134
+  - first:
+      213: -7194819456323378682
+    second: splatter_light_135
+  - first:
+      213: -4996390793874938863
+    second: splatter_light_136
+  - first:
+      213: 7168186698399305919
+    second: splatter_light_137
+  - first:
+      213: -1290436021420967639
+    second: splatter_light_138
+  - first:
+      213: -3447236287346037485
+    second: splatter_light_139
+  - first:
+      213: 1578444349386468123
+    second: splatter_light_140
+  - first:
+      213: -8658846024717370452
+    second: splatter_light_141
+  - first:
+      213: 1986969368964316652
+    second: splatter_light_142
+  - first:
+      213: -7129833488613992022
+    second: splatter_light_143
+  - first:
+      213: -5603487727555348310
+    second: splatter_light_144
+  - first:
+      213: -7112729998338891474
+    second: splatter_light_145
+  - first:
+      213: 8240139466280131748
+    second: splatter_light_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splatter_light_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 376
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8141af8dfba0c87b0800000000000000
+      internalID: -5220786048933948392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 393
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7a2bd8ee76bfa0800000000000000
+      internalID: -5785297132736315586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 391
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dec20d59907670d0800000000000000
+      internalID: -3425426662575911212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 429
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a63190ec1e5910800000000000000
+      internalID: 1827930249593529570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 377
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e905ef20f5416cb0800000000000000
+      internalID: -4872536423940159002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 424
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48271e5a6bfc5800800000000000000
+      internalID: 602632884424484943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 408
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c121262128bd45120800000000000000
+      internalID: 2401785852995965468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 436
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08553c917f7940a10800000000000000
+      internalID: 1874790432437917056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 392
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e291a2b27ed52d70800000000000000
+      internalID: 9017858413083857632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 372
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9347e150183cee870800000000000000
+      internalID: 8714117287912567865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 384
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bdc8af3a9d41250800000000000000
+      internalID: 5914591508950735644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 375
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf581d9cd8b8077e0800000000000000
+      internalID: -1769761212464003589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 376
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b47b3390016490800000000000000
+      internalID: -7754916450997586817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000a6b20717975000800000000000000
+      internalID: 24654448059392000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456df84dd9c8e1ac0800000000000000
+      internalID: -3882511219242838444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 385
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c1c503a65a8760800000000000000
+      internalID: 7460870990868889649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 448
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a8b70da678c8d60800000000000000
+      internalID: 7893833139707677204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 386
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6496f8d69baf380d0800000000000000
+      internalID: -3421615617557436090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92f84dfaf753a710800000000000000
+      internalID: 1703301819579036316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 365
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f268e43a2975e78d0800000000000000
+      internalID: -2846741627134900689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697791c0d03d73210800000000000000
+      internalID: 1312749869392820118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 376
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb202dff420d3b6f0800000000000000
+      internalID: -669963062218718532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad07f5d62ff70d4f0800000000000000
+      internalID: -806003654105534246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 358
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a1ecef8647c450800000000000000
+      internalID: 6108929003519845570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 347
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab4e61eda4a70ab0800000000000000
+      internalID: -5041880191099581532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 358
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6518253da1fff7f00800000000000000
+      internalID: 1116891723290804566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 366
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d751692292a44e900800000000000000
+      internalID: 712776181565756797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259d1bd91a60d9e80800000000000000
+      internalID: -8170366857775031982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5be797db876851e0800000000000000
+      internalID: -2208901766910055589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05022ec163c23a1b0800000000000000
+      internalID: -5646620896868032432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 358
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cb3b62e036d1830800000000000000
+      internalID: 4043496952878578841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 273
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850cf77896308ca60800000000000000
+      internalID: 7694403715142238296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 354
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0af1fbde8da1d10800000000000000
+      internalID: 2097227092119756984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 319
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03167a0897920460800000000000000
+      internalID: 7206489033012548363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 348
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b4e3b704ee15b0800000000000000
+      internalID: -5395624581809261077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a42d450ad2091b70800000000000000
+      internalID: 8870124076497970336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 338
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25a4a9ccf90d6b0800000000000000
+      internalID: -5273539462540143909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 336
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d1470064f79490800000000000000
+      internalID: -7739448741337115458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 340
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f68d89732f02cb30800000000000000
+      internalID: 4306020838757205744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0392d489c25b00800000000000000
+      internalID: 815936054813200329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 328
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e295ae69b2d3ed0800000000000000
+      internalID: -2432740296533397886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f323716bf2a7540800000000000000
+      internalID: 5006366394895449922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 328
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf8348a8505a5a40800000000000000
+      internalID: 5357683048420970433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 328
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685ee95165672d3a0800000000000000
+      internalID: -6642116388316060282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 329
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0ad2614977f2e0800000000000000
+      internalID: -2092070180152013155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_45
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 323
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f56844bae6d2b00800000000000000
+      internalID: 805421590237306698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 327
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66245a3cb25727b0800000000000000
+      internalID: -5249135872291101078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 317
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13177b2fe31621360800000000000000
+      internalID: 7138875282323632433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 293
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c23316d3738270800000000000000
+      internalID: 8251566305555170876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a166f95fc86a0790800000000000000
+      internalID: -7563117384438488665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 303
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033c72e6fc8b79b50800000000000000
+      internalID: 6599946979980591920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4972ab1d44f1790800000000000000
+      internalID: -7557245982142393178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 308
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed0a4c4174d8510800000000000000
+      internalID: 1552975601036484127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 306
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f315faf6d8a0c0800000000000000
+      internalID: -4564161848998103678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 311
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8889334eed0a5a0800000000000000
+      internalID: -6511959989478192940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 269
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3ff3bb23398190800000000000000
+      internalID: -7959774603604181676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed5831bd0feb220800000000000000
+      internalID: 2503703266580618780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_57
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 309
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c1240a1abae8240800000000000000
+      internalID: 4795959363862928411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_58
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 258
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615c7b2bef699f280800000000000000
+      internalID: -9009003558913719018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30465b24e4b644b0800000000000000
+      internalID: -5456475006440161219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 291
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0508356800be70800000000000000
+      internalID: 9128805675504569595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 267
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6381cd532fce240800000000000000
+      internalID: 4822495614146721502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 211
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12af240162b716a40800000000000000
+      internalID: 5359700434959399457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 245
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a3d7f1db22a3a0800000000000000
+      internalID: -6655709118494169045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 289
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426d17e38de48e300800000000000000
+      internalID: 281561667378206244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_65
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d663e83eb15030800000000000000
+      internalID: 3481773138476717708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964ff1cdb154d590800000000000000
+      internalID: -7650399991550228838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b91815feaf92440800000000000000
+      internalID: 4911732774395812655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_68
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 279
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22289725371eabef0800000000000000
+      internalID: -91512956986490334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037121eba86421a30800000000000000
+      internalID: 4184484565488899888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 254
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99a0f72557c4e000800000000000000
+      internalID: 64395463246260638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5bfcc11e0bcb740800000000000000
+      internalID: 5169200953211991538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 187
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f099730bbc37e570800000000000000
+      internalID: 8495825995972579569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 271
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e84cd2dac9c2e0800000000000000
+      internalID: -2104928343831289282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_74
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 235
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a07ff47b66765c0800000000000000
+      internalID: -4222293188129912179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 237
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74354aed5c20e40d0800000000000000
+      internalID: -3436806416769985721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7087ed3c9d50768d0800000000000000
+      internalID: -2853305406063740921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 246
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be304126e202488d0800000000000000
+      internalID: -2845113681005247509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_78
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 225
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536921b6a25620030800000000000000
+      internalID: 3459438696633374261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_79
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 266
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369511acbe93ada0800000000000000
+      internalID: -5934725350950595010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_80
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 275
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f179f3e5957dd70800000000000000
+      internalID: 9067814636062449538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_81
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 226
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba666a8178d108e0800000000000000
+      internalID: -1728862799768687939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_82
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734a1040e61aadde0800000000000000
+      internalID: -1307555247912016841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 233
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b41f4fcd704c1050800000000000000
+      internalID: 5772559731475289266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 177
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4441e040980bbf5d0800000000000000
+      internalID: -3027632221951486908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_85
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 203
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a3362e2aa8d320800000000000000
+      internalID: 2583001501483115735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_86
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638742611e268cf90800000000000000
+      internalID: -6933182907458226122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_87
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 203
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82e5349a2d159ee0800000000000000
+      internalID: -1255064852440423795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_88
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1cd5e58f9ba8f80800000000000000
+      internalID: -8103460103113555550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a46eb8047964fe0800000000000000
+      internalID: -1205109546794202552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 189
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a222e6045975b80800000000000000
+      internalID: -8406086075505563057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_91
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 212
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390d77c00a9ed230800000000000000
+      internalID: 3665536474863700274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_92
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 183
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc3df5963bb82fd0800000000000000
+      internalID: -2366435761064166219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_93
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 204
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f15baed893aed30800000000000000
+      internalID: 4461441662554808065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_94
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 162
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde910f945ba45c0800000000000000
+      internalID: -4230369570795688520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_95
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605680ee020d8c640800000000000000
+      internalID: 5100555417848145158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_96
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 188
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02477f4d33b71ad20800000000000000
+      internalID: 3288044665503708192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_97
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc4792a078771e70800000000000000
+      internalID: 9085863198402759863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_98
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba34c014f352d1950800000000000000
+      internalID: 6421329597304685483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_99
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff000b7105586c50800000000000000
+      internalID: 6658665513914208247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 175
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9795545708e674db0800000000000000
+      internalID: -4807752579192366727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_101
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 177
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b431af390a31260800000000000000
+      internalID: 7067168797690645400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857ffc83a66383330800000000000000
+      internalID: 3690759724477708120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_103
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa19257749dbe40800000000000000
+      internalID: 5673854345763990042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_104
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 168
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4554b2f5d1e2bece0800000000000000
+      internalID: -1374954557545953964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_105
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8ce9e3f4b37f60800000000000000
+      internalID: 8030961520226373042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_106
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 161
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a034e59bfde8f020800000000000000
+      internalID: 2375910468245270694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_107
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e8754209c6f9f0800000000000000
+      internalID: -434939302402005651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_108
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 156
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e28e1ea6f9e80f0800000000000000
+      internalID: -1112776776508494242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_109
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a889f0e9e2e5fc0800000000000000
+      internalID: -3504312203646301605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_110
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab440e5f0da43d0800000000000000
+      internalID: -3221532828982003190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_111
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 161
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d780b0d107614880800000000000000
+      internalID: -8628502153571301421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_112
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880c134369410d10800000000000000
+      internalID: 2090032392753121422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_113
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 142
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4660fcead335ac90800000000000000
+      internalID: -7159259017264470452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 147
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a58f5f3d456750800000000000000
+      internalID: 6297524588528379600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_115
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7183d6c135e9340800000000000000
+      internalID: 4872423228418037753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_116
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 146
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4731e92a23a0dd4b0800000000000000
+      internalID: -5414159964436556940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_117
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 144
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fcef017c90c7840800000000000000
+      internalID: 5223060418431209313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_118
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 137
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc7747c1947e52b0800000000000000
+      internalID: -5593905517685146420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 137
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e2c603f571a930800000000000000
+      internalID: 4152730018063246092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_120
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10628908f53a132d0800000000000000
+      internalID: -3300677421311187455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_121
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27168cb7d3469f800800000000000000
+      internalID: 646658236736889202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_122
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb99725470bb5e1f0800000000000000
+      internalID: -1016200501002790468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_123
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b82d486f017bd0800000000000000
+      internalID: -2634307366389500297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_124
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 123
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d196ba4863b59ff0800000000000000
+      internalID: -29920561996590633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 118
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d3028f13be75080800000000000000
+      internalID: -9198625114032161446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_126
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 134
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834ebae467fbca30800000000000000
+      internalID: 4236751887279211407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_127
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39176f03be7ca7d60800000000000000
+      internalID: 7888837510245544339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_128
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 123
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1a1ee08d64cda0800000000000000
+      internalID: -5925490809194800041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_129
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 127
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d29573e84553160800000000000000
+      internalID: 7004597765235355004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_130
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0188fc6237fc8d340800000000000000
+      internalID: 4888885488989997072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_131
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 118
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65647c1f8131eae0800000000000000
+      internalID: -1521880708347042454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_132
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 121
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9649b6313f44e30800000000000000
+      internalID: 4486978393502673317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 105
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73547927a51fcf20800000000000000
+      internalID: 3444996047660929914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_134
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecee5ab28dcb0360800000000000000
+      internalID: 7137023995854908645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_135
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602a6c203ddd62c90800000000000000
+      internalID: -7194819456323378682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_136
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1146d048b0149aab0800000000000000
+      internalID: -4996390793874938863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_137
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 84
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb055c1d2d38a7360800000000000000
+      internalID: 7168186698399305919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_138
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b5d98643771ee0800000000000000
+      internalID: -1290436021420967639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 95
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d27e36cd4f820d0800000000000000
+      internalID: -3447236287346037485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_140
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 96
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b27e6d5c2c7e510800000000000000
+      internalID: 1578444349386468123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_141
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfae3ca6995d780800000000000000
+      internalID: -8658846024717370452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_142
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 82
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced33b81d12239b10800000000000000
+      internalID: 1986969368964316652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_143
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa99a73b73ebd0d90800000000000000
+      internalID: -7129833488613992022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87dcfa9996c32b0800000000000000
+      internalID: -5603487727555348310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_145
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21eeb950c18a4d90800000000000000
+      internalID: -7112729998338891474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splatter_light_146
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 42
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acdd4bbf2bda5270800000000000000
+      internalID: 8240139466280131748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      splatter_light_0: -5220786048933948392
+      splatter_light_1: -5785297132736315586
+      splatter_light_10: 5914591508950735644
+      splatter_light_100: -4807752579192366727
+      splatter_light_101: 7067168797690645400
+      splatter_light_102: 3690759724477708120
+      splatter_light_103: 5673854345763990042
+      splatter_light_104: -1374954557545953964
+      splatter_light_105: 8030961520226373042
+      splatter_light_106: 2375910468245270694
+      splatter_light_107: -434939302402005651
+      splatter_light_108: -1112776776508494242
+      splatter_light_109: -3504312203646301605
+      splatter_light_11: -1769761212464003589
+      splatter_light_110: -3221532828982003190
+      splatter_light_111: -8628502153571301421
+      splatter_light_112: 2090032392753121422
+      splatter_light_113: -7159259017264470452
+      splatter_light_114: 6297524588528379600
+      splatter_light_115: 4872423228418037753
+      splatter_light_116: -5414159964436556940
+      splatter_light_117: 5223060418431209313
+      splatter_light_118: -5593905517685146420
+      splatter_light_119: 4152730018063246092
+      splatter_light_12: -7754916450997586817
+      splatter_light_120: -3300677421311187455
+      splatter_light_121: 646658236736889202
+      splatter_light_122: -1016200501002790468
+      splatter_light_123: -2634307366389500297
+      splatter_light_124: -29920561996590633
+      splatter_light_125: -9198625114032161446
+      splatter_light_126: 4236751887279211407
+      splatter_light_127: 7888837510245544339
+      splatter_light_128: -5925490809194800041
+      splatter_light_129: 7004597765235355004
+      splatter_light_13: 24654448059392000
+      splatter_light_130: 4888885488989997072
+      splatter_light_131: -1521880708347042454
+      splatter_light_132: 4486978393502673317
+      splatter_light_133: 3444996047660929914
+      splatter_light_134: 7137023995854908645
+      splatter_light_135: -7194819456323378682
+      splatter_light_136: -4996390793874938863
+      splatter_light_137: 7168186698399305919
+      splatter_light_138: -1290436021420967639
+      splatter_light_139: -3447236287346037485
+      splatter_light_14: -3882511219242838444
+      splatter_light_140: 1578444349386468123
+      splatter_light_141: -8658846024717370452
+      splatter_light_142: 1986969368964316652
+      splatter_light_143: -7129833488613992022
+      splatter_light_144: -5603487727555348310
+      splatter_light_145: -7112729998338891474
+      splatter_light_146: 8240139466280131748
+      splatter_light_15: 7460870990868889649
+      splatter_light_16: 7893833139707677204
+      splatter_light_17: -3421615617557436090
+      splatter_light_18: 1703301819579036316
+      splatter_light_19: -2846741627134900689
+      splatter_light_2: -3425426662575911212
+      splatter_light_20: 1312749869392820118
+      splatter_light_21: -669963062218718532
+      splatter_light_22: -806003654105534246
+      splatter_light_23: 6108929003519845570
+      splatter_light_24: -5041880191099581532
+      splatter_light_25: 1116891723290804566
+      splatter_light_26: 712776181565756797
+      splatter_light_27: -8170366857775031982
+      splatter_light_28: -2208901766910055589
+      splatter_light_29: -5646620896868032432
+      splatter_light_3: 1827930249593529570
+      splatter_light_30: 4043496952878578841
+      splatter_light_31: 7694403715142238296
+      splatter_light_32: 2097227092119756984
+      splatter_light_33: 7206489033012548363
+      splatter_light_34: -5395624581809261077
+      splatter_light_35: 8870124076497970336
+      splatter_light_36: -5273539462540143909
+      splatter_light_37: -7739448741337115458
+      splatter_light_38: 4306020838757205744
+      splatter_light_39: 815936054813200329
+      splatter_light_4: -4872536423940159002
+      splatter_light_40: -2432740296533397886
+      splatter_light_41: 5006366394895449922
+      splatter_light_42: 5357683048420970433
+      splatter_light_43: -6642116388316060282
+      splatter_light_44: -2092070180152013155
+      splatter_light_45: 805421590237306698
+      splatter_light_46: -5249135872291101078
+      splatter_light_47: 7138875282323632433
+      splatter_light_48: 8251566305555170876
+      splatter_light_49: -7563117384438488665
+      splatter_light_5: 602632884424484943
+      splatter_light_50: 6599946979980591920
+      splatter_light_51: -7557245982142393178
+      splatter_light_52: 1552975601036484127
+      splatter_light_53: -4564161848998103678
+      splatter_light_54: -6511959989478192940
+      splatter_light_55: -7959774603604181676
+      splatter_light_56: 2503703266580618780
+      splatter_light_57: 4795959363862928411
+      splatter_light_58: -9009003558913719018
+      splatter_light_59: -5456475006440161219
+      splatter_light_6: 2401785852995965468
+      splatter_light_60: 9128805675504569595
+      splatter_light_61: 4822495614146721502
+      splatter_light_62: 5359700434959399457
+      splatter_light_63: -6655709118494169045
+      splatter_light_64: 281561667378206244
+      splatter_light_65: 3481773138476717708
+      splatter_light_66: -7650399991550228838
+      splatter_light_67: 4911732774395812655
+      splatter_light_68: -91512956986490334
+      splatter_light_69: 4184484565488899888
+      splatter_light_7: 1874790432437917056
+      splatter_light_70: 64395463246260638
+      splatter_light_71: 5169200953211991538
+      splatter_light_72: 8495825995972579569
+      splatter_light_73: -2104928343831289282
+      splatter_light_74: -4222293188129912179
+      splatter_light_75: -3436806416769985721
+      splatter_light_76: -2853305406063740921
+      splatter_light_77: -2845113681005247509
+      splatter_light_78: 3459438696633374261
+      splatter_light_79: -5934725350950595010
+      splatter_light_8: 9017858413083857632
+      splatter_light_80: 9067814636062449538
+      splatter_light_81: -1728862799768687939
+      splatter_light_82: -1307555247912016841
+      splatter_light_83: 5772559731475289266
+      splatter_light_84: -3027632221951486908
+      splatter_light_85: 2583001501483115735
+      splatter_light_86: -6933182907458226122
+      splatter_light_87: -1255064852440423795
+      splatter_light_88: -8103460103113555550
+      splatter_light_89: -1205109546794202552
+      splatter_light_9: 8714117287912567865
+      splatter_light_90: -8406086075505563057
+      splatter_light_91: 3665536474863700274
+      splatter_light_92: -2366435761064166219
+      splatter_light_93: 4461441662554808065
+      splatter_light_94: -4230369570795688520
+      splatter_light_95: 5100555417848145158
+      splatter_light_96: 3288044665503708192
+      splatter_light_97: 9085863198402759863
+      splatter_light_98: 6421329597304685483
+      splatter_light_99: 6658665513914208247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

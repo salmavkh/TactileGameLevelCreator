@@ -408,7 +408,8 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
+  cameraUsageDescription: 'This app uses the camera to capture physical objects for
+    gameplay. '
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
