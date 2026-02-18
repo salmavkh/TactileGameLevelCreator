@@ -77,3 +77,4 @@ Thumbs.db
 Desktop.ini
 .vscode/
 .idea/
+mono_crash.mem.*.blob
