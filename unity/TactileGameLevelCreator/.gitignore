@@ -78,3 +78,4 @@ Desktop.ini
 .vscode/
 .idea/
 mono_crash.mem.*.blob
+mono_crash.*.json

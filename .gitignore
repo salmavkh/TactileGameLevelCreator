@@ -11,6 +11,7 @@ Logs/
 Temp/
 UserSettings/
 mono_crash.mem.*.blob
+mono_crash.*.json
 
 # Segmentation pipeline artifacts
 segmentation/models/*.pt
