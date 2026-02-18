@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """
-FastSAM -> Unity outputs (no SAM2).
+FastSAM segmentation pipeline for Unity (primary TGLC pipeline).
 
 pip install ultralytics opencv-python pillow numpy
 
 CLI:
-  python process_img_for_unity.py --in "/path/captured.png" --out "/path/run_dir"
+  python fastsam_segmentation_for_unity.py --in "/path/captured.png" --out "/path/run_dir"
 
 Writes (in OUT_DIR):
   - objects_mask.png            (union mask of kept masks, 255=object)
   - objects_only_rgba.png       (objects with transparent background)
   - overlay.png                 (mask overlay on original)
   - objects_contour.json        (polygons in pixel coords; exported per kept mask)
+  - debug_keep_drop.png         (optional debug: kept=green, dropped=red)
 """
 
 from __future__ import annotations

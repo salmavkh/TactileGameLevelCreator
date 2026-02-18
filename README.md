@@ -5,7 +5,7 @@ Unity game project plus a local FastSAM segmentation pipeline used during captur
 ## Repo Layout
 
 - `unity/TactileGameLevelCreator/`: Unity project root (`Assets/`, `Packages/`, `ProjectSettings/`).
-- `segmentation/process_img_for_unity.py`: FastSAM entry script called by Unity.
+- `segmentation/fastsam_segmentation_for_unity.py`: FastSAM entry script called by Unity.
 - `segmentation/models/`: place FastSAM weights here (not committed).
 - `segmentation/archive/`: older script variants kept for reference.
 
@@ -34,7 +34,7 @@ The script expects weights at `./models/FastSAM-x.pt` relative to `segmentation/
 In `unity/TactileGameLevelCreator/Assets/Scenes/Capture.unity`, defaults now point to:
 
 - `.../segmentation/.venv/bin/python`
-- `.../segmentation/process_img_for_unity.py`
+- `.../segmentation/fastsam_segmentation_for_unity.py`
 
 If your machine paths differ, update those two fields in the Unity Inspector.
 

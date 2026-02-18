@@ -1367,7 +1367,7 @@ MonoBehaviour:
   pythonExePath: /Users/salmavkh/ubc26/fourth year/Work Study/Tactile Game Level
     Creator/unity/TactileGameLevelCreator/segmentation/.venv/bin/python
   segmenterScriptPath: /Users/salmavkh/ubc26/fourth year/Work Study/Tactile Game
-    Level Creator/unity/TactileGameLevelCreator/segmentation/process_img_for_unity.py
+    Level Creator/unity/TactileGameLevelCreator/segmentation/fastsam_segmentation_for_unity.py
 --- !u!1 &1830385628
 GameObject:
   m_ObjectHideFlags: 0

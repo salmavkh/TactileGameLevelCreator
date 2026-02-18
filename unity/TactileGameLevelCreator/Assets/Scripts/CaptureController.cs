@@ -21,7 +21,7 @@ public class CaptureController : MonoBehaviour
     [Tooltip("Full path to venv python. Example: /Users/you/.../segmentation/.venv/bin/python")]
     public string pythonExePath;
 
-    [Tooltip("Full path to your script. Example: /Users/you/.../segmentation/process_img_for_unity.py")]
+    [Tooltip("Full path to your script. Example: /Users/you/.../segmentation/fastsam_segmentation_for_unity.py")]
     public string segmenterScriptPath;
 
     WebCamTexture webcamTex;
