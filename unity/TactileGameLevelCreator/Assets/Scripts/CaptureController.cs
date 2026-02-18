@@ -18,10 +18,10 @@ public class CaptureController : MonoBehaviour
     public string preferredCameraKeyword = "USB";
 
     [Header("Segmenter Script")]
-    [Tooltip("Full path to venv python. Example: /Users/you/.../sam2/run_sam2/venv/bin/python")]
+    [Tooltip("Full path to venv python. Example: /Users/you/.../segmentation/.venv/bin/python")]
     public string pythonExePath;
 
-    [Tooltip("Full path to your script. Example: /Users/you/.../sam2/run_sam2/process_img_for_unity.py")]
+    [Tooltip("Full path to your script. Example: /Users/you/.../segmentation/fastsam_segmentation_for_unity.py")]
     public string segmenterScriptPath;
 
     WebCamTexture webcamTex;
@@ -144,13 +144,13 @@ public class CaptureController : MonoBehaviour
         File.WriteAllBytes(inputPath, capturedFrame.EncodeToPNG());
         Debug.Log("Saved captured image: " + inputPath);
 
-        // 3) Run SAM2 python
+        // 3) Run segmentation python
         RunPythonSegmenter(inputPath, runDir);
     }
 
     void RunPythonSegmenter(string inputPath, string outDir)
     {
-        string workDir = Path.GetDirectoryName(segmenterScriptPath); // run_sam2 folder
+        string workDir = Path.GetDirectoryName(segmenterScriptPath); // segmentation folder
 
         var psi = new System.Diagnostics.ProcessStartInfo
         {
@@ -226,4 +226,3 @@ public class CaptureController : MonoBehaviour
             webcamTex.Stop();
     }
 }
-
