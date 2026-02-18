@@ -10,11 +10,11 @@ Demo video: https://drive.google.com/file/d/1St-wbC0KPDumuw-_we3f-Gaty572lLuQ/vi
 
 ![TGLC Pipeline](./images/tglc_pipeline.png)
 
-1.	Capture (webcam): you take a photo of the physical tabletop layout.
-2.	Segmentation + filtering: the perception step isolates the objects and extracts clean contours. It also produces session artifacts like an object-only RGBA (visual layer), a contour JSON (geometry layer), and planned spawn positions.
-3.	Unity build: Unity consumes the contours/JSON to build the platform geometry and generate one-way edge colliders.
-4.	Customize & preview: the system uses the same geometry plus the planned spawns so users can adjust visuals/gameplay and preview placement.
-5.	Gameplay runtime: Unity instantiates the final level from those artifacts and runs the playable scene.
+1.	**Capture (webcam):** you take a photo of the physical tabletop layout.
+2.	**Segmentation + filtering:** the perception step isolates the objects and extracts clean contours. It also produces session artifacts like an object-only RGBA (visual layer), a contour JSON (geometry layer), and planned spawn positions.
+3.	**Unity build:** Unity consumes the contours/JSON to build the platform geometry and generate one-way edge colliders.
+4.	**Customize & preview:** the system uses the same geometry plus the planned spawns so users can adjust visuals/gameplay and preview placement.
+5.	**Gameplay runtime:** Unity instantiates the final level from those artifacts and runs the playable scene.
 
 
 ## Repository Layout
