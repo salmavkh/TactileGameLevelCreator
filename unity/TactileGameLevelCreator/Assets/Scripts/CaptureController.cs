@@ -24,6 +24,10 @@ public class CaptureController : MonoBehaviour
     [Tooltip("Full path to your script. Example: /Users/you/.../segmentation/fastsam_segmentation_for_unity.py")]
     public string segmenterScriptPath;
 
+    [Header("Packaged Segmenter (Player Builds)")]
+    [Tooltip("Relative path from app root. Mac example: segmentation/segmenter/segmenter")]
+    public string packagedSegmenterRelativePath = "segmentation/segmenter/segmenter";
+
     WebCamTexture webcamTex;
     Texture2D capturedFrame;
 
@@ -126,12 +130,6 @@ public class CaptureController : MonoBehaviour
             return;
         }
 
-        if (string.IsNullOrWhiteSpace(pythonExePath) || string.IsNullOrWhiteSpace(segmenterScriptPath))
-        {
-            Debug.LogError("pythonExePath or segmenterScriptPath not set in Inspector.");
-            return;
-        }
-
         // 1) Create run folder
         string runDir = Path.Combine(
             Application.persistentDataPath,
@@ -144,26 +142,92 @@ public class CaptureController : MonoBehaviour
         File.WriteAllBytes(inputPath, capturedFrame.EncodeToPNG());
         Debug.Log("Saved captured image: " + inputPath);
 
-        // 3) Run segmentation python
-        RunPythonSegmenter(inputPath, runDir);
+        // 3) Run segmentation
+        RunSegmenter(inputPath, runDir);
     }
 
-    void RunPythonSegmenter(string inputPath, string outDir)
+    bool TryGetPackagedSegmenterPath(out string segmenterPath)
     {
-        string workDir = Path.GetDirectoryName(segmenterScriptPath); // segmentation folder
+        segmenterPath = null;
 
-        var psi = new System.Diagnostics.ProcessStartInfo
+        if (string.IsNullOrWhiteSpace(packagedSegmenterRelativePath))
+            return false;
+
+        // Windows: app root is parent of *_Data.
+        // macOS: Application.dataPath is inside .app/Contents, so go up one more to folder containing .app.
+        string appRoot = Path.GetDirectoryName(Application.dataPath);
+        if (Application.platform == RuntimePlatform.OSXPlayer)
+            appRoot = Path.GetDirectoryName(appRoot);
+
+        if (string.IsNullOrWhiteSpace(appRoot))
+            return false;
+
+        string rel = packagedSegmenterRelativePath
+            .Replace('\\', Path.DirectorySeparatorChar)
+            .Replace('/', Path.DirectorySeparatorChar);
+
+        string full = Path.GetFullPath(Path.Combine(appRoot, rel));
+
+        if (Application.platform == RuntimePlatform.WindowsPlayer &&
+            string.IsNullOrEmpty(Path.GetExtension(full)))
+        {
+            full += ".exe";
+        }
+
+        if (!File.Exists(full))
+            return false;
+
+        segmenterPath = full;
+        return true;
+    }
+
+    bool TryBuildProcessStartInfo(string inputPath, string outDir, out ProcessStartInfo psi)
+    {
+        psi = null;
+
+        // Prefer packaged binary in player builds.
+        if (!Application.isEditor && TryGetPackagedSegmenterPath(out string packagedPath))
+        {
+            psi = new ProcessStartInfo
+            {
+                FileName = packagedPath,
+                Arguments = $"--in \"{inputPath}\" --out \"{outDir}\"",
+                WorkingDirectory = Path.GetDirectoryName(packagedPath),
+                UseShellExecute = false,
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                CreateNoWindow = true
+            };
+            return true;
+        }
+
+        // Editor fallback: python + script from inspector.
+        if (string.IsNullOrWhiteSpace(pythonExePath) || string.IsNullOrWhiteSpace(segmenterScriptPath))
+        {
+            Debug.LogError("Segmenter not configured. In Editor set pythonExePath + segmenterScriptPath. In player builds package segmentation/segmenter next to the app.");
+            return false;
+        }
+
+        string workDir = Path.GetDirectoryName(segmenterScriptPath);
+        psi = new ProcessStartInfo
         {
             FileName = pythonExePath,
             Arguments = $"\"{segmenterScriptPath}\" --in \"{inputPath}\" --out \"{outDir}\"",
-            WorkingDirectory = workDir,               // IMPORTANT
+            WorkingDirectory = workDir,
             UseShellExecute = false,
             RedirectStandardOutput = true,
             RedirectStandardError = true,
             CreateNoWindow = true
         };
+        return true;
+    }
 
-        Debug.Log("Running python:\n" + psi.FileName + " " + psi.Arguments + "\nWD=" + psi.WorkingDirectory);
+    void RunSegmenter(string inputPath, string outDir)
+    {
+        if (!TryBuildProcessStartInfo(inputPath, outDir, out ProcessStartInfo psi))
+            return;
+
+        Debug.Log("Running segmenter:\n" + psi.FileName + " " + psi.Arguments + "\nWD=" + psi.WorkingDirectory);
 
         try
         {
@@ -173,7 +237,7 @@ public class CaptureController : MonoBehaviour
                 string stderr = proc.StandardError.ReadToEnd();
                 proc.WaitForExit();
 
-                Debug.Log("Python exit code: " + proc.ExitCode);
+                Debug.Log("Segmenter exit code: " + proc.ExitCode);
 
                 if (!string.IsNullOrEmpty(stdout))
                     Debug.Log("[PYTHON OUT]\n" + stdout);
@@ -188,7 +252,7 @@ public class CaptureController : MonoBehaviour
 
                 if (proc.ExitCode != 0)
                 {
-                    Debug.LogError("Python failed. See stderr above.");
+                    Debug.LogError("Segmenter failed. See stderr above.");
                     return;
                 }
 
@@ -196,7 +260,7 @@ public class CaptureController : MonoBehaviour
         }
         catch (System.Exception ex)
         {
-            Debug.LogError("Failed to run Python: " + ex.Message);
+            Debug.LogError("Failed to run segmenter: " + ex.Message);
             return;
         }
 

@@ -13,6 +13,10 @@ public class ObstacleSpawner : MonoBehaviour
     [Header("Obstacle prefab (assign in Inspector)")]
     public GameObject obstaclePrefab;
 
+    [Header("Render Order")]
+    public string obstacleSortingLayerName = "Obstacles";
+    public int obstacleSortingOrder = -1;
+
     [Header("Placement")]
     public float yOffset = 0.22f;
     public float minEdgeWidthWorld = 0.5f;
@@ -68,13 +72,8 @@ public class ObstacleSpawner : MonoBehaviour
             var go = Instantiate(obstaclePrefab, world, Quaternion.identity, obstacleRoot);
             spawned++;
 
-            var sr = go.GetComponentInChildren<SpriteRenderer>();
-            sr.gameObject.tag = "Obstacle";
-            if (sr != null)
-            {
-                sr.sortingLayerName = "Obstacles";
-                sr.sortingOrder = -1;
-            }
+            ApplySortingToAllSprites(go, obstacleSortingLayerName, obstacleSortingOrder);
+            go.tag = "Obstacle";
 
         }
 
@@ -194,6 +193,33 @@ public class ObstacleSpawner : MonoBehaviour
         for (int i = 0; i < occupied.Count; i++)
         {
             if ((occupied[i] - p).sqrMagnitude < minSep2)
+                return true;
+        }
+        return false;
+    }
+
+    void ApplySortingToAllSprites(GameObject root, string requestedLayer, int order)
+    {
+        if (root == null) return;
+
+        string layer = SortingLayerExists(requestedLayer) ? requestedLayer : "Default";
+        if (layer != requestedLayer)
+            Debug.LogWarning($"ObstacleSpawner: Sorting layer '{requestedLayer}' not found. Falling back to 'Default'.");
+
+        var renderers = root.GetComponentsInChildren<SpriteRenderer>(true);
+        foreach (var sr in renderers)
+        {
+            sr.sortingLayerName = layer;
+            sr.sortingOrder = order;
+            sr.gameObject.tag = "Obstacle";
+        }
+    }
+
+    bool SortingLayerExists(string layerName)
+    {
+        foreach (var layer in SortingLayer.layers)
+        {
+            if (layer.name == layerName)
                 return true;
         }
         return false;

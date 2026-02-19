@@ -29,7 +29,7 @@ from ultralytics import FastSAM
 # === USER SETTINGS (edit) ===
 # ============================
 
-FASTSAM_WEIGHTS = Path("./models/FastSAM-x.pt")
+FASTSAM_WEIGHTS = Path("./models/FastSAM-s.pt")
 
 IMGSZ = 768
 CONF  = 0.4

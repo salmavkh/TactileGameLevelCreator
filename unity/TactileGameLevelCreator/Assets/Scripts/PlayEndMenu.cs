@@ -37,7 +37,11 @@ public class PlayEndMenu : MonoBehaviour
         shown = true;
 
         if (titleText != null) titleText.text = title;
-        if (endOverlay != null) endOverlay.SetActive(true);
+        if (endOverlay != null)
+        {
+            endOverlay.transform.SetAsLastSibling();
+            endOverlay.SetActive(true);
+        }
 
         // Freeze the game on BOTH win and lose (recommended for menu usability)
         Time.timeScale = 0f;

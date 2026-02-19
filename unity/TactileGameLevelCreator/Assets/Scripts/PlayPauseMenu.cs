@@ -40,7 +40,10 @@ public class PlayPauseMenu : MonoBehaviour
         Time.timeScale = 0f;
 
         if (pauseOverlay != null)
+        {
+            pauseOverlay.transform.SetAsLastSibling();
             pauseOverlay.SetActive(true);
+        }
     }
 
     public void Resume()

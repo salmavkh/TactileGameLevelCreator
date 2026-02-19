@@ -17,6 +17,10 @@ public class ItemSpawner : MonoBehaviour
     [Tooltip("Small jitter along platform (0 = none).")]
     public float alongEdgeJitter = 0.06f;
 
+    [Header("Render Order")]
+    public string itemSortingLayerName = "Default";
+    public int itemSortingOrder = -1;
+
     IEnumerator Start()
     {
         // Wait until PlayBuilder created GroundPieces + pieces
@@ -51,7 +55,8 @@ public class ItemSpawner : MonoBehaviour
         foreach (var p in plan)
         {
             Vector3 world = platformRoot.TransformPoint(p); // p is platform-local
-            Instantiate(prefab, world, Quaternion.identity, itemRoot);
+            var go = Instantiate(prefab, world, Quaternion.identity, itemRoot);
+            ApplySortingToAllSprites(go, itemSortingLayerName, itemSortingOrder);
         }
 
         SessionManager.TargetCollectCount = plan.Count;
@@ -132,5 +137,31 @@ public class ItemSpawner : MonoBehaviour
             maxX = Mathf.Max(maxX, w.x);
         }
         return maxX - minX;
+    }
+
+    void ApplySortingToAllSprites(GameObject root, string requestedLayer, int order)
+    {
+        if (root == null) return;
+
+        string layer = SortingLayerExists(requestedLayer) ? requestedLayer : "Default";
+        if (layer != requestedLayer)
+            Debug.LogWarning($"ItemSpawner: Sorting layer '{requestedLayer}' not found. Falling back to 'Default'.");
+
+        var renderers = root.GetComponentsInChildren<SpriteRenderer>(true);
+        foreach (var sr in renderers)
+        {
+            sr.sortingLayerName = layer;
+            sr.sortingOrder = order;
+        }
+    }
+
+    bool SortingLayerExists(string layerName)
+    {
+        foreach (var layer in SortingLayer.layers)
+        {
+            if (layer.name == layerName)
+                return true;
+        }
+        return false;
     }
 }
