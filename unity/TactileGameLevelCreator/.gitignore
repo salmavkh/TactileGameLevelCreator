@@ -79,3 +79,11 @@ Desktop.ini
 .idea/
 mono_crash.mem.*.blob
 mono_crash.*.json
+
+# Local export/release artifacts
+/TGLC_mac/
+/TGLC_mac.zip
+
+# Temporary local script copies
+/Assets/Scripts/AspectRatioFitterTmp.cs
+/Assets/Scripts/AspectRatioFitterTmp.cs.meta

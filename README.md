@@ -27,7 +27,7 @@ Demo video: https://drive.google.com/file/d/1St-wbC0KPDumuw-_we3f-Gaty572lLuQ/vi
 │   ├── .venv/                                 # local python environment
 │   ├── fastsam_segmentation_for_unity.py
 │   ├── models/
-│   │   ├── FastSAM-x.pt (or FastSAM-s.pt)     # downloaded pretrained weights
+│   │   ├── FastSAM-s.pt (or FastSAM-x.pt)     # downloaded pretrained weights
 │   └── archive/
 │       ├── sam2_segmentation_for_unity.py
 │       └── cv_segmentation_for_unity.py
@@ -43,7 +43,9 @@ Demo video: https://drive.google.com/file/d/1St-wbC0KPDumuw-_we3f-Gaty572lLuQ/vi
 1. Open the Unity project from: `unity/TactileGameLevelCreator`
 2. Create a Python environment in `segmentation/`: `python3 -m venv segmentation/.venv`
 3. Install dependencies: `segmentation/.venv/bin/python -m pip install ultralytics opencv-python pillow numpy`
-4. Download `FastSAM-x.pt` or `FastSAM-s.pt` and place it at: `segmentation/models/`
+4. Download `FastSAM-s.pt` or `FastSAM-x.pt` and place it at: `segmentation/models/`
+   
+   Note: this project currently uses `FastSAM-s.pt` as the default.
    
    FastSAM pretrained weights: https://docs.ultralytics.com/models/fast-sam/#available-models-supported-tasks-and-operating-modes
 
