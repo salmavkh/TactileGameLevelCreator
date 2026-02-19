@@ -19,3 +19,11 @@ segmentation/runs/
 segmentation/run_outputs/
 segmentation/test_run/
 segmentation/.venv/
+
+# Local packaging/release artifacts
+.venv_release/
+build/
+dist/
+segmenter.spec
+TGLC_mac/
+TGLC_mac.zip
